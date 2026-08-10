@@ -24,13 +24,13 @@
   .masthead .private-tag{display:inline-block;margin-top:8px;font-size:11px;color:var(--muted);border:1px solid var(--line);border-radius:20px;padding:2px 10px;letter-spacing:.5px}
   .sec{font-family:Georgia,serif;font-size:20px;margin:30px 0 14px;padding-bottom:8px;border-bottom:2px solid var(--ink);display:flex;align-items:center;gap:8px}
   .card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;margin-bottom:18px;box-shadow:0 1px 3px rgba(0,0,0,.04)}
-  .photo{position:relative;height:150px;background:linear-gradient(135deg,#243b4a,#0b5563);display:flex;align-items:center;justify-content:center}
-  .photo .ph-fallback{font-size:46px}
-  .tag{position:absolute;top:10px;left:10px;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#fff;padding:4px 9px;border-radius:20px;background:rgba(0,0,0,.55)}
+  .photo{position:relative;height:150px;display:flex;align-items:center;justify-content:center}
+  .photo .ph-fallback{font-size:46px;position:relative;z-index:1}
+  .tag{position:absolute;top:10px;left:10px;font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#fff;padding:4px 9px;border-radius:20px;background:rgba(0,0,0,.55);z-index:3}
   .body{padding:16px 18px 18px}
   .body h3{font-family:Georgia,serif;font-size:18px;line-height:1.3;margin-bottom:8px}
   .body p{font-size:14.5px;color:#333;margin-bottom:10px}
-  .src{margin-top:4px;font-size:11.5px}
+  .src{margin-top:4px;font-size:11.5px;color:var(--muted)}
   .src a{color:var(--accent);text-decoration:none}
   .wim{border-left:4px solid #c9a24b;background:#faf6ec;padding:10px 14px;margin-top:10px;border-radius:4px}
   .wim strong{color:#c9a24b;font-size:12px;text-transform:uppercase;letter-spacing:.8px;display:block;margin-bottom:4px}
@@ -53,50 +53,54 @@
   <div class="sec">🌍 World</div>
 
   <div class="card">
-    <div class="photo" style="background:linear-gradient(135deg,#3a1a0a,#7a2b12)">
-      <span class="ph-fallback" style="display:block">🛢️</span>
-      <span class="tag" style="background:var(--world)">Update: Hormuz &mdash; Trump Pivots</span>
+    <div class="photo" style="background:linear-gradient(135deg,#2a1a08,#6a3a10)">
+      <span class="ph-fallback">🌋</span>
+      <img src="https://loremflickr.com/800/450/earthquake,rubble,disaster?lock=15" loading="lazy" referrerpolicy="no-referrer" alt="Magnitude 7.4 earthquake strikes Colombia" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
+      <span class="tag" style="background:#8a1f1f">Breaking &mdash; Colombia Quake</span>
     </div>
     <div class="body">
-      <h3>Update: Trump signals economic pressure over military force on Iran &mdash; &ldquo;semi-negotiating&rdquo; &mdash; as 55 vessels redirected and Strait traffic collapses to 4 ships/day</h3>
-      <p>In the most significant US strategy shift yet in the 23-week Iran war, President Trump signalled on August 10 that he would rely on economic pressure rather than renewed military action, telling reporters the US was only &ldquo;semi-negotiating&rdquo; with Tehran on the Strait of Hormuz. US CENTCOM has now redirected 55 commercial vessels under its naval blockade, up from 35 a week earlier. Strait transit has collapsed to roughly 4 ships per day versus ~90 during the same week of 2025. Iranian crude exports are near zero. Brent remains ~$84/bbl; Iran continues to harden demands, including the exclusion of US- and Israeli-flagged vessels from any transit arrangement.</p>
-      <div class="src">Bloomberg &middot; CNBC &middot; Al Jazeera &middot; NBC News &middot; Wikipedia (2026 Hormuz crisis)</div>
-      <div class="wim"><strong>Why it matters to you</strong><p>Trump&rsquo;s pivot to economic pressure reduces the near-term risk of a sudden military escalation that would spike oil past $100. It does not resolve the standoff &mdash; prolonged economic squeeze keeps Brent in the $80s and freight costs elevated. Your Q4 supplier contracts should still carry oil-escalation clauses, but you can now plan around a more stable (if elevated) price band rather than a black-swan spike scenario.</p></div>
+      <h3>Magnitude 7.4 earthquake strikes Colombia&rsquo;s Pacific coast &mdash; at least 111 killed, 87 injured; tremor felt in all 32 departments and in Venezuela</h3>
+      <p>A 7.4-magnitude earthquake struck Colombia&rsquo;s Choc&oacute; province at 7:34 local time (12:34 GMT) on August 10, killing at least 111 people and injuring 87 more. The highest single-city toll was in Pereira (18 deaths); Quibd&oacute;, Buenaventura, and Manizales also suffered casualties and building collapses. The tremor was felt in all 32 Colombian departments and in Venezuela. President Petro declared a national emergency. The US tsunami warning system confirmed no tsunami threat. This is one of the deadliest natural disasters in South America in 2026.</p>
+      <div class="src">CNBC &middot; Rappler &middot; Tico Times &middot; Irish Times &middot; US News</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="photo" style="background:linear-gradient(135deg,#3a1a0a,#7a2b12)">
+      <span class="ph-fallback">🛢️</span>
+      <img src="https://loremflickr.com/800/450/tanker,ship,ocean?lock=1" loading="lazy" referrerpolicy="no-referrer" alt="Iran publishes formal demands before Hormuz reopens" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
+      <span class="tag" style="background:var(--world)">Update: Hormuz &mdash; Iran&rsquo;s Formal Demands</span>
+    </div>
+    <div class="body">
+      <h3>Update: Iran publishes its full demands list before the Strait of Hormuz reopens &mdash; US naval withdrawal, war reparations, sanctions lifted, frozen assets released &mdash; while nearing a lane deal with Oman</h3>
+      <p>Iran&rsquo;s Supreme National Security Council published its formal non-negotiable conditions for reopening the Strait on August 10: the US must lift its naval blockade and all sanctions, withdraw military forces from the region, pay war reparations, and release frozen Iranian assets. Concurrently, Iran says it is &ldquo;nearing a final pact&rdquo; with Oman defining new shipping lanes &mdash; a parallel track that could allow some third-country traffic without meeting US conditions in full. This escalates Tehran&rsquo;s position beyond Trump&rsquo;s &ldquo;semi-negotiating&rdquo; signal from earlier in the day. Brent holds near $84/bbl; 55 vessels remain under US CENTCOM redirection.</p>
+      <div class="src">Japan Times &middot; Washington Times &middot; The Hill &middot; CBS News &middot; CNN</div>
+      <div class="wim"><strong>Why it matters to you</strong><p>Iran&rsquo;s demands are maximalist and unlikely to be met in full. The Oman lane deal is the more realistic near-term path, potentially opening a partial corridor for select non-US/non-Israeli traffic. Plan supplier logistics around an extended partial blockade through Q4; alternative routing costs and cargo insurance premiums are now structural, not temporary &mdash; build them into tender pricing accordingly.</p></div>
     </div>
   </div>
 
   <div class="card">
     <div class="photo" style="background:linear-gradient(135deg,#1a1a3a,#3a3a6a)">
-      <span class="ph-fallback" style="display:block">🤖</span>
+      <span class="ph-fallback">🤖</span>
+      <img src="https://loremflickr.com/800/450/robot,technology,factory?lock=2" loading="lazy" referrerpolicy="no-referrer" alt="US bans humanoid robots and data-centre inverters; China retaliates" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
       <span class="tag" style="background:var(--world)">US&ndash;China &mdash; Robot &amp; Inverter Bans</span>
     </div>
     <div class="body">
       <h3>Washington bans imports of foreign-made humanoid robots and data-centre power inverters; Beijing retaliates with its broadest tech countermeasures since October&rsquo;s truce</h3>
-      <p>The US has banned imports of foreign-manufactured humanoid robots and blocked power inverters used in data centres and solar energy systems, escalating the bilateral tech war weeks before President Xi Jinping&rsquo;s scheduled September summit in Washington. China responded by curbing the flow of Chinese technology to America in what CNBC describes as Beijing &ldquo;replicating Washington&rsquo;s playbook.&rdquo; Al Jazeera notes that America&rsquo;s ability to slow China&rsquo;s robotics and AI rise remains an open strategic question. Both sides are building maximum leverage ahead of the summit; analysts say the available deal space narrows with each escalatory week.</p>
+      <p>The US has banned imports of foreign-manufactured humanoid robots and blocked power inverters used in data centres and solar energy systems, escalating the bilateral tech war weeks before President Xi Jinping&rsquo;s scheduled September summit in Washington. China responded by curbing the flow of Chinese technology to America in what CNBC describes as Beijing &ldquo;replicating Washington&rsquo;s playbook.&rdquo; Both sides are building maximum leverage ahead of the summit; analysts say the available deal space narrows with each escalatory week.</p>
       <div class="src">CNBC &middot; Al Jazeera &middot; CFR &middot; FreightAmigo</div>
     </div>
   </div>
 
   <div class="card">
-    <div class="photo" style="background:linear-gradient(135deg,#0a2a0a,#1a5a1a)">
-      <span class="ph-fallback" style="display:block">📈</span>
-      <span class="tag" style="background:var(--market)">Markets &mdash; Monday Open</span>
-    </div>
-    <div class="body">
-      <h3>US equities near all-time highs; Trump&rsquo;s Iran pivot reduces immediate military risk premium; data-centre inverter ban a new supply-chain watch item</h3>
-      <p>Wall Street opens Monday near record territory: the Nasdaq posted its best weekly performance since April, the S&amp;P 500 held near all-time highs. Trump&rsquo;s economic-over-military Iran signal has marginally reduced the immediate risk of an oil spike, supporting equity risk appetite. The new US ban on data-centre power inverters is a fresh watch item for industrial and data-centre equities exposed to Chinese supply chains; supply-chain workarounds will take weeks to price in. The Fed is expected to hold at the September meeting; market base case remains one cut in Q4 if inflation stays contained.</p>
-      <div class="src">Rio Times Online &middot; CNBC &middot; Trading Economics &middot; Forbes Advisor &middot; Bloomberg</div>
-    </div>
-  </div>
-
-  <div class="card">
     <div class="photo" style="background:linear-gradient(135deg,#1a1a3a,#3a3a6a)">
-      <span class="ph-fallback" style="display:block">🕊️</span>
+      <span class="ph-fallback">🕊️</span>
+      <img src="https://loremflickr.com/800/450/ukraine,military,conflict?lock=3" loading="lazy" referrerpolicy="no-referrer" alt="Russia strikes Ukraine; Netanyahu rejects Gaza roadmap" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
       <span class="tag" style="background:var(--world)">Ukraine &middot; Gaza &middot; Conflicts</span>
     </div>
     <div class="body">
-      <h3>Russia strikes Ukrainian cargo ships overnight; Hamas reaffirms Gaza plan commitment as Netanyahu rejects 15-point framework; May truce unravelling</h3>
-      <p>Russia carried out overnight strikes on Ukrainian cargo ships and residential areas (3 killed in Sumy, 117 of 136 drones intercepted). The May 2026 Russo-Ukrainian truce has effectively unravelled. In Gaza, Hamas reaffirmed its commitment to Phase 2 of Trump&rsquo;s Gaza plan while PM Netanyahu publicly rejected the proposed 15-point framework; Israel&rsquo;s security cabinet met Monday on both Gaza and escalating Iran tensions, with the two files increasingly linked in Israeli strategic calculus.</p>
+      <h3>Russia strikes Ukrainian cargo ships overnight; Netanyahu publicly rejects US-backed Gaza disarmament roadmap; May truce unravelling</h3>
+      <p>Russia carried out overnight strikes on Ukrainian cargo ships and residential areas (3 killed in Sumy, 117 of 136 drones intercepted). The May 2026 Russo-Ukrainian truce has effectively unravelled. In Gaza, PM Netanyahu publicly rejected the &ldquo;Board of Peace&rdquo; Gaza disarmament roadmap &mdash; a sharper repudiation than his earlier rejection of the 15-point framework. Hamas reaffirmed its commitment to Phase 2 of the Trump plan. Israel&rsquo;s security cabinet is meeting on both files simultaneously.</p>
       <div class="src">FDD Overnight Brief &middot; Anadolu Agency &middot; Haaretz &middot; CFR Global Conflict Tracker</div>
     </div>
   </div>
@@ -106,12 +110,13 @@
 
   <div class="card">
     <div class="photo" style="background:linear-gradient(135deg,#5a1a0a,#aa3a0a)">
-      <span class="ph-fallback" style="display:block">🌡️</span>
+      <span class="ph-fallback">🌡️</span>
+      <img src="https://loremflickr.com/800/450/paris,summer,sunshine?lock=5" loading="lazy" referrerpolicy="no-referrer" alt="Paris fifth heatwave of summer 2026" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
       <span class="tag" style="background:var(--france)">France &middot; 5th Heatwave</span>
     </div>
     <div class="body">
       <h3>Paris enters its fifth heatwave of the summer from today &mdash; 33&ndash;35&deg;C in &Icirc;le-de-France; Meteo-France flags possible orange or red alert; solar eclipse on August 12</h3>
-      <p>A strengthening high-pressure system is funnelling very hot air from the Iberian Peninsula into France, pushing Paris to a projected 33&ndash;35&deg;C from Monday August 10 and southern France to 35&ndash;38&deg;C. Meteo-France has not yet issued an official canicule alert but a renewed orange &mdash; possibly red &mdash; warning cannot be ruled out. This is France&rsquo;s fifth distinct heat episode of summer 2026; wildfire and air-quality risks are elevated. A solar eclipse on August 12 will provide a brief atmospheric curiosity. The main wave of Parisians returning from the August break is expected in the final week of the month.</p>
+      <p>A strengthening high-pressure system is funnelling very hot air from the Iberian Peninsula into France, pushing Paris to a projected 33&ndash;35&deg;C from Monday August 10 and southern France to 35&ndash;38&deg;C. Meteo-France has not yet issued an official canicule alert but a renewed orange &mdash; possibly red &mdash; warning cannot be ruled out. This is France&rsquo;s fifth distinct heat episode of summer 2026; wildfire and air-quality risks are elevated. A solar eclipse on August 12 will provide a brief atmospheric curiosity.</p>
       <div class="src">Sortiraparis &middot; Connexion France &middot; Reuters</div>
     </div>
   </div>
@@ -121,7 +126,8 @@
 
   <div class="card">
     <div class="photo" style="background:linear-gradient(135deg,#1a0a04,#5a2a08)">
-      <span class="ph-fallback" style="display:block">🏗️</span>
+      <span class="ph-fallback">🏗️</span>
+      <img src="https://loremflickr.com/800/450/data,center,server?lock=6" loading="lazy" referrerpolicy="no-referrer" alt="MTN Nigeria commissions Phase 1 of $235m Lagos data centre" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
       <span class="tag" style="background:var(--africa)">Lagos &middot; MTN Data Centre Launch</span>
     </div>
     <div class="body">
@@ -134,11 +140,12 @@
 
   <div class="card">
     <div class="photo" style="background:linear-gradient(135deg,#1a0a04,#7a3a0a)">
-      <span class="ph-fallback" style="display:block">⚡</span>
+      <span class="ph-fallback">⚡</span>
+      <img src="https://loremflickr.com/800/450/generator,electricity,power?lock=7" loading="lazy" referrerpolicy="no-referrer" alt="Grid reliability: Lagos data centres' defining challenge" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
       <span class="tag" style="background:var(--africa)">Nigeria &middot; Power &amp; Macro</span>
     </div>
     <div class="body">
-      <h3>&ldquo;Lagos can&rsquo;t power the cloud&rdquo; &mdash; grid reliability the sector&rsquo;s Achilles heel; but Nigeria&rsquo;s macro window &mdash; 4.3% GDP, inflation 15.38%, CBN rate 26.5% &mdash; is the best in two years</h3>
+      <h3>&ldquo;Lagos can&rsquo;t power the cloud&rdquo; &mdash; grid reliability the sector&rsquo;s Achilles heel; Nigeria&rsquo;s macro window &mdash; 4.3% GDP, inflation 15.38%, CBN rate 26.5% &mdash; is the best in two years</h3>
       <p>As the Lagos data-centre boom accelerates, Nigeria&rsquo;s structural power challenge is becoming the sector&rsquo;s defining constraint: all Tier III/IV facilities rely on multi-redundant diesel and gas-fired generator systems for 99.982%+ uptime guarantees, making generator-backed power infrastructure non-negotiable for every fit-out. On the macro side, GDP growth of 4.3%, declining inflation of 15.38%, and the CBN rate cut from 27.5% to 26.5% represent the best macro window in two years &mdash; though Brent at ~$84 keeps naira stability under watch.</p>
       <div class="src">Techmoonshot &middot; TechNext24 &middot; IMF &middot; AfDB &middot; CNBC Africa</div>
       <div class="wim"><strong>Why it matters to you</strong><p>Generator-backed power being structural for every Lagos data centre is a direct opening for Quasar&rsquo;s BMS and controls capability &mdash; lead with integrated generator management in every Lagos pitch. Price large deliverables in dollars and lock in supplier FX quotes before any Hormuz escalation pushes import costs higher.</p></div>
@@ -150,40 +157,57 @@
 
   <div class="card">
     <div class="photo" style="background:linear-gradient(135deg,#1a0808,#4a1818)">
-      <span class="ph-fallback" style="display:block">🏛️</span>
+      <span class="ph-fallback">🏛️</span>
+      <img src="https://loremflickr.com/800/450/beirut,downtown,construction?lock=8" loading="lazy" referrerpolicy="no-referrer" alt="Solidere mandate battle — government demands audit" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
       <span class="tag" style="background:var(--leb)">Solidere &mdash; Mandate Battle</span>
     </div>
     <div class="body">
-      <h3>Lebanese government counters Solidere&rsquo;s 25-year extension request with hard conditions: independent audit and binding project timelines &mdash; PM Salam draws a line</h3>
-      <p>Solidere requested a 25-year mandate extension (its original mandate expires in 2029); the Lebanese government countered on August 8 with a conditional 8-year offer (plus a possible further 6 years), attaching two binding conditions: an independent forensic audit of all Solidere accounts, and legally enforceable timelines for incomplete key projects including the Corniche and Martyrs Square. PM Nawaf Salam stated: &ldquo;Any extension must be linked to the revitalisation of Downtown Beirut and the completion of public-benefit projects, with clear performance indicators.&rdquo; The New Arab notes the debate has surfaced long-standing criticism that Solidere has prioritised high-end luxury development over broader public benefit. The SOLA share price and downtown Beirut real estate values are the key market indicators to watch this week.</p>
-      <div class="src">The National &middot; The New Arab &middot; MEED</div>
-      <div class="wim"><strong>Why it matters to you</strong><p>Solidere&rsquo;s mandate trajectory is directly linked to downtown Beirut real-estate values and your Beirut holdings more broadly. A resolution that delivers the audit and binding timelines would be market-positive &mdash; renewed confidence in downtown&rsquo;s completion reduces the risk discount on prime Beirut property. Watch the SOLA share price this week as a real-time market read on how the negotiation is being priced.</p></div>
+      <h3>Lebanese government counters Solidere&rsquo;s 25-year extension request with hard conditions: independent audit and binding project timelines &mdash; PM Salam draws a line; SOLA at $76.35, 30% below its 52-week high</h3>
+      <p>Solidere requested a 25-year mandate extension (its original mandate expires in 2029); the Lebanese government countered with a conditional 8-year offer (plus a possible further 6 years), attaching two binding conditions: an independent forensic audit of all Solidere accounts, and legally enforceable timelines for incomplete key projects including the Corniche and Martyrs Square. PM Nawaf Salam stated: &ldquo;Any extension must be linked to the revitalisation of Downtown Beirut and the completion of public-benefit projects, with clear performance indicators.&rdquo; SOLA is currently trading at $76.35 against a 52-week high of $109.50 and low of $67.10 &mdash; the market pricing meaningful mandate uncertainty.</p>
+      <div class="src">The National &middot; The New Arab &middot; MEED &middot; GuruFocus (SOLA price)</div>
+      <div class="wim"><strong>Why it matters to you</strong><p>SOLA at $76.35 &mdash; 30% below its 52-week high &mdash; is the market&rsquo;s real-time read on mandate uncertainty. A resolution that delivers the audit and binding timelines would be a re-rating catalyst for both the stock and downtown Beirut real estate more broadly. Watch SOLA daily this week; a move toward $90+ would signal the negotiation is pricing toward a deal.</p></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="photo" style="background:linear-gradient(135deg,#0a1a2a,#1a3a5a)">
+      <span class="ph-fallback">🏦</span>
+      <img src="https://loremflickr.com/800/450/bank,finance,building?lock=11" loading="lazy" referrerpolicy="no-referrer" alt="Lebanon parliament committee approves 11 banking reform amendments" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
+      <span class="tag" style="background:var(--leb)">Lebanon &middot; Banking Reform</span>
+    </div>
+    <div class="body">
+      <h3>Lebanon&rsquo;s parliament finance committee approves 11 new amendments to the Banking Restructuring Law this week &mdash; reviving legislation struck down by the Constitutional Council last October</h3>
+      <p>Lebanon&rsquo;s parliament finance and budget committee approved 11 new articles this week revamping the Banking Restructuring Law, which was partially struck down by the Constitutional Council in October 2025. More amendments go to vote next week. The broader FSDR (Financial Stabilization and Depositor Recovery) framework addresses the $80&ndash;83 billion gap between deposits owed and available bank assets; depositors under $100,000 would be repaid in full, while larger depositors would receive BdL-backed securities. The IMF continues to press Lebanon to move faster, calling the 2026 budget insufficiently ambitious on fiscal reform.</p>
+      <div class="src">LBCI &middot; Enterprise MENA+ &middot; IMF &middot; Carnegie Endowment</div>
+      <div class="wim"><strong>Why it matters to you</strong><p>Every step in banking reform reduces the depositor-uncertainty overhang that has suppressed consumer and business confidence since 2019. Faster reform progress means clients and counterparties gradually regain access to deposits &mdash; a positive demand signal for the next 12&ndash;18 months. If the revamped law clears parliament, it will be the single biggest confidence catalyst for the Lebanese private sector since the ceasefire.</p></div>
     </div>
   </div>
 
   <div class="card">
     <div class="photo" style="background:linear-gradient(135deg,#2a0808,#6a1212)">
-      <span class="ph-fallback" style="display:block">🤝</span>
+      <span class="ph-fallback">🤝</span>
+      <img src="https://loremflickr.com/800/450/diplomacy,flags,meeting?lock=9" loading="lazy" referrerpolicy="no-referrer" alt="Lebanon-Israel talks stalled for summer" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
       <span class="tag" style="background:var(--leb)">Update: Lebanon&ndash;Israel Talks</span>
     </div>
     <div class="body">
       <h3>Update: Rome talks &ldquo;fruitful&rdquo; per US and Aoun, but no new Lebanon&ndash;Israel negotiating round before end of summer; IDF strikes south Lebanon continue; Hezbollah influence receding</h3>
-      <p>Three days of Lebanon-Israel talks in Rome last week covered borders, prisoner exchanges, demolitions, and pilot zones; President Aoun cited &ldquo;positive progress&rdquo; and the US State Department called talks &ldquo;fruitful,&rdquo; saying both sides are &ldquo;much closer to agreement on expanding pilot zones.&rdquo; However, a Lebanese diplomatic source told Al Mayadeen on August 10 that no new negotiating round is expected before the end of the summer &mdash; a diplomatic pause. IDF strikes on southern Lebanon continued over the weekend. Lebanese Forces&rsquo; Geagea stated Lebanon has completed 60&ndash;70% of the process of ending Hezbollah&rsquo;s illegitimate state influence, affirming that decisions on war and peace belong to the state alone.</p>
-      <div class="src">Haaretz &middot; Al Jazeera &middot; Vatican News &middot; Terrorism-info.org.il &middot; Security Council Report</div>
-      <div class="wim"><strong>Why it matters to you</strong><p>A summer diplomatic pause means the ceasefire framework stays frozen and IDF activity continues with no binding withdrawal timeline. For Lebanon Q3: prioritise receivables collection now, extend no new payment terms, and ensure active sites have rapid stand-down protocols. The Hezbollah-state sovereignty progress is a medium-term positive for business normalisation but not yet reflected in ground conditions.</p></div>
+      <p>Three days of Lebanon-Israel talks in Rome last week covered borders, prisoner exchanges, demolitions, and pilot zones; President Aoun cited &ldquo;positive progress&rdquo; and the US State Department called talks &ldquo;fruitful.&rdquo; However, a Lebanese diplomatic source confirmed on August 10 that no new negotiating round is expected before the end of summer &mdash; a diplomatic pause. IDF strikes on southern Lebanon continued over the weekend. Lebanese Forces&rsquo; Geagea stated Lebanon has completed 60&ndash;70% of the process of ending Hezbollah&rsquo;s illegitimate state influence.</p>
+      <div class="src">Haaretz &middot; Al Jazeera &middot; Vatican News &middot; Security Council Report</div>
+      <div class="wim"><strong>Why it matters to you</strong><p>A summer diplomatic pause means the ceasefire framework stays frozen and IDF activity continues with no binding withdrawal timeline. For Lebanon Q3: prioritise receivables collection now, extend no new payment terms, and ensure active sites have rapid stand-down protocols.</p></div>
     </div>
   </div>
 
   <div class="card">
     <div class="photo" style="background:linear-gradient(135deg,#2a0a0a,#5a2020)">
-      <span class="ph-fallback" style="display:block">🏙️</span>
+      <span class="ph-fallback">🏙️</span>
+      <img src="https://loremflickr.com/800/450/beirut,apartment,skyline?lock=10" loading="lazy" referrerpolicy="no-referrer" alt="Achrafieh holds firm as Beirut's most resilient real estate market" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
       <span class="tag" style="background:var(--leb)">Beirut &middot; Real Estate</span>
     </div>
     <div class="body">
       <h3>Achrafieh holds firm as Beirut&rsquo;s most resilient market; diaspora demand sustains 5&ndash;7% fresh-dollar yields; some investors begin hedging toward Dubai in 2026</h3>
       <p>Achrafieh remains the undisputed flagship of Beirut real estate &mdash; scarce land, strong diaspora demand, and a deeply rooted community make it the most defensible bet for capital preservation. Prime Beirut continues to transact entirely in cash US dollars, offering 5&ndash;7% annual yields competitive with Dubai and Cyprus. A growing number of Beirut-based investors are also allocating toward Dubai in 2026 as a conflict hedge. Capital values remain roughly 20% below pre-2019 peaks, implying meaningful upside once a durable ceasefire restores the reconstruction premium.</p>
-      <div class="src">RM Real Estate Consultant &middot; Distress Property Finder &middot; Viraluxe &middot; The Beiruter</div>
-      <div class="wim"><strong>Why it matters to you</strong><p>Your Beirut holdings are performing competitively on yield and this is not an exit market. The Solidere mandate resolution (see above) is an additional upside catalyst for downtown and broader Beirut values. Revisit disposal timing once a durable ceasefire restores capital values toward pre-2019 levels; if excess liquidity is available, a small Dubai allocation adds geographic diversification without sacrificing yield quality.</p></div>
+      <div class="src">RM Real Estate Consultant &middot; Distress Property Finder &middot; The Beiruter</div>
+      <div class="wim"><strong>Why it matters to you</strong><p>Your Beirut holdings are performing competitively on yield. The Solidere mandate resolution and banking reform progress are both upside catalysts for downtown and broader Beirut values. Revisit disposal timing once a durable ceasefire restores capital values toward pre-2019 levels; the current yield environment does not favour premature exit.</p></div>
     </div>
   </div>
 
@@ -194,14 +218,15 @@
 
   <div class="card">
     <div class="photo" style="background:linear-gradient(135deg,#0a1a2a,#1a3a5a)">
-      <span class="ph-fallback" style="display:block">🏢</span>
+      <span class="ph-fallback">🏢</span>
+      <img src="https://loremflickr.com/800/450/datacenter,building,architecture?lock=12" loading="lazy" referrerpolicy="no-referrer" alt="Data centre real estate supercycle" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
       <span class="tag" style="background:var(--world)">Data Centre RE &middot; Supercycle</span>
     </div>
     <div class="body">
       <h3>100GW of new data-centre capacity &mdash; $1.2 trillion in real-estate value creation &mdash; forecast 2026&ndash;2030; JLL names Africa fastest-growing region; Grade-A office squeeze emerging in Europe</h3>
-      <p>JLL&rsquo;s August 2026 Global Real Estate Perspective confirms data centres as the standout outlier in an otherwise cautious property market: 19% capacity growth forecast for 2026 alone, 100GW and $1.2 trillion in asset value creation expected globally by 2030. Africa is the fastest-growing region by new supply, driven by Lagos, Nairobi, and Cairo. Separately, a &ldquo;Grade A Squeeze&rdquo; is emerging in commercial markets: prime office vacancy in some European hubs has fallen to 3.3%. The US-China ban on data-centre power inverters adds supply-chain risk for fit-out timelines in non-US markets, adding lead time via indirect sourcing.</p>
-      <div class="src">JLL Global Real Estate Perspective Aug 2026 &middot; Global RE Intelligence Report &middot; Knight Frank Wealth Report 2026</div>
-      <div class="wim"><strong>Why it matters to you</strong><p>JLL naming Africa the fastest-growing region by new supply cements the Lagos data-centre opportunity as structural, not cyclical. In every Lebanon and Nigeria tender this quarter, position Quasar explicitly as a data-centre systems specialist &mdash; that framing now carries global analyst consensus and commands a premium. The Grade A office squeeze in European hubs is also a signal: if you hold European commercial property, vacancy is compressing and rental uplifts are becoming available.</p></div>
+      <p>JLL&rsquo;s August 2026 Global Real Estate Perspective confirms data centres as the standout outlier in an otherwise cautious property market: 19% capacity growth forecast for 2026 alone, 100GW and $1.2 trillion in asset value creation expected globally by 2030. Africa is the fastest-growing region by new supply, driven by Lagos, Nairobi, and Cairo. Separately, a &ldquo;Grade A Squeeze&rdquo; is emerging in commercial markets: prime office vacancy in some European hubs has fallen to 3.3%. The US-China ban on data-centre power inverters adds supply-chain risk and lead-time extensions for non-US markets.</p>
+      <div class="src">JLL Global Real Estate Perspective Aug 2026 &middot; Knight Frank Wealth Report 2026</div>
+      <div class="wim"><strong>Why it matters to you</strong><p>JLL naming Africa the fastest-growing region by new supply cements the Lagos data-centre opportunity as structural, not cyclical. In every Lebanon and Nigeria tender this quarter, position Quasar explicitly as a data-centre systems specialist &mdash; that framing now carries global analyst consensus and commands a premium.</p></div>
     </div>
   </div>
 
@@ -210,12 +235,13 @@
 
   <div class="card">
     <div class="photo" style="background:linear-gradient(135deg,#2a0a2a,#6a1a6a)">
-      <span class="ph-fallback" style="display:block">🖼️</span>
+      <span class="ph-fallback">🖼️</span>
+      <img src="https://loremflickr.com/800/450/art,gallery,painting?lock=13" loading="lazy" referrerpolicy="no-referrer" alt="Art market August quiet — no Castellani lots flagged" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
       <span class="tag" style="background:var(--art)">Art Market &middot; August Quiet</span>
     </div>
     <div class="body">
-      <h3>August quiet period; no Castellani lots flagged on Invaluable, Artsy or LiveAuctioneers; spring 2026 saw multiple Castellani works sell; next major rounds September (London) and October (New York)</h3>
-      <p>The global auction calendar is in its annual August lull. No Enrico Castellani lots are currently flagged for the coming weeks. Spring 2026 confirmed Castellani&rsquo;s market remains active: &ldquo;Senza titolo&rdquo; (1994), &ldquo;Superficie bianca&rdquo; (1972), and &ldquo;Estroflessione&rdquo; (1968) all cleared in May. The next significant rounds for Italian postwar and Zero Group works are the September London sales (Sotheby&rsquo;s, Christie&rsquo;s, Phillips) and the October New York sessions. H1 2026 auction market: Christie&rsquo;s ($3.4bn, +71%) and Sotheby&rsquo;s ($2.8bn, +71%) combined for $6.8bn &mdash; the best first half since 2022.</p>
+      <h3>August quiet period; no Castellani lots flagged; Sotheby&rsquo;s London publishes September calendar &mdash; Prints &amp; Multiples 16&ndash;23 Sep, Contemporary South Asian 29 Sep; New York October sessions follow</h3>
+      <p>The global auction calendar is in its annual August lull. No Enrico Castellani lots are currently flagged on Invaluable, Artsy, or LiveAuctioneers. Sotheby&rsquo;s London has now published its September calendar: Prints &amp; Multiples runs 16&ndash;23 September, and the Modern &amp; Contemporary South Asian Art sale is set for 29 September &mdash; the next window for Italian postwar and Zero Group works is the October New York sessions. H1 2026 auction market: Christie&rsquo;s ($3.4bn, +71%) and Sotheby&rsquo;s ($2.8bn, +71%) combined for $6.8bn &mdash; the best first half since 2022.</p>
       <div class="src">Invaluable &middot; Artsy &middot; LiveAuctioneers &middot; Sotheby&rsquo;s &middot; The Art Newspaper</div>
     </div>
   </div>
@@ -225,18 +251,19 @@
 
   <div class="card">
     <div class="photo" style="background:linear-gradient(135deg,#0a2a0a,#1a6a2a)">
-      <span class="ph-fallback" style="display:block">🎾</span>
+      <span class="ph-fallback">🎾</span>
+      <img src="https://loremflickr.com/800/450/tennis,court,racket?lock=14" loading="lazy" referrerpolicy="no-referrer" alt="Canadian Open quarter-finals underway" onerror="this.style.display='none'" style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;inset:0;z-index:2;">
       <span class="tag" style="background:var(--sport)">Tennis &middot; Canadian Open QFs</span>
     </div>
     <div class="body">
-      <h3>Canadian Open quarter-finals underway: Shelton defeats Fonseca; Gauff and Rybakina through in Toronto; Sinner absent; Alcaraz still out since April</h3>
-      <p>Quarter-finals are underway at the National Bank Open: Ben Shelton defeated Brazilian teenager Jo&atilde;o Fonseca 6&ndash;3, 7&ndash;6(3) in Montreal. In Toronto, Elena Rybakina eliminated Liudmila Samsonova 6&ndash;4, 4&ndash;6, 6&ndash;4 and Coco Gauff dispatched Alina Korneeva 6&ndash;3, 6&ndash;1. Both tournaments are missing their headline names: Jannik Sinner &mdash; who won his second consecutive Wimbledon title on July 12 beating Zverev in four sets &mdash; is absent for schedule management; Carlos Alcaraz remains out with the right wrist injury keeping him off tour since April. Semi-finals are scheduled for Tuesday. Alexander Zverev and F&eacute;lix Auger-Aliassime lead the remaining Montreal draw.</p>
-      <div class="src">Olympics.com &middot; KhelNow &middot; Yahoo Sports &middot; 10sBalls.com &middot; Tennis365</div>
+      <h3>Canadian Open quarter-finals underway: Shelton defeats Fonseca; Gauff and Rybakina advance in Toronto; Sinner absent; Alcaraz still out since April &mdash; semi-finals Wednesday August 12</h3>
+      <p>Quarter-finals are underway at the National Bank Open: Ben Shelton defeated Brazilian teenager Jo&atilde;o Fonseca 6&ndash;3, 7&ndash;6(3) in Montreal. In Toronto, Elena Rybakina eliminated Liudmila Samsonova and Coco Gauff dispatched Alina Korneeva 6&ndash;3, 6&ndash;1. Jannik Sinner &mdash; who won his second consecutive Wimbledon title on July 12 beating Zverev in four sets &mdash; is absent for schedule management; Carlos Alcaraz remains out with his right wrist injury. Semi-finals are scheduled for Wednesday August 12.</p>
+      <div class="src">Olympics.com &middot; KhelNow &middot; Yahoo Sports &middot; Wikipedia (2026 National Bank Open)</div>
     </div>
   </div>
 
   <footer>
-    Sources: Bloomberg, CNBC, Al Jazeera, NBC News, CNN, Wikipedia (2026 Hormuz crisis), Reuters, CFR, FreightAmigo, Anadolu Agency, Haaretz, FDD Overnight Brief, CFR Global Conflict Tracker, Sortiraparis, Connexion France, Developing Telecoms, TechNext24, Connecting Africa, Data Center Map, Techmoonshot, IMF, AfDB, CNBC Africa, The National, The New Arab, MEED, Vatican News, Terrorism-info.org.il, Security Council Report, RM Real Estate Consultant, Distress Property Finder, Viraluxe, The Beiruter, JLL, Global RE Intelligence Report, Knight Frank, Invaluable, Artsy, LiveAuctioneers, Sotheby&rsquo;s, The Art Newspaper, Olympics.com, KhelNow, Yahoo Sports, 10sBalls.com, Tennis365.<br>
+    Sources: Bloomberg, CNBC, Al Jazeera, Reuters, CFR, FreightAmigo, Anadolu Agency, Haaretz, FDD Overnight Brief, CFR Global Conflict Tracker, Sortiraparis, Connexion France, Developing Telecoms, TechNext24, Connecting Africa, Data Center Map, Techmoonshot, IMF, AfDB, CNBC Africa, The National, The New Arab, MEED, GuruFocus, LBCI, Enterprise MENA+, Carnegie Endowment, Vatican News, Security Council Report, RM Real Estate Consultant, Distress Property Finder, The Beiruter, JLL, Knight Frank, Invaluable, Artsy, LiveAuctioneers, Sotheby&rsquo;s, The Art Newspaper, Olympics.com, KhelNow, Yahoo Sports, Rappler, Tico Times, Irish Times, Japan Times, Washington Times, The Hill, CBS News.<br>
     Ralph&rsquo;s morning brief &middot; 10 Aug 2026.
   </footer>
 
