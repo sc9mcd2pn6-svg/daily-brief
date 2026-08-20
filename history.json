@@ -1,14 +1,4 @@
 [
-  {"date":"2026-08-12","theme":"world","headline":"US Navy fires Hellfire missiles at blockade-runner M/V Vela Nova; third vessel disabled in Iran standoff"},
-  {"date":"2026-08-12","theme":"world","headline":"North Korea fires ballistic missile 690km ahead of US-South Korea Ulchi Freedom Shield drills"},
-  {"date":"2026-08-12","theme":"world","headline":"Ukraine drone kills 13 at Nizhnekamsk oil-refinery city — deadliest single city strike this year"},
-  {"date":"2026-08-12","theme":"world","headline":"Total solar eclipse sweeps mainland Spain this evening; first totality over mainland Europe since 1999"},
-  {"date":"2026-08-12","theme":"france","headline":"Paris heatwave peaks at 38°C; hottest stretch of summer 2026; orange alert across metropolitan France"},
-  {"date":"2026-08-12","theme":"africa","headline":"Nigeria clinches West Africa top-companies crown 2026; MTN market cap up 3.4x to $11.6bn"},
-  {"date":"2026-08-12","theme":"lebanon","headline":"IIF projects 12% Lebanon GDP contraction in 2026; diverges from World Bank 4% conditional growth forecast"},
-  {"date":"2026-08-12","theme":"lebanon","headline":"Lebanon announces new Beirut airport terminal for 3.5M passengers annually by 2027"},
-  {"date":"2026-08-12","theme":"real-estate","headline":"OpenAI $20bn Project Camellia data centre near Savannah; 3.2GW across 2,600 acres, delivery 2028-2032"},
-  {"date":"2026-08-12","theme":"art","headline":"Sotheby's Gem Drop ends Aug 13; no Castellani lots on summer market; November New York cycle next major window"},
   {"date":"2026-08-13","theme":"world","headline":"Colombia earthquake death toll surges to 265, 3,000+ missing; rescue golden window closed"},
   {"date":"2026-08-13","theme":"world","headline":"Japan Kumamoto earthquake: 39 dead, 6,000 still in evacuation shelters, high aftershock risk"},
   {"date":"2026-08-13","theme":"world","headline":"Iran formally states Hormuz 'remains blocked' — contradicts US claims; Oman talks stall"},
@@ -71,5 +61,15 @@
   {"date":"2026-08-19","theme":"africa","headline":"Africa data centres need $10-20bn for 5x demand surge by 2030; Lagos primary hub — Knight Frank report"},
   {"date":"2026-08-19","theme":"africa","headline":"CBN opens regulatory sandbox for virtual assets and fintechs through August 31"},
   {"date":"2026-08-19","theme":"lebanon","headline":"President Aoun backs UNIFIL extension petition; Germany EU proposal gains Lebanese endorsement"},
-  {"date":"2026-08-19","theme":"lebanon","headline":"Lebanon FSDR banking law: parliament committee advances 11 revised articles; IMF monitoring"}
+  {"date":"2026-08-19","theme":"lebanon","headline":"Lebanon FSDR banking law: parliament committee advances 11 revised articles; IMF monitoring"},
+  {"date":"2026-08-20","theme":"world","headline":"US national debt crosses $40 trillion — 30-year Treasury yields at 2007 highs; debt service exceeds defence spending"},
+  {"date":"2026-08-20","theme":"world","headline":"Iran fires ballistic missiles at UAE; UAE halts all trade with Iran — Gulf conflict expands beyond Hormuz"},
+  {"date":"2026-08-20","theme":"world","headline":"US Navy secretly escorted 1,000+ tankers through Hormuz since May — 5M barrels/day under US protection"},
+  {"date":"2026-08-20","theme":"world","headline":"Israel strikes Gaza café amid stalled peace plan; Hamas holds firm on withdrawal demand"},
+  {"date":"2026-08-20","theme":"world","headline":"Trump claims US-Canada deal near; tariffs on hold as Carney says 'important work remains'"},
+  {"date":"2026-08-20","theme":"world","headline":"Merck/Moderna mRNA melanoma vaccine meets Phase 3 goals — 49% recurrence reduction; filing for approval"},
+  {"date":"2026-08-20","theme":"africa","headline":"Nigeria: Adeleke wins Osun governorship re-election by 66,000 votes; APC loses second South-West contest of 2026"},
+  {"date":"2026-08-20","theme":"lebanon","headline":"Lebanon parliament passes FSDR banking reform law — opens path to IMF Extended Fund Facility"},
+  {"date":"2026-08-20","theme":"lebanon","headline":"UNIFIL records 137 projectiles/day and 1,700 airspace violations in south Lebanon; December vacuum looms"},
+  {"date":"2026-08-20","theme":"real-estate","headline":"Loudoun County data centres: $1.3bn = 40% of county tax base in 2027 — Lagos data-centre real estate preview"}
 ]
