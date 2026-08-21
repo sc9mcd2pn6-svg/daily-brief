@@ -1,14 +1,4 @@
 [
-  {"date":"2026-08-13","theme":"world","headline":"Colombia earthquake death toll surges to 265, 3,000+ missing; rescue golden window closed"},
-  {"date":"2026-08-13","theme":"world","headline":"Japan Kumamoto earthquake: 39 dead, 6,000 still in evacuation shelters, high aftershock risk"},
-  {"date":"2026-08-13","theme":"world","headline":"Iran formally states Hormuz 'remains blocked' — contradicts US claims; Oman talks stall"},
-  {"date":"2026-08-13","theme":"world","headline":"Mecca Pact: Saudi Arabia-Pakistan-Turkey defence treaty could widen Iran war dramatically"},
-  {"date":"2026-08-13","theme":"world","headline":"Russia releases American military veteran after four years of wrongful incarceration"},
-  {"date":"2026-08-13","theme":"africa","headline":"Airtel Nigeria hyperscale data centre opening by end 2026; Kasi Cloud 100MW AI campus breaks ground in Lagos"},
-  {"date":"2026-08-13","theme":"lebanon","headline":"South Lebanon impasse: Israel disputes withdrawal, IDF strikes continue; Rome round-7 talks ongoing"},
-  {"date":"2026-08-13","theme":"lebanon","headline":"Made in Lebanon: crisis driving productive-economy rebound — exports, light manufacturing, agriculture rising"},
-  {"date":"2026-08-13","theme":"real-estate","headline":"Ireland data centres consume 23% of national power; new on-site renewable rules reshape hyperscaler siting globally"},
-  {"date":"2026-08-13","theme":"art","headline":"Sotheby's London Arcade Sale opens Aug 21; no Castellani on market before November New York cycle"},
   {"date":"2026-08-14","theme":"world","headline":"Syria sentences Assad and Maher al-Assad to death in absentia for war crimes — first convictions against the regime"},
   {"date":"2026-08-14","theme":"world","headline":"IEA: global oil stockpiles below 7.9bn barrels, 4% supply deficit deepens; oil slick off Qeshm as Hormuz talks stall"},
   {"date":"2026-08-14","theme":"world","headline":"Iran executes Marzieh Nieri, 23, for wounding attacker in self-defence; 14th woman executed in Iran in 2026"},
@@ -71,5 +61,15 @@
   {"date":"2026-08-20","theme":"africa","headline":"Nigeria: Adeleke wins Osun governorship re-election by 66,000 votes; APC loses second South-West contest of 2026"},
   {"date":"2026-08-20","theme":"lebanon","headline":"Lebanon parliament passes FSDR banking reform law — opens path to IMF Extended Fund Facility"},
   {"date":"2026-08-20","theme":"lebanon","headline":"UNIFIL records 137 projectiles/day and 1,700 airspace violations in south Lebanon; December vacuum looms"},
-  {"date":"2026-08-20","theme":"real-estate","headline":"Loudoun County data centres: $1.3bn = 40% of county tax base in 2027 — Lagos data-centre real estate preview"}
+  {"date":"2026-08-20","theme":"real-estate","headline":"Loudoun County data centres: $1.3bn = 40% of county tax base in 2027 — Lagos data-centre real estate preview"},
+  {"date":"2026-08-21","theme":"world","headline":"USS Abraham Lincoln departs Middle East after 272 days; Middle East stalemate, no talks scheduled"},
+  {"date":"2026-08-21","theme":"world","headline":"Bond yields surge back past Bessent intervention; 30-year hits 5.27%, global borrowing costs escalating"},
+  {"date":"2026-08-21","theme":"world","headline":"Russia escalates missile campaign killing 15 in Ukraine; skips drone decoy as Ukraine runs low on interceptors"},
+  {"date":"2026-08-21","theme":"world","headline":"West Bank: violent Israeli settlers operating with Israeli government backing to provoke Palestinian uprising"},
+  {"date":"2026-08-21","theme":"world","headline":"Evergrande founder Hui Ka Yan sentenced to life in prison for $300bn fraud and bribery"},
+  {"date":"2026-08-21","theme":"world","headline":"China's LandSpace lands reusable rocket booster — first private Chinese company to recover orbital-class booster"},
+  {"date":"2026-08-21","theme":"city","headline":"Harry and Meghan return permanently to UK after 6 years in US; children enrolling in British schools"},
+  {"date":"2026-08-21","theme":"africa","headline":"US court August 21 deadline: FBI and DEA must release drug-trafficking records on Nigeria's President Tinubu"},
+  {"date":"2026-08-21","theme":"lebanon","headline":"IMF formally welcomes Lebanon's FSDR banking law as 'major step' — warns implementation risks remain"},
+  {"date":"2026-08-21","theme":"lebanon","headline":"UNIFIL hands over Khardali military position to Lebanese army — December drawdown accelerates"}
 ]
