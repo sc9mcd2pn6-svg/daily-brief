@@ -1,13 +1,4 @@
 [
-  {"date":"2026-08-14","theme":"world","headline":"Syria sentences Assad and Maher al-Assad to death in absentia for war crimes — first convictions against the regime"},
-  {"date":"2026-08-14","theme":"world","headline":"IEA: global oil stockpiles below 7.9bn barrels, 4% supply deficit deepens; oil slick off Qeshm as Hormuz talks stall"},
-  {"date":"2026-08-14","theme":"world","headline":"Iran executes Marzieh Nieri, 23, for wounding attacker in self-defence; 14th woman executed in Iran in 2026"},
-  {"date":"2026-08-14","theme":"world","headline":"US July CPI 3.4%, core 2.5% — softer than expected; S&P 500 closes at record 7,799; Fed expected to hold September"},
-  {"date":"2026-08-14","theme":"africa","headline":"Nigeria inflation eases from 33% to 23%; GDP growth 4.7%; naira stable — reform dividend taking hold"},
-  {"date":"2026-08-14","theme":"lebanon","headline":"Lebanon abolishes death penalty — first Arab country; parliament vote August 11 ends 22-year de-facto moratorium"},
-  {"date":"2026-08-14","theme":"lebanon","headline":"Rome Round 7 concluded August 6; LAF complains IDF violations continue; next Lebanon-Israel talks not before September"},
-  {"date":"2026-08-14","theme":"real-estate","headline":"Data centre real estate crosses $87bn in 2026; power delivery speed overtakes connectivity as top site criterion; Africa fastest-growing"},
-  {"date":"2026-08-14","theme":"real-estate","headline":"Prime Beirut appreciating in fresh-dollar terms; Achrafieh and Metn tighten on diaspora all-cash demand"},
   {"date":"2026-08-15","theme":"world","headline":"Brent approaches $90: GasLog Shanghai LNG tanker disabled in Hormuz; Kuwait intercepts Iranian drones"},
   {"date":"2026-08-15","theme":"world","headline":"US Senate passes Graham Russia sanctions bill 86-11; 100% tariffs on Russian oil buyers authorised; heads to House in September"},
   {"date":"2026-08-15","theme":"world","headline":"Amazon deforestation falls 37% to 13-year record low; INPE data shows 2,874 sq km cleared 2025-2026"},
@@ -71,5 +62,14 @@
   {"date":"2026-08-21","theme":"city","headline":"Harry and Meghan return permanently to UK after 6 years in US; children enrolling in British schools"},
   {"date":"2026-08-21","theme":"africa","headline":"US court August 21 deadline: FBI and DEA must release drug-trafficking records on Nigeria's President Tinubu"},
   {"date":"2026-08-21","theme":"lebanon","headline":"IMF formally welcomes Lebanon's FSDR banking law as 'major step' — warns implementation risks remain"},
-  {"date":"2026-08-21","theme":"lebanon","headline":"UNIFIL hands over Khardali military position to Lebanese army — December drawdown accelerates"}
+  {"date":"2026-08-21","theme":"lebanon","headline":"UNIFIL hands over Khardali military position to Lebanese army — December drawdown accelerates"},
+  {"date":"2026-08-22","theme":"world","headline":"Trump launches 'Operation Economic Fury' vs Iran — threatens China, India, Germany with crushing sanctions"},
+  {"date":"2026-08-22","theme":"world","headline":"West Bank: Netanyahu approves 12,360 settlement units in 2026; UN warns region at 'breaking point'; intifada risk grows"},
+  {"date":"2026-08-22","theme":"world","headline":"AI borrowing binge is now driving US government bond yields higher — analysts warn of new structural normal"},
+  {"date":"2026-08-22","theme":"world","headline":"Walmart posts slowest US retail sales growth in years — American consumers tightening wallets"},
+  {"date":"2026-08-22","theme":"lebanon","headline":"World Bank Lebanon Economic Monitor: GDP to contract 6.4% in 2026, inflation 17.5% — war erases 2025 recovery"},
+  {"date":"2026-08-22","theme":"africa","headline":"Nigeria Sokoto boat disaster: 51 dead after overloaded vessel capsizes — mostly women and children"},
+  {"date":"2026-08-22","theme":"africa","headline":"Economist: 'The war on data centres is a bit fake' — AI build-out accelerates despite NIMBYism noise"},
+  {"date":"2026-08-22","theme":"france","headline":"Bardella/RN polling to win France's 2027 presidential election as Macron era approaches its close"},
+  {"date":"2026-08-22","theme":"sport","headline":"US Open 2026 opens this week at Flushing Meadows — qualifying Monday, main draw August 30; Alcaraz/Sabalenka defending"}
 ]
