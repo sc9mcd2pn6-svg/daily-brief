@@ -1,13 +1,4 @@
 [
-  {"date":"2026-08-15","theme":"world","headline":"Brent approaches $90: GasLog Shanghai LNG tanker disabled in Hormuz; Kuwait intercepts Iranian drones"},
-  {"date":"2026-08-15","theme":"world","headline":"US Senate passes Graham Russia sanctions bill 86-11; 100% tariffs on Russian oil buyers authorised; heads to House in September"},
-  {"date":"2026-08-15","theme":"world","headline":"Amazon deforestation falls 37% to 13-year record low; INPE data shows 2,874 sq km cleared 2025-2026"},
-  {"date":"2026-08-15","theme":"world","headline":"Hungary elects András Baka as president; first non-Fidesz head of state since 1995; takes office August 19"},
-  {"date":"2026-08-15","theme":"world","headline":"Canada Okanagan wildfire emergency: 20,000 evacuated including entire village of Summerland, BC"},
-  {"date":"2026-08-15","theme":"france","headline":"France battles monster wildfire on Assumption Day; 115,000 ha burned in 2026, worst season since 1949; storms approaching"},
-  {"date":"2026-08-15","theme":"africa","headline":"Jumia raises $50m from IFC and Axian Telecom; World Bank backs African e-commerce towards first profitable quarter Q4 2026"},
-  {"date":"2026-08-15","theme":"lebanon","headline":"Lebanon-Syria bilateral investment conference planned for autumn in Damascus; business council and four-port maritime corridor announced"},
-  {"date":"2026-08-15","theme":"lebanon","headline":"Lebanon disputes Hezbollah disarmament verification shortlist; UK/Italy/Switzerland/Indonesia proposed but Beirut denies agreement"},
   {"date":"2026-08-16","theme":"world","headline":"Trump meets Putin in Alaska — first US-Russia summit since 2019; no breakthrough, Moscow demands Donetsk withdrawal"},
   {"date":"2026-08-16","theme":"world","headline":"USS Abraham Lincoln crew crisis; George Washington dispatched to Middle East after 265-day deployment"},
   {"date":"2026-08-16","theme":"world","headline":"Japan 'unprecedented' floods near Tokyo: 8 dead, 100,000+ evacuated, level 5 emergency, Narita stranded"},
@@ -71,5 +62,16 @@
   {"date":"2026-08-22","theme":"africa","headline":"Nigeria Sokoto boat disaster: 51 dead after overloaded vessel capsizes — mostly women and children"},
   {"date":"2026-08-22","theme":"africa","headline":"Economist: 'The war on data centres is a bit fake' — AI build-out accelerates despite NIMBYism noise"},
   {"date":"2026-08-22","theme":"france","headline":"Bardella/RN polling to win France's 2027 presidential election as Macron era approaches its close"},
-  {"date":"2026-08-22","theme":"sport","headline":"US Open 2026 opens this week at Flushing Meadows — qualifying Monday, main draw August 30; Alcaraz/Sabalenka defending"}
+  {"date":"2026-08-22","theme":"sport","headline":"US Open 2026 opens this week at Flushing Meadows — qualifying Monday, main draw August 30; Alcaraz/Sabalenka defending"},
+  {"date":"2026-08-23","theme":"world","headline":"Canada-US trade war: talks collapse, 50% US tariffs live, Canada retaliates September 8"},
+  {"date":"2026-08-23","theme":"world","headline":"Anthropic targets $2T IPO by October — $100B raise would be largest in stock-market history"},
+  {"date":"2026-08-23","theme":"world","headline":"Brent $94.24: Iran-Oman Hormuz talks stall; Economist warns on cost of losing freedom of navigation"},
+  {"date":"2026-08-23","theme":"world","headline":"Russia's crypto king: Economist exposes sanction-busting empire built by convicted fraudster"},
+  {"date":"2026-08-23","theme":"world","headline":"Meloni rare interview: far-right charts path from 'uncomfortable history' to governing mainstream; Bardella leads French 2027 polls"},
+  {"date":"2026-08-23","theme":"africa","headline":"Dangote offers Kenya, Ethiopia and Rwanda 30% equity in planned $17bn East Africa refinery at Lamu"},
+  {"date":"2026-08-23","theme":"africa","headline":"Lagos data-centre boom faces survival test: power and water constraints may decide who thrives"},
+  {"date":"2026-08-23","theme":"lebanon","headline":"IMF resumes Beirut meetings September — FSDR implementation now the critical checkpoint for banking reform"},
+  {"date":"2026-08-23","theme":"lebanon","headline":"Hezbollah Qassem threatens Lebanese state 'hour of anger'; Aoun in Rome on European UNIFIL successor"},
+  {"date":"2026-08-23","theme":"real-estate","headline":"Lekki corridor Lagos: data-centre operators building massive infrastructure bets on subsea cable proximity"},
+  {"date":"2026-08-23","theme":"tech","headline":"TikTok settles US child-privacy lawsuit for $400M — largest-ever children's data penalty"}
 ]
