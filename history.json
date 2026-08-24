@@ -1,13 +1,4 @@
 [
-  {"date":"2026-08-16","theme":"world","headline":"Trump meets Putin in Alaska — first US-Russia summit since 2019; no breakthrough, Moscow demands Donetsk withdrawal"},
-  {"date":"2026-08-16","theme":"world","headline":"USS Abraham Lincoln crew crisis; George Washington dispatched to Middle East after 265-day deployment"},
-  {"date":"2026-08-16","theme":"world","headline":"Japan 'unprecedented' floods near Tokyo: 8 dead, 100,000+ evacuated, level 5 emergency, Narita stranded"},
-  {"date":"2026-08-16","theme":"world","headline":"Taliban marks 5th anniversary in power; women banned from events; UN warns of deepening rights crisis"},
-  {"date":"2026-08-16","theme":"france","headline":"Drôme fire reignites; 500+ lightning strikes spark 10 new blazes in Gironde; 37 departments at high risk"},
-  {"date":"2026-08-16","theme":"africa","headline":"AFRICOM: Nigeria/West Africa security threats up sixfold in two years; UK-Nigeria defence partnership expands"},
-  {"date":"2026-08-16","theme":"lebanon","headline":"IDF strikes kill 11 in South Lebanon including 3 children; deadliest day since June ceasefire"},
-  {"date":"2026-08-16","theme":"lebanon","headline":"Lebanon Finance Minister meets IMF on banking reform Aug 14; FSDR law advancing through parliament"},
-  {"date":"2026-08-16","theme":"real-estate","headline":"Prime London sales up 14% Q3; St John's Wood +15% to £6.63m average; values 12-18% below 2014 peaks"},
   {"date":"2026-08-17","theme":"world","headline":"Iran-US 60-day ceasefire expires Monday; Brent at $89; Trump claims Hormuz as US territory; no deal"},
   {"date":"2026-08-17","theme":"world","headline":"IDF names Hezbollah Badr Unit chief Abu Hassan Alaa and Radwan Force commander killed in Saturday strikes"},
   {"date":"2026-08-17","theme":"world","headline":"Hamas conditionally accepts Gaza disarmament roadmap; Board of Peace 14-day deadline; Israel silent"},
@@ -73,5 +64,16 @@
   {"date":"2026-08-23","theme":"lebanon","headline":"IMF resumes Beirut meetings September — FSDR implementation now the critical checkpoint for banking reform"},
   {"date":"2026-08-23","theme":"lebanon","headline":"Hezbollah Qassem threatens Lebanese state 'hour of anger'; Aoun in Rome on European UNIFIL successor"},
   {"date":"2026-08-23","theme":"real-estate","headline":"Lekki corridor Lagos: data-centre operators building massive infrastructure bets on subsea cable proximity"},
-  {"date":"2026-08-23","theme":"tech","headline":"TikTok settles US child-privacy lawsuit for $400M — largest-ever children's data penalty"}
+  {"date":"2026-08-23","theme":"tech","headline":"TikTok settles US child-privacy lawsuit for $400M — largest-ever children's data penalty"},
+  {"date":"2026-08-24","theme":"world","headline":"China humanoid robot Superman clocked 12.66 m/s beating Usain Bolt; 50,000 units shipping this year"},
+  {"date":"2026-08-24","theme":"world","headline":"Merck/Moderna intismeran mRNA cancer vaccine Phase 3 success — 49% melanoma recurrence reduction"},
+  {"date":"2026-08-24","theme":"world","headline":"Iceland referendum August 29 on EU membership restart — polls knife-edge, Trump Arctic factor"},
+  {"date":"2026-08-24","theme":"world","headline":"Nvidia Q2 FY27 earnings Wednesday August 26 — $93-95bn expected, AI boom durability test"},
+  {"date":"2026-08-24","theme":"world","headline":"US polling credibility crisis deepens — bad data and misleading betting odds ahead of 2026 midterms"},
+  {"date":"2026-08-24","theme":"africa","headline":"Tanzania inaugurates Julius Nyerere Hydropower Plant — $2.9bn, 2,115 MW, half the national grid"},
+  {"date":"2026-08-24","theme":"africa","headline":"Chinese firms hold 15 of 33 shortlist places at Ethiopia's $12.5bn new Addis Ababa airport"},
+  {"date":"2026-08-24","theme":"lebanon","headline":"Lebanon-Israel Rome talks under Hezbollah veto threat; Israeli drones continue striking south Lebanon"},
+  {"date":"2026-08-24","theme":"france","headline":"Glucksmann launches 2027 French presidential bid — centre-left enters race to challenge Le Pen"},
+  {"date":"2026-08-24","theme":"france","headline":"Yvette Roudy, France's first minister for women's rights, dies at 97"},
+  {"date":"2026-08-24","theme":"sport","headline":"US Open 2026 qualifying Day 1 begins — main draw and Alcaraz/Sabalenka defence from August 30"}
 ]
