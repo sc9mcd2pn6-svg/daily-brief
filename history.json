@@ -1,14 +1,4 @@
 [
-  {"date":"2026-08-17","theme":"world","headline":"Iran-US 60-day ceasefire expires Monday; Brent at $89; Trump claims Hormuz as US territory; no deal"},
-  {"date":"2026-08-17","theme":"world","headline":"IDF names Hezbollah Badr Unit chief Abu Hassan Alaa and Radwan Force commander killed in Saturday strikes"},
-  {"date":"2026-08-17","theme":"world","headline":"Hamas conditionally accepts Gaza disarmament roadmap; Board of Peace 14-day deadline; Israel silent"},
-  {"date":"2026-08-17","theme":"world","headline":"Japan flood recovery: Narita reopens, 8 dead, worst Chiba rainfall on record"},
-  {"date":"2026-08-17","theme":"world","headline":"Fed holds at 3.5-3.75%; core PCE 3.3%; market now pricing hikes not cuts as Iran energy shock bites"},
-  {"date":"2026-08-17","theme":"africa","headline":"ECOWAS Development Bank approves $510m West Africa infrastructure packages; energy, data, healthcare focus"},
-  {"date":"2026-08-17","theme":"france","headline":"France wildfire season worst since 1949: 115,000 ha burned; political rupture deepens as parties trade blame"},
-  {"date":"2026-08-17","theme":"lebanon","headline":"UNIFIL exits Lebanon December 31; southern security vacuum looms; replacement framework undecided"},
-  {"date":"2026-08-17","theme":"lebanon","headline":"IMF satisfied with banking law amendments; FSDR must pass un-diluted; Finance Minister affirms commitment"},
-  {"date":"2026-08-17","theme":"real-estate","headline":"Beirut Q1 real estate transactions down 29% YoY; financing freeze; only cash diaspora buyers active"},
   {"date":"2026-08-18","theme":"world","headline":"Trump threatens to bomb Oman as Iran ceasefire expires; Brent surges to $90.87"},
   {"date":"2026-08-18","theme":"world","headline":"France, Germany and UK build E3 format to secure European seat at Ukraine peace talks"},
   {"date":"2026-08-18","theme":"world","headline":"US equities fall as Brent breaks $90; markets price higher inflation and potential Fed hike"},
@@ -75,5 +65,15 @@
   {"date":"2026-08-24","theme":"lebanon","headline":"Lebanon-Israel Rome talks under Hezbollah veto threat; Israeli drones continue striking south Lebanon"},
   {"date":"2026-08-24","theme":"france","headline":"Glucksmann launches 2027 French presidential bid — centre-left enters race to challenge Le Pen"},
   {"date":"2026-08-24","theme":"france","headline":"Yvette Roudy, France's first minister for women's rights, dies at 97"},
-  {"date":"2026-08-24","theme":"sport","headline":"US Open 2026 qualifying Day 1 begins — main draw and Alcaraz/Sabalenka defence from August 30"}
+  {"date":"2026-08-24","theme":"sport","headline":"US Open 2026 qualifying Day 1 begins — main draw and Alcaraz/Sabalenka defence from August 30"},
+  {"date":"2026-08-25","theme":"world","headline":"US 'Operation Economic Outcast' sweeping Iran sanctions — Economist says Tehran can resist; Brent falls to $92"},
+  {"date":"2026-08-25","theme":"world","headline":"Supreme Court allows Trump's mail-voting restrictions to proceed ahead of November midterms"},
+  {"date":"2026-08-25","theme":"world","headline":"Shein lists at $27bn in Hong Kong — 70% below 2022 $100bn peak as Q1 net loss hits $99m"},
+  {"date":"2026-08-25","theme":"world","headline":"Indonesia wildfires surge 3x under El Niño — 1,612 hotspots in first 13 days of August"},
+  {"date":"2026-08-25","theme":"world","headline":"Nvidia Jetson Orin chips power Russian autonomous kill drones — killed 3 civilians in Zaporizhzhia"},
+  {"date":"2026-08-25","theme":"africa","headline":"Nigeria National Digital Cloud Policy mandates onshore data; MTN Ikeja AI data centre Phase 2 confirmed H2 2026"},
+  {"date":"2026-08-25","theme":"africa","headline":"Cross River State seeks $25m at UNCCD COP17 for 2026 flood and landslide disaster recovery"},
+  {"date":"2026-08-25","theme":"lebanon","headline":"Lebanon Eurobonds up 19% YTD on FSDR passage and Rome talks; BBI 28.72, yield 61%; World Bank GDP -6.4%"},
+  {"date":"2026-08-25","theme":"real-estate","headline":"Beirut prime holds +5-10% on diaspora cash buyers; EMEA data-centre real estate hits record investment"},
+  {"date":"2026-08-25","theme":"art","headline":"Autumn auction calendar: Phillips NYC 26 Sep, Sotheby's HK 29-30 Sep; no Castellani on September market"}
 ]
