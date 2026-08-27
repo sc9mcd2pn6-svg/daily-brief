@@ -1,13 +1,4 @@
 [
-  {"date":"2026-08-19","theme":"world","headline":"Brent above $91 for 4th straight day; Trump confirms no Iran talks — stalemate deepens"},
-  {"date":"2026-08-19","theme":"world","headline":"Hungary: Andras Baka sworn in as president — post-Orbán era officially begins"},
-  {"date":"2026-08-19","theme":"world","headline":"US equities fall third session: S&P -0.7%, Nasdaq -1.3% on oil and bond yield pressure"},
-  {"date":"2026-08-19","theme":"world","headline":"Gaza disarmament 14-day deadline passes with no progress; Chatham House: Hamas calling Israel's bluff"},
-  {"date":"2026-08-19","theme":"france","headline":"France expels 2 Iranian diplomats in retaliation for Tehran arrests of French embassy staff"},
-  {"date":"2026-08-19","theme":"africa","headline":"Africa data centres need $10-20bn for 5x demand surge by 2030; Lagos primary hub — Knight Frank report"},
-  {"date":"2026-08-19","theme":"africa","headline":"CBN opens regulatory sandbox for virtual assets and fintechs through August 31"},
-  {"date":"2026-08-19","theme":"lebanon","headline":"President Aoun backs UNIFIL extension petition; Germany EU proposal gains Lebanese endorsement"},
-  {"date":"2026-08-19","theme":"lebanon","headline":"Lebanon FSDR banking law: parliament committee advances 11 revised articles; IMF monitoring"},
   {"date":"2026-08-20","theme":"world","headline":"US national debt crosses $40 trillion — 30-year Treasury yields at 2007 highs; debt service exceeds defence spending"},
   {"date":"2026-08-20","theme":"world","headline":"Iran fires ballistic missiles at UAE; UAE halts all trade with Iran — Gulf conflict expands beyond Hormuz"},
   {"date":"2026-08-20","theme":"world","headline":"US Navy secretly escorted 1,000+ tankers through Hormuz since May — 5M barrels/day under US protection"},
@@ -77,5 +68,14 @@
   {"date":"2026-08-26","theme":"africa","headline":"Economist Africa Inc.: secretive family conglomerates are the lifeblood of African capitalism"},
   {"date":"2026-08-26","theme":"africa","headline":"Nigeria: Niger State orders emergency rescue of mass-kidnapped worshippers in Borgu"},
   {"date":"2026-08-26","theme":"lebanon","headline":"Israeli airstrikes kill 7 in Ansar, south Lebanon; Israel signals readiness for 'more serious' talks"},
-  {"date":"2026-08-26","theme":"lebanon","headline":"Lebanon Eurobonds +19% YTD; IMF returns Beirut September; UNIFIL drawdown accelerates toward December gap"}
+  {"date":"2026-08-26","theme":"lebanon","headline":"Lebanon Eurobonds +19% YTD; IMF returns Beirut September; UNIFIL drawdown accelerates toward December gap"},
+  {"date":"2026-08-27","theme":"world","headline":"Trump era of capitulation ending: Netanyahu, Europe, Gulf states, courts all now pushing back"},
+  {"date":"2026-08-27","theme":"world","headline":"Meta agrees $18bn settlement with 29 US states over social media harms to children"},
+  {"date":"2026-08-27","theme":"world","headline":"Update: Nvidia Q2 FY27 $96.2bn revenue +106% YoY; Q3 guidance $108bn; Nasdaq futures +1%"},
+  {"date":"2026-08-27","theme":"world","headline":"SpaceX $100bn 'Starbase Louisiana' — largest private US investment in history"},
+  {"date":"2026-08-27","theme":"world","headline":"Saudi nuclear deal with uranium enrichment pathway sent to Congress for 90-day review"},
+  {"date":"2026-08-27","theme":"world","headline":"India student protests escalate: water cannons in Bihar, Cockroach movement vows Delhi return"},
+  {"date":"2026-08-27","theme":"world","headline":"EPA proposes stripping public comment rights on data centre air permits"},
+  {"date":"2026-08-27","theme":"africa","headline":"Digital Realty opens third Lagos data centre; Nigeria market to double to $783m by 2031"},
+  {"date":"2026-08-27","theme":"lebanon","headline":"UNIFIL mandate push: Lebanon lobbies for extension as Hezbollah disarmament stalls, December looms"}
 ]
