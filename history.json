@@ -1,14 +1,4 @@
 [
-  {"date":"2026-08-21","theme":"world","headline":"USS Abraham Lincoln departs Middle East after 272 days; Middle East stalemate, no talks scheduled"},
-  {"date":"2026-08-21","theme":"world","headline":"Bond yields surge back past Bessent intervention; 30-year hits 5.27%, global borrowing costs escalating"},
-  {"date":"2026-08-21","theme":"world","headline":"Russia escalates missile campaign killing 15 in Ukraine; skips drone decoy as Ukraine runs low on interceptors"},
-  {"date":"2026-08-21","theme":"world","headline":"West Bank: violent Israeli settlers operating with Israeli government backing to provoke Palestinian uprising"},
-  {"date":"2026-08-21","theme":"world","headline":"Evergrande founder Hui Ka Yan sentenced to life in prison for $300bn fraud and bribery"},
-  {"date":"2026-08-21","theme":"world","headline":"China's LandSpace lands reusable rocket booster — first private Chinese company to recover orbital-class booster"},
-  {"date":"2026-08-21","theme":"city","headline":"Harry and Meghan return permanently to UK after 6 years in US; children enrolling in British schools"},
-  {"date":"2026-08-21","theme":"africa","headline":"US court August 21 deadline: FBI and DEA must release drug-trafficking records on Nigeria's President Tinubu"},
-  {"date":"2026-08-21","theme":"lebanon","headline":"IMF formally welcomes Lebanon's FSDR banking law as 'major step' — warns implementation risks remain"},
-  {"date":"2026-08-21","theme":"lebanon","headline":"UNIFIL hands over Khardali military position to Lebanese army — December drawdown accelerates"},
   {"date":"2026-08-22","theme":"world","headline":"Trump launches 'Operation Economic Fury' vs Iran — threatens China, India, Germany with crushing sanctions"},
   {"date":"2026-08-22","theme":"world","headline":"West Bank: Netanyahu approves 12,360 settlement units in 2026; UN warns region at 'breaking point'; intifada risk grows"},
   {"date":"2026-08-22","theme":"world","headline":"AI borrowing binge is now driving US government bond yields higher — analysts warn of new structural normal"},
@@ -78,5 +68,14 @@
   {"date":"2026-08-28","theme":"lebanon","headline":"UNIFIL succession race: Italy, France, Spain offer replacement force as December drawdown looms"},
   {"date":"2026-08-28","theme":"lebanon","headline":"Lebanon electoral law fight: Berri's single-district plan would marginalize Christian parties"},
   {"date":"2026-08-28","theme":"city","headline":"NYC: Mamdani launches CEO business advisory council — socialist mayor courts Wall Street"},
-  {"date":"2026-08-28","theme":"real-estate","headline":"EMEA data centres: 31% of global real estate capital; prime powered land up 82% to €2.26M/MW since 2021"}
+  {"date":"2026-08-28","theme":"real-estate","headline":"EMEA data centres: 31% of global real estate capital; prime powered land up 82% to €2.26M/MW since 2021"},
+  {"date":"2026-08-29","theme":"world","headline":"US national debt crosses $40 trillion — Washington shows little political will to act"},
+  {"date":"2026-08-29","theme":"world","headline":"Fed Chair Warsh at Jackson Hole signals rate hike in play — 'work to do' on inflation"},
+  {"date":"2026-08-29","theme":"world","headline":"Update: Iran war 6 months — US Strategic Petroleum Reserve at 1982 lows, Iranians hungry and confused"},
+  {"date":"2026-08-29","theme":"world","headline":"Ukraine military balloons launch drones deep inside Russia — Economist reveals low-tech tactic"},
+  {"date":"2026-08-29","theme":"world","headline":"King Harald V of Norway dies at 89 — son becomes King Haakon VIII after 35-year reign"},
+  {"date":"2026-08-29","theme":"world","headline":"Update: Iceland EU referendum underway today — No camp held narrow pre-vote lead"},
+  {"date":"2026-08-29","theme":"africa","headline":"Nigeria CBN mandates onshore data storage by Jan 2027; 4,700 cyberattacks/week highest in Africa"},
+  {"date":"2026-08-29","theme":"france","headline":"France tax authority hacked: 678,000 taxpayers' data stolen by cybercriminal group ZeroBytes"},
+  {"date":"2026-08-29","theme":"lebanon","headline":"Lebanon FSDR bank resolution law: parliamentary compromise leaves governance and shareholder issues unresolved — L'Orient Today"}
 ]
