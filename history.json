@@ -1,13 +1,4 @@
 [
-  {"date":"2026-08-22","theme":"world","headline":"Trump launches 'Operation Economic Fury' vs Iran — threatens China, India, Germany with crushing sanctions"},
-  {"date":"2026-08-22","theme":"world","headline":"West Bank: Netanyahu approves 12,360 settlement units in 2026; UN warns region at 'breaking point'; intifada risk grows"},
-  {"date":"2026-08-22","theme":"world","headline":"AI borrowing binge is now driving US government bond yields higher — analysts warn of new structural normal"},
-  {"date":"2026-08-22","theme":"world","headline":"Walmart posts slowest US retail sales growth in years — American consumers tightening wallets"},
-  {"date":"2026-08-22","theme":"lebanon","headline":"World Bank Lebanon Economic Monitor: GDP to contract 6.4% in 2026, inflation 17.5% — war erases 2025 recovery"},
-  {"date":"2026-08-22","theme":"africa","headline":"Nigeria Sokoto boat disaster: 51 dead after overloaded vessel capsizes — mostly women and children"},
-  {"date":"2026-08-22","theme":"africa","headline":"Economist: 'The war on data centres is a bit fake' — AI build-out accelerates despite NIMBYism noise"},
-  {"date":"2026-08-22","theme":"france","headline":"Bardella/RN polling to win France's 2027 presidential election as Macron era approaches its close"},
-  {"date":"2026-08-22","theme":"sport","headline":"US Open 2026 opens this week at Flushing Meadows — qualifying Monday, main draw August 30; Alcaraz/Sabalenka defending"},
   {"date":"2026-08-23","theme":"world","headline":"Canada-US trade war: talks collapse, 50% US tariffs live, Canada retaliates September 8"},
   {"date":"2026-08-23","theme":"world","headline":"Anthropic targets $2T IPO by October — $100B raise would be largest in stock-market history"},
   {"date":"2026-08-23","theme":"world","headline":"Brent $94.24: Iran-Oman Hormuz talks stall; Economist warns on cost of losing freedom of navigation"},
@@ -77,5 +68,14 @@
   {"date":"2026-08-29","theme":"world","headline":"Update: Iceland EU referendum underway today — No camp held narrow pre-vote lead"},
   {"date":"2026-08-29","theme":"africa","headline":"Nigeria CBN mandates onshore data storage by Jan 2027; 4,700 cyberattacks/week highest in Africa"},
   {"date":"2026-08-29","theme":"france","headline":"France tax authority hacked: 678,000 taxpayers' data stolen by cybercriminal group ZeroBytes"},
-  {"date":"2026-08-29","theme":"lebanon","headline":"Lebanon FSDR bank resolution law: parliamentary compromise leaves governance and shareholder issues unresolved — L'Orient Today"}
+  {"date":"2026-08-29","theme":"lebanon","headline":"Lebanon FSDR bank resolution law: parliamentary compromise leaves governance and shareholder issues unresolved — L'Orient Today"},
+  {"date":"2026-08-30","theme":"world","headline":"Trump claims 55% US stake in Venezuela's 65-billion-barrel oil reserves — Chevron partnership"},
+  {"date":"2026-08-30","theme":"world","headline":"Update: UAE tankers attacked in Hormuz; Iran charges $2M toll per vessel; Qatar reports progress on ceasefire"},
+  {"date":"2026-08-30","theme":"world","headline":"Update: Iceland EU referendum too close to call — counting underway after polls close"},
+  {"date":"2026-08-30","theme":"world","headline":"Economist: Trump's faltering presidency makes him more dangerous than ever ahead of midterms"},
+  {"date":"2026-08-30","theme":"world","headline":"Economist: It now seems possible to vaccinate against cancer"},
+  {"date":"2026-08-30","theme":"africa","headline":"Middle East crisis exposes Nigeria's 90% offshore cloud dependency; $1.9bn data centre boom accelerates"},
+  {"date":"2026-08-30","theme":"france","headline":"France peak drought: 92 departments under water restrictions, 62 at crisis level"},
+  {"date":"2026-08-30","theme":"lebanon","headline":"Katz: IDF will not leave south Lebanon until Hezbollah fully disarmed; Lebanese PM condemns systematic destruction"},
+  {"date":"2026-08-30","theme":"sport","headline":"US Open 2026 Day 1: Djokovic, Venus Williams open main draw at Flushing Meadows"}
 ]
