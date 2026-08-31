@@ -1,15 +1,4 @@
 [
-  {"date":"2026-08-23","theme":"world","headline":"Canada-US trade war: talks collapse, 50% US tariffs live, Canada retaliates September 8"},
-  {"date":"2026-08-23","theme":"world","headline":"Anthropic targets $2T IPO by October — $100B raise would be largest in stock-market history"},
-  {"date":"2026-08-23","theme":"world","headline":"Brent $94.24: Iran-Oman Hormuz talks stall; Economist warns on cost of losing freedom of navigation"},
-  {"date":"2026-08-23","theme":"world","headline":"Russia's crypto king: Economist exposes sanction-busting empire built by convicted fraudster"},
-  {"date":"2026-08-23","theme":"world","headline":"Meloni rare interview: far-right charts path from 'uncomfortable history' to governing mainstream; Bardella leads French 2027 polls"},
-  {"date":"2026-08-23","theme":"africa","headline":"Dangote offers Kenya, Ethiopia and Rwanda 30% equity in planned $17bn East Africa refinery at Lamu"},
-  {"date":"2026-08-23","theme":"africa","headline":"Lagos data-centre boom faces survival test: power and water constraints may decide who thrives"},
-  {"date":"2026-08-23","theme":"lebanon","headline":"IMF resumes Beirut meetings September — FSDR implementation now the critical checkpoint for banking reform"},
-  {"date":"2026-08-23","theme":"lebanon","headline":"Hezbollah Qassem threatens Lebanese state 'hour of anger'; Aoun in Rome on European UNIFIL successor"},
-  {"date":"2026-08-23","theme":"real-estate","headline":"Lekki corridor Lagos: data-centre operators building massive infrastructure bets on subsea cable proximity"},
-  {"date":"2026-08-23","theme":"tech","headline":"TikTok settles US child-privacy lawsuit for $400M — largest-ever children's data penalty"},
   {"date":"2026-08-24","theme":"world","headline":"China humanoid robot Superman clocked 12.66 m/s beating Usain Bolt; 50,000 units shipping this year"},
   {"date":"2026-08-24","theme":"world","headline":"Merck/Moderna intismeran mRNA cancer vaccine Phase 3 success — 49% melanoma recurrence reduction"},
   {"date":"2026-08-24","theme":"world","headline":"Iceland referendum August 29 on EU membership restart — polls knife-edge, Trump Arctic factor"},
@@ -77,5 +66,16 @@
   {"date":"2026-08-30","theme":"africa","headline":"Middle East crisis exposes Nigeria's 90% offshore cloud dependency; $1.9bn data centre boom accelerates"},
   {"date":"2026-08-30","theme":"france","headline":"France peak drought: 92 departments under water restrictions, 62 at crisis level"},
   {"date":"2026-08-30","theme":"lebanon","headline":"Katz: IDF will not leave south Lebanon until Hezbollah fully disarmed; Lebanese PM condemns systematic destruction"},
-  {"date":"2026-08-30","theme":"sport","headline":"US Open 2026 Day 1: Djokovic, Venus Williams open main draw at Flushing Meadows"}
+  {"date":"2026-08-30","theme":"sport","headline":"US Open 2026 Day 1: Djokovic, Venus Williams open main draw at Flushing Meadows"},
+  {"date":"2026-08-31","theme":"world","headline":"SCO Summit Bishkek: Putin, Xi, Modi and Iran's Pezeshkian convene — anti-Western axis gathers for 25th anniversary"},
+  {"date":"2026-08-31","theme":"world","headline":"Apple CEO: Tim Cook hands leadership to John Ternus Sept 1 — first Apple CEO change in 15 years"},
+  {"date":"2026-08-31","theme":"world","headline":"Update: Fed Chair Warsh faces no-win on US rates — raise vs Trump's fury or let inflation run this autumn"},
+  {"date":"2026-08-31","theme":"world","headline":"China/Tibet: 261 foreigners from 23 nations missing on Chinese side of Himalayan glacial flood"},
+  {"date":"2026-08-31","theme":"world","headline":"Economist: Climate change may accelerate faster than models show — anticyclone circulation risk"},
+  {"date":"2026-08-31","theme":"science","headline":"Nancy Grace Roman Space Telescope launches on Falcon Heavy — 100x Hubble's field of view, studies dark energy"},
+  {"date":"2026-08-31","theme":"society","headline":"Economist: America awash in indignation — new data quantifies surge in political anger on social media and Congress floor"},
+  {"date":"2026-08-31","theme":"lebanon","headline":"EASA lifts Lebanon overflight restriction today (Aug 31) — first concrete aviation normalisation signal"},
+  {"date":"2026-08-31","theme":"lebanon","headline":"Lebanon financial: BBI 29.7 (+23% YTD), conflict losses estimated $20B by Finance Minister Jaber"},
+  {"date":"2026-08-31","theme":"real-estate","headline":"Prime Beirut +5-10% fresh dollars, cash-only market; 5-7% yields competitive with Dubai and Cyprus"},
+  {"date":"2026-08-31","theme":"africa","headline":"Airtel to open Nigeria's largest data centre by end-2026 — first of five pan-Africa hyperscale facilities"}
 ]
