@@ -1,15 +1,4 @@
 [
-  {"date":"2026-08-24","theme":"world","headline":"China humanoid robot Superman clocked 12.66 m/s beating Usain Bolt; 50,000 units shipping this year"},
-  {"date":"2026-08-24","theme":"world","headline":"Merck/Moderna intismeran mRNA cancer vaccine Phase 3 success — 49% melanoma recurrence reduction"},
-  {"date":"2026-08-24","theme":"world","headline":"Iceland referendum August 29 on EU membership restart — polls knife-edge, Trump Arctic factor"},
-  {"date":"2026-08-24","theme":"world","headline":"Nvidia Q2 FY27 earnings Wednesday August 26 — $93-95bn expected, AI boom durability test"},
-  {"date":"2026-08-24","theme":"world","headline":"US polling credibility crisis deepens — bad data and misleading betting odds ahead of 2026 midterms"},
-  {"date":"2026-08-24","theme":"africa","headline":"Tanzania inaugurates Julius Nyerere Hydropower Plant — $2.9bn, 2,115 MW, half the national grid"},
-  {"date":"2026-08-24","theme":"africa","headline":"Chinese firms hold 15 of 33 shortlist places at Ethiopia's $12.5bn new Addis Ababa airport"},
-  {"date":"2026-08-24","theme":"lebanon","headline":"Lebanon-Israel Rome talks under Hezbollah veto threat; Israeli drones continue striking south Lebanon"},
-  {"date":"2026-08-24","theme":"france","headline":"Glucksmann launches 2027 French presidential bid — centre-left enters race to challenge Le Pen"},
-  {"date":"2026-08-24","theme":"france","headline":"Yvette Roudy, France's first minister for women's rights, dies at 97"},
-  {"date":"2026-08-24","theme":"sport","headline":"US Open 2026 qualifying Day 1 begins — main draw and Alcaraz/Sabalenka defence from August 30"},
   {"date":"2026-08-25","theme":"world","headline":"US 'Operation Economic Outcast' sweeping Iran sanctions — Economist says Tehran can resist; Brent falls to $92"},
   {"date":"2026-08-25","theme":"world","headline":"Supreme Court allows Trump's mail-voting restrictions to proceed ahead of November midterms"},
   {"date":"2026-08-25","theme":"world","headline":"Shein lists at $27bn in Hong Kong — 70% below 2022 $100bn peak as Q1 net loss hits $99m"},
@@ -77,5 +66,16 @@
   {"date":"2026-08-31","theme":"lebanon","headline":"EASA lifts Lebanon overflight restriction today (Aug 31) — first concrete aviation normalisation signal"},
   {"date":"2026-08-31","theme":"lebanon","headline":"Lebanon financial: BBI 29.7 (+23% YTD), conflict losses estimated $20B by Finance Minister Jaber"},
   {"date":"2026-08-31","theme":"real-estate","headline":"Prime Beirut +5-10% fresh dollars, cash-only market; 5-7% yields competitive with Dubai and Cyprus"},
-  {"date":"2026-08-31","theme":"africa","headline":"Airtel to open Nigeria's largest data centre by end-2026 — first of five pan-Africa hyperscale facilities"}
+  {"date":"2026-08-31","theme":"africa","headline":"Airtel to open Nigeria's largest data centre by end-2026 — first of five pan-Africa hyperscale facilities"},
+  {"date":"2026-09-01","theme":"world","headline":"Iran IRGC fires on US bases in Jordan and UAE after Larak airstrike — Iran war opens dangerous new front"},
+  {"date":"2026-09-01","theme":"world","headline":"Economist leads: Putin cornered, planning unknown Ukraine escalation — Western officials warn of new offensive"},
+  {"date":"2026-09-01","theme":"world","headline":"ICE deportees to Africa recount shackles and abuse; US judge blocks postal voting rule barring millions"},
+  {"date":"2026-09-01","theme":"world","headline":"Netanyahu stirs Israeli election discord; Brazil's Milei-clone Renan Santos emerges as dark horse"},
+  {"date":"2026-09-01","theme":"world","headline":"Economist: AI usage beyond coders still uncertain — data-centre return on investment questioned"},
+  {"date":"2026-09-01","theme":"africa","headline":"Nigeria returns to FTSE Frontier Market index on 21 September — institutional inflows expected"},
+  {"date":"2026-09-01","theme":"france","headline":"France pension reform rollback starts today — 1964-68 birth years can retire 3-6 months earlier"},
+  {"date":"2026-09-01","theme":"sport","headline":"US Open: Navone stuns Djokovic in five sets on Day 1 — biggest Grand Slam upset of 2026"},
+  {"date":"2026-09-01","theme":"lebanon","headline":"8th Israel-Lebanon Rome talks round confirmed for September; UNIFIL decision needed this month"},
+  {"date":"2026-09-01","theme":"lebanon","headline":"IMF calls Lebanon banking law amendment 'major step'; World Bank projects -6.4% GDP contraction 2026"},
+  {"date":"2026-09-01","theme":"real-estate","headline":"NYC office-to-residential conversion wave quickens sharply — NYT analysis; global trend accelerating"}
 ]
