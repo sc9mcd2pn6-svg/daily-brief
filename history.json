@@ -1,14 +1,4 @@
 [
-  {"date":"2026-08-25","theme":"world","headline":"US 'Operation Economic Outcast' sweeping Iran sanctions — Economist says Tehran can resist; Brent falls to $92"},
-  {"date":"2026-08-25","theme":"world","headline":"Supreme Court allows Trump's mail-voting restrictions to proceed ahead of November midterms"},
-  {"date":"2026-08-25","theme":"world","headline":"Shein lists at $27bn in Hong Kong — 70% below 2022 $100bn peak as Q1 net loss hits $99m"},
-  {"date":"2026-08-25","theme":"world","headline":"Indonesia wildfires surge 3x under El Niño — 1,612 hotspots in first 13 days of August"},
-  {"date":"2026-08-25","theme":"world","headline":"Nvidia Jetson Orin chips power Russian autonomous kill drones — killed 3 civilians in Zaporizhzhia"},
-  {"date":"2026-08-25","theme":"africa","headline":"Nigeria National Digital Cloud Policy mandates onshore data; MTN Ikeja AI data centre Phase 2 confirmed H2 2026"},
-  {"date":"2026-08-25","theme":"africa","headline":"Cross River State seeks $25m at UNCCD COP17 for 2026 flood and landslide disaster recovery"},
-  {"date":"2026-08-25","theme":"lebanon","headline":"Lebanon Eurobonds up 19% YTD on FSDR passage and Rome talks; BBI 28.72, yield 61%; World Bank GDP -6.4%"},
-  {"date":"2026-08-25","theme":"real-estate","headline":"Beirut prime holds +5-10% on diaspora cash buyers; EMEA data-centre real estate hits record investment"},
-  {"date":"2026-08-25","theme":"art","headline":"Autumn auction calendar: Phillips NYC 26 Sep, Sotheby's HK 29-30 Sep; no Castellani on September market"},
   {"date":"2026-08-26","theme":"world","headline":"CIA Director Ratcliffe makes secret unannounced trip to Moscow — US asked Ukraine to suspend strikes"},
   {"date":"2026-08-26","theme":"world","headline":"Dolly Parton dies at 80 — 25 No.1 country singles, 11 Grammys, 200m books donated to children"},
   {"date":"2026-08-26","theme":"world","headline":"Update: Canada retaliates with 50% tariffs on $20bn US goods; Economist leads with Carney trade war warning"},
@@ -77,5 +67,16 @@
   {"date":"2026-09-01","theme":"sport","headline":"US Open: Navone stuns Djokovic in five sets on Day 1 — biggest Grand Slam upset of 2026"},
   {"date":"2026-09-01","theme":"lebanon","headline":"8th Israel-Lebanon Rome talks round confirmed for September; UNIFIL decision needed this month"},
   {"date":"2026-09-01","theme":"lebanon","headline":"IMF calls Lebanon banking law amendment 'major step'; World Bank projects -6.4% GDP contraction 2026"},
-  {"date":"2026-09-01","theme":"real-estate","headline":"NYC office-to-residential conversion wave quickens sharply — NYT analysis; global trend accelerating"}
+  {"date":"2026-09-01","theme":"real-estate","headline":"NYC office-to-residential conversion wave quickens sharply — NYT analysis; global trend accelerating"},
+  {"date":"2026-09-02","theme":"world","headline":"Update: US launches second wave of Iran airstrikes; Tehran immediately counter-attacks; oil +4% to $91.52"},
+  {"date":"2026-09-02","theme":"world","headline":"Global bond sell-off deepens: US 10-yr Treasury hits 4.8%, Japan 3% for first time since 1996"},
+  {"date":"2026-09-02","theme":"world","headline":"Army Secretary Driscoll resigns over Hegseth generals purge — warns of readiness crisis; leaves Sept 3"},
+  {"date":"2026-09-02","theme":"world","headline":"Germany raises threat level to 'high'; closes Russian consulate after Leipzig airport drone attack"},
+  {"date":"2026-09-02","theme":"world","headline":"Economist: China PLA jets stage mock combat over Egypt — dogfight diplomacy goes global"},
+  {"date":"2026-09-02","theme":"africa","headline":"MTN and UAE form Africa Data Hub for 150MW AI data centre in Nigeria and South Africa"},
+  {"date":"2026-09-02","theme":"france","headline":"easyJet cabin crew strike rolls into September; Paris, Clermont-Ferrand and Reims transport disrupted"},
+  {"date":"2026-09-02","theme":"sport","headline":"US Open Day 2: Second round underway with Pegula, Sinner and Alcaraz in action"},
+  {"date":"2026-09-02","theme":"real-estate","headline":"Economist: Miami 17 homes above $50m last year — city's extraordinary economic transformation examined"},
+  {"date":"2026-09-02","theme":"lebanon","headline":"Aoun in Rome for UNIFIL succession talks; France-Italy replacement force initiative taking shape"},
+  {"date":"2026-09-02","theme":"lebanon","headline":"Lebanon economy: Hormuz oil spike at $91.52 compounds fuel crisis; BBI yield 60.74%"}
 ]
