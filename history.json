@@ -1,82 +1,407 @@
 [
-  {"date":"2026-08-26","theme":"world","headline":"CIA Director Ratcliffe makes secret unannounced trip to Moscow — US asked Ukraine to suspend strikes"},
-  {"date":"2026-08-26","theme":"world","headline":"Dolly Parton dies at 80 — 25 No.1 country singles, 11 Grammys, 200m books donated to children"},
-  {"date":"2026-08-26","theme":"world","headline":"Update: Canada retaliates with 50% tariffs on $20bn US goods; Economist leads with Carney trade war warning"},
-  {"date":"2026-08-26","theme":"world","headline":"Australia H5N1 bird flu spreads to all 6 states and first mammal — 236 wild-bird detections"},
-  {"date":"2026-08-26","theme":"world","headline":"Nvidia Q2 FY27 earnings tonight — consensus $91.85bn, double last year; Blackwell ramp under scrutiny"},
-  {"date":"2026-08-26","theme":"africa","headline":"Economist Africa Inc.: secretive family conglomerates are the lifeblood of African capitalism"},
-  {"date":"2026-08-26","theme":"africa","headline":"Nigeria: Niger State orders emergency rescue of mass-kidnapped worshippers in Borgu"},
-  {"date":"2026-08-26","theme":"lebanon","headline":"Israeli airstrikes kill 7 in Ansar, south Lebanon; Israel signals readiness for 'more serious' talks"},
-  {"date":"2026-08-26","theme":"lebanon","headline":"Lebanon Eurobonds +19% YTD; IMF returns Beirut September; UNIFIL drawdown accelerates toward December gap"},
-  {"date":"2026-08-27","theme":"world","headline":"Trump era of capitulation ending: Netanyahu, Europe, Gulf states, courts all now pushing back"},
-  {"date":"2026-08-27","theme":"world","headline":"Meta agrees $18bn settlement with 29 US states over social media harms to children"},
-  {"date":"2026-08-27","theme":"world","headline":"Update: Nvidia Q2 FY27 $96.2bn revenue +106% YoY; Q3 guidance $108bn; Nasdaq futures +1%"},
-  {"date":"2026-08-27","theme":"world","headline":"SpaceX $100bn 'Starbase Louisiana' — largest private US investment in history"},
-  {"date":"2026-08-27","theme":"world","headline":"Saudi nuclear deal with uranium enrichment pathway sent to Congress for 90-day review"},
-  {"date":"2026-08-27","theme":"world","headline":"India student protests escalate: water cannons in Bihar, Cockroach movement vows Delhi return"},
-  {"date":"2026-08-27","theme":"world","headline":"EPA proposes stripping public comment rights on data centre air permits"},
-  {"date":"2026-08-27","theme":"africa","headline":"Digital Realty opens third Lagos data centre; Nigeria market to double to $783m by 2031"},
-  {"date":"2026-08-27","theme":"lebanon","headline":"UNIFIL mandate push: Lebanon lobbies for extension as Hezbollah disarmament stalls, December looms"},
-  {"date":"2026-08-28","theme":"world","headline":"Nepal glacial flood kills 469, leaves 1,400+ missing — Himalayan ice avalanche wipes out villages"},
-  {"date":"2026-08-28","theme":"world","headline":"Iceland referendum August 29: 46-46 knife-edge vote to restart EU accession talks"},
-  {"date":"2026-08-28","theme":"world","headline":"Ukraine recaptures 745 km² in Dnipropetrovsk; Delta software credited with cutting Russian response time"},
-  {"date":"2026-08-28","theme":"world","headline":"FDA approves daraxonrasib for pancreatic cancer — patients live twice as long as on chemotherapy"},
-  {"date":"2026-08-28","theme":"world","headline":"Trump smart border wall underway — Economist says it will fail at main immigration goal"},
-  {"date":"2026-08-28","theme":"world","headline":"Bill Gates warns AI more dangerous than big tech admits; mass unemployment and bioterrorism risks"},
-  {"date":"2026-08-28","theme":"africa","headline":"Nigeria election campaign: Tinubu faces reform test amid 10,217 armed-group deaths since taking office"},
-  {"date":"2026-08-28","theme":"lebanon","headline":"UNIFIL succession race: Italy, France, Spain offer replacement force as December drawdown looms"},
-  {"date":"2026-08-28","theme":"lebanon","headline":"Lebanon electoral law fight: Berri's single-district plan would marginalize Christian parties"},
-  {"date":"2026-08-28","theme":"city","headline":"NYC: Mamdani launches CEO business advisory council — socialist mayor courts Wall Street"},
-  {"date":"2026-08-28","theme":"real-estate","headline":"EMEA data centres: 31% of global real estate capital; prime powered land up 82% to €2.26M/MW since 2021"},
-  {"date":"2026-08-29","theme":"world","headline":"US national debt crosses $40 trillion — Washington shows little political will to act"},
-  {"date":"2026-08-29","theme":"world","headline":"Fed Chair Warsh at Jackson Hole signals rate hike in play — 'work to do' on inflation"},
-  {"date":"2026-08-29","theme":"world","headline":"Update: Iran war 6 months — US Strategic Petroleum Reserve at 1982 lows, Iranians hungry and confused"},
-  {"date":"2026-08-29","theme":"world","headline":"Ukraine military balloons launch drones deep inside Russia — Economist reveals low-tech tactic"},
-  {"date":"2026-08-29","theme":"world","headline":"King Harald V of Norway dies at 89 — son becomes King Haakon VIII after 35-year reign"},
-  {"date":"2026-08-29","theme":"world","headline":"Update: Iceland EU referendum underway today — No camp held narrow pre-vote lead"},
-  {"date":"2026-08-29","theme":"africa","headline":"Nigeria CBN mandates onshore data storage by Jan 2027; 4,700 cyberattacks/week highest in Africa"},
-  {"date":"2026-08-29","theme":"france","headline":"France tax authority hacked: 678,000 taxpayers' data stolen by cybercriminal group ZeroBytes"},
-  {"date":"2026-08-29","theme":"lebanon","headline":"Lebanon FSDR bank resolution law: parliamentary compromise leaves governance and shareholder issues unresolved — L'Orient Today"},
-  {"date":"2026-08-30","theme":"world","headline":"Trump claims 55% US stake in Venezuela's 65-billion-barrel oil reserves — Chevron partnership"},
-  {"date":"2026-08-30","theme":"world","headline":"Update: UAE tankers attacked in Hormuz; Iran charges $2M toll per vessel; Qatar reports progress on ceasefire"},
-  {"date":"2026-08-30","theme":"world","headline":"Update: Iceland EU referendum too close to call — counting underway after polls close"},
-  {"date":"2026-08-30","theme":"world","headline":"Economist: Trump's faltering presidency makes him more dangerous than ever ahead of midterms"},
-  {"date":"2026-08-30","theme":"world","headline":"Economist: It now seems possible to vaccinate against cancer"},
-  {"date":"2026-08-30","theme":"africa","headline":"Middle East crisis exposes Nigeria's 90% offshore cloud dependency; $1.9bn data centre boom accelerates"},
-  {"date":"2026-08-30","theme":"france","headline":"France peak drought: 92 departments under water restrictions, 62 at crisis level"},
-  {"date":"2026-08-30","theme":"lebanon","headline":"Katz: IDF will not leave south Lebanon until Hezbollah fully disarmed; Lebanese PM condemns systematic destruction"},
-  {"date":"2026-08-30","theme":"sport","headline":"US Open 2026 Day 1: Djokovic, Venus Williams open main draw at Flushing Meadows"},
-  {"date":"2026-08-31","theme":"world","headline":"SCO Summit Bishkek: Putin, Xi, Modi and Iran's Pezeshkian convene — anti-Western axis gathers for 25th anniversary"},
-  {"date":"2026-08-31","theme":"world","headline":"Apple CEO: Tim Cook hands leadership to John Ternus Sept 1 — first Apple CEO change in 15 years"},
-  {"date":"2026-08-31","theme":"world","headline":"Update: Fed Chair Warsh faces no-win on US rates — raise vs Trump's fury or let inflation run this autumn"},
-  {"date":"2026-08-31","theme":"world","headline":"China/Tibet: 261 foreigners from 23 nations missing on Chinese side of Himalayan glacial flood"},
-  {"date":"2026-08-31","theme":"world","headline":"Economist: Climate change may accelerate faster than models show — anticyclone circulation risk"},
-  {"date":"2026-08-31","theme":"science","headline":"Nancy Grace Roman Space Telescope launches on Falcon Heavy — 100x Hubble's field of view, studies dark energy"},
-  {"date":"2026-08-31","theme":"society","headline":"Economist: America awash in indignation — new data quantifies surge in political anger on social media and Congress floor"},
-  {"date":"2026-08-31","theme":"lebanon","headline":"EASA lifts Lebanon overflight restriction today (Aug 31) — first concrete aviation normalisation signal"},
-  {"date":"2026-08-31","theme":"lebanon","headline":"Lebanon financial: BBI 29.7 (+23% YTD), conflict losses estimated $20B by Finance Minister Jaber"},
-  {"date":"2026-08-31","theme":"real-estate","headline":"Prime Beirut +5-10% fresh dollars, cash-only market; 5-7% yields competitive with Dubai and Cyprus"},
-  {"date":"2026-08-31","theme":"africa","headline":"Airtel to open Nigeria's largest data centre by end-2026 — first of five pan-Africa hyperscale facilities"},
-  {"date":"2026-09-01","theme":"world","headline":"Iran IRGC fires on US bases in Jordan and UAE after Larak airstrike — Iran war opens dangerous new front"},
-  {"date":"2026-09-01","theme":"world","headline":"Economist leads: Putin cornered, planning unknown Ukraine escalation — Western officials warn of new offensive"},
-  {"date":"2026-09-01","theme":"world","headline":"ICE deportees to Africa recount shackles and abuse; US judge blocks postal voting rule barring millions"},
-  {"date":"2026-09-01","theme":"world","headline":"Netanyahu stirs Israeli election discord; Brazil's Milei-clone Renan Santos emerges as dark horse"},
-  {"date":"2026-09-01","theme":"world","headline":"Economist: AI usage beyond coders still uncertain — data-centre return on investment questioned"},
-  {"date":"2026-09-01","theme":"africa","headline":"Nigeria returns to FTSE Frontier Market index on 21 September — institutional inflows expected"},
-  {"date":"2026-09-01","theme":"france","headline":"France pension reform rollback starts today — 1964-68 birth years can retire 3-6 months earlier"},
-  {"date":"2026-09-01","theme":"sport","headline":"US Open: Navone stuns Djokovic in five sets on Day 1 — biggest Grand Slam upset of 2026"},
-  {"date":"2026-09-01","theme":"lebanon","headline":"8th Israel-Lebanon Rome talks round confirmed for September; UNIFIL decision needed this month"},
-  {"date":"2026-09-01","theme":"lebanon","headline":"IMF calls Lebanon banking law amendment 'major step'; World Bank projects -6.4% GDP contraction 2026"},
-  {"date":"2026-09-01","theme":"real-estate","headline":"NYC office-to-residential conversion wave quickens sharply — NYT analysis; global trend accelerating"},
-  {"date":"2026-09-02","theme":"world","headline":"Update: US launches second wave of Iran airstrikes; Tehran immediately counter-attacks; oil +4% to $91.52"},
-  {"date":"2026-09-02","theme":"world","headline":"Global bond sell-off deepens: US 10-yr Treasury hits 4.8%, Japan 3% for first time since 1996"},
-  {"date":"2026-09-02","theme":"world","headline":"Army Secretary Driscoll resigns over Hegseth generals purge — warns of readiness crisis; leaves Sept 3"},
-  {"date":"2026-09-02","theme":"world","headline":"Germany raises threat level to 'high'; closes Russian consulate after Leipzig airport drone attack"},
-  {"date":"2026-09-02","theme":"world","headline":"Economist: China PLA jets stage mock combat over Egypt — dogfight diplomacy goes global"},
-  {"date":"2026-09-02","theme":"africa","headline":"MTN and UAE form Africa Data Hub for 150MW AI data centre in Nigeria and South Africa"},
-  {"date":"2026-09-02","theme":"france","headline":"easyJet cabin crew strike rolls into September; Paris, Clermont-Ferrand and Reims transport disrupted"},
-  {"date":"2026-09-02","theme":"sport","headline":"US Open Day 2: Second round underway with Pegula, Sinner and Alcaraz in action"},
-  {"date":"2026-09-02","theme":"real-estate","headline":"Economist: Miami 17 homes above $50m last year — city's extraordinary economic transformation examined"},
-  {"date":"2026-09-02","theme":"lebanon","headline":"Aoun in Rome for UNIFIL succession talks; France-Italy replacement force initiative taking shape"},
-  {"date":"2026-09-02","theme":"lebanon","headline":"Lebanon economy: Hormuz oil spike at $91.52 compounds fuel crisis; BBI yield 60.74%"}
+  {
+    "date": "2026-08-27",
+    "theme": "world",
+    "headline": "Trump era of capitulation ending: Netanyahu, Europe, Gulf states, courts all now pushing back"
+  },
+  {
+    "date": "2026-08-27",
+    "theme": "world",
+    "headline": "Meta agrees $18bn settlement with 29 US states over social media harms to children"
+  },
+  {
+    "date": "2026-08-27",
+    "theme": "world",
+    "headline": "Update: Nvidia Q2 FY27 $96.2bn revenue +106% YoY; Q3 guidance $108bn; Nasdaq futures +1%"
+  },
+  {
+    "date": "2026-08-27",
+    "theme": "world",
+    "headline": "SpaceX $100bn 'Starbase Louisiana' — largest private US investment in history"
+  },
+  {
+    "date": "2026-08-27",
+    "theme": "world",
+    "headline": "Saudi nuclear deal with uranium enrichment pathway sent to Congress for 90-day review"
+  },
+  {
+    "date": "2026-08-27",
+    "theme": "world",
+    "headline": "India student protests escalate: water cannons in Bihar, Cockroach movement vows Delhi return"
+  },
+  {
+    "date": "2026-08-27",
+    "theme": "world",
+    "headline": "EPA proposes stripping public comment rights on data centre air permits"
+  },
+  {
+    "date": "2026-08-27",
+    "theme": "africa",
+    "headline": "Digital Realty opens third Lagos data centre; Nigeria market to double to $783m by 2031"
+  },
+  {
+    "date": "2026-08-27",
+    "theme": "lebanon",
+    "headline": "UNIFIL mandate push: Lebanon lobbies for extension as Hezbollah disarmament stalls, December looms"
+  },
+  {
+    "date": "2026-08-28",
+    "theme": "world",
+    "headline": "Nepal glacial flood kills 469, leaves 1,400+ missing — Himalayan ice avalanche wipes out villages"
+  },
+  {
+    "date": "2026-08-28",
+    "theme": "world",
+    "headline": "Iceland referendum August 29: 46-46 knife-edge vote to restart EU accession talks"
+  },
+  {
+    "date": "2026-08-28",
+    "theme": "world",
+    "headline": "Ukraine recaptures 745 km² in Dnipropetrovsk; Delta software credited with cutting Russian response time"
+  },
+  {
+    "date": "2026-08-28",
+    "theme": "world",
+    "headline": "FDA approves daraxonrasib for pancreatic cancer — patients live twice as long as on chemotherapy"
+  },
+  {
+    "date": "2026-08-28",
+    "theme": "world",
+    "headline": "Trump smart border wall underway — Economist says it will fail at main immigration goal"
+  },
+  {
+    "date": "2026-08-28",
+    "theme": "world",
+    "headline": "Bill Gates warns AI more dangerous than big tech admits; mass unemployment and bioterrorism risks"
+  },
+  {
+    "date": "2026-08-28",
+    "theme": "africa",
+    "headline": "Nigeria election campaign: Tinubu faces reform test amid 10,217 armed-group deaths since taking office"
+  },
+  {
+    "date": "2026-08-28",
+    "theme": "lebanon",
+    "headline": "UNIFIL succession race: Italy, France, Spain offer replacement force as December drawdown looms"
+  },
+  {
+    "date": "2026-08-28",
+    "theme": "lebanon",
+    "headline": "Lebanon electoral law fight: Berri's single-district plan would marginalize Christian parties"
+  },
+  {
+    "date": "2026-08-28",
+    "theme": "city",
+    "headline": "NYC: Mamdani launches CEO business advisory council — socialist mayor courts Wall Street"
+  },
+  {
+    "date": "2026-08-28",
+    "theme": "real-estate",
+    "headline": "EMEA data centres: 31% of global real estate capital; prime powered land up 82% to €2.26M/MW since 2021"
+  },
+  {
+    "date": "2026-08-29",
+    "theme": "world",
+    "headline": "US national debt crosses $40 trillion — Washington shows little political will to act"
+  },
+  {
+    "date": "2026-08-29",
+    "theme": "world",
+    "headline": "Fed Chair Warsh at Jackson Hole signals rate hike in play — 'work to do' on inflation"
+  },
+  {
+    "date": "2026-08-29",
+    "theme": "world",
+    "headline": "Update: Iran war 6 months — US Strategic Petroleum Reserve at 1982 lows, Iranians hungry and confused"
+  },
+  {
+    "date": "2026-08-29",
+    "theme": "world",
+    "headline": "Ukraine military balloons launch drones deep inside Russia — Economist reveals low-tech tactic"
+  },
+  {
+    "date": "2026-08-29",
+    "theme": "world",
+    "headline": "King Harald V of Norway dies at 89 — son becomes King Haakon VIII after 35-year reign"
+  },
+  {
+    "date": "2026-08-29",
+    "theme": "world",
+    "headline": "Update: Iceland EU referendum underway today — No camp held narrow pre-vote lead"
+  },
+  {
+    "date": "2026-08-29",
+    "theme": "africa",
+    "headline": "Nigeria CBN mandates onshore data storage by Jan 2027; 4,700 cyberattacks/week highest in Africa"
+  },
+  {
+    "date": "2026-08-29",
+    "theme": "france",
+    "headline": "France tax authority hacked: 678,000 taxpayers' data stolen by cybercriminal group ZeroBytes"
+  },
+  {
+    "date": "2026-08-29",
+    "theme": "lebanon",
+    "headline": "Lebanon FSDR bank resolution law: parliamentary compromise leaves governance and shareholder issues unresolved — L'Orient Today"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "world",
+    "headline": "Trump claims 55% US stake in Venezuela's 65-billion-barrel oil reserves — Chevron partnership"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "world",
+    "headline": "Update: UAE tankers attacked in Hormuz; Iran charges $2M toll per vessel; Qatar reports progress on ceasefire"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "world",
+    "headline": "Update: Iceland EU referendum too close to call — counting underway after polls close"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "world",
+    "headline": "Economist: Trump's faltering presidency makes him more dangerous than ever ahead of midterms"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "world",
+    "headline": "Economist: It now seems possible to vaccinate against cancer"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "africa",
+    "headline": "Middle East crisis exposes Nigeria's 90% offshore cloud dependency; $1.9bn data centre boom accelerates"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "france",
+    "headline": "France peak drought: 92 departments under water restrictions, 62 at crisis level"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "lebanon",
+    "headline": "Katz: IDF will not leave south Lebanon until Hezbollah fully disarmed; Lebanese PM condemns systematic destruction"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "sport",
+    "headline": "US Open 2026 Day 1: Djokovic, Venus Williams open main draw at Flushing Meadows"
+  },
+  {
+    "date": "2026-08-31",
+    "theme": "world",
+    "headline": "SCO Summit Bishkek: Putin, Xi, Modi and Iran's Pezeshkian convene — anti-Western axis gathers for 25th anniversary"
+  },
+  {
+    "date": "2026-08-31",
+    "theme": "world",
+    "headline": "Apple CEO: Tim Cook hands leadership to John Ternus Sept 1 — first Apple CEO change in 15 years"
+  },
+  {
+    "date": "2026-08-31",
+    "theme": "world",
+    "headline": "Update: Fed Chair Warsh faces no-win on US rates — raise vs Trump's fury or let inflation run this autumn"
+  },
+  {
+    "date": "2026-08-31",
+    "theme": "world",
+    "headline": "China/Tibet: 261 foreigners from 23 nations missing on Chinese side of Himalayan glacial flood"
+  },
+  {
+    "date": "2026-08-31",
+    "theme": "world",
+    "headline": "Economist: Climate change may accelerate faster than models show — anticyclone circulation risk"
+  },
+  {
+    "date": "2026-08-31",
+    "theme": "science",
+    "headline": "Nancy Grace Roman Space Telescope launches on Falcon Heavy — 100x Hubble's field of view, studies dark energy"
+  },
+  {
+    "date": "2026-08-31",
+    "theme": "society",
+    "headline": "Economist: America awash in indignation — new data quantifies surge in political anger on social media and Congress floor"
+  },
+  {
+    "date": "2026-08-31",
+    "theme": "lebanon",
+    "headline": "EASA lifts Lebanon overflight restriction today (Aug 31) — first concrete aviation normalisation signal"
+  },
+  {
+    "date": "2026-08-31",
+    "theme": "lebanon",
+    "headline": "Lebanon financial: BBI 29.7 (+23% YTD), conflict losses estimated $20B by Finance Minister Jaber"
+  },
+  {
+    "date": "2026-08-31",
+    "theme": "real-estate",
+    "headline": "Prime Beirut +5-10% fresh dollars, cash-only market; 5-7% yields competitive with Dubai and Cyprus"
+  },
+  {
+    "date": "2026-08-31",
+    "theme": "africa",
+    "headline": "Airtel to open Nigeria's largest data centre by end-2026 — first of five pan-Africa hyperscale facilities"
+  },
+  {
+    "date": "2026-09-01",
+    "theme": "world",
+    "headline": "Iran IRGC fires on US bases in Jordan and UAE after Larak airstrike — Iran war opens dangerous new front"
+  },
+  {
+    "date": "2026-09-01",
+    "theme": "world",
+    "headline": "Economist leads: Putin cornered, planning unknown Ukraine escalation — Western officials warn of new offensive"
+  },
+  {
+    "date": "2026-09-01",
+    "theme": "world",
+    "headline": "ICE deportees to Africa recount shackles and abuse; US judge blocks postal voting rule barring millions"
+  },
+  {
+    "date": "2026-09-01",
+    "theme": "world",
+    "headline": "Netanyahu stirs Israeli election discord; Brazil's Milei-clone Renan Santos emerges as dark horse"
+  },
+  {
+    "date": "2026-09-01",
+    "theme": "world",
+    "headline": "Economist: AI usage beyond coders still uncertain — data-centre return on investment questioned"
+  },
+  {
+    "date": "2026-09-01",
+    "theme": "africa",
+    "headline": "Nigeria returns to FTSE Frontier Market index on 21 September — institutional inflows expected"
+  },
+  {
+    "date": "2026-09-01",
+    "theme": "france",
+    "headline": "France pension reform rollback starts today — 1964-68 birth years can retire 3-6 months earlier"
+  },
+  {
+    "date": "2026-09-01",
+    "theme": "sport",
+    "headline": "US Open: Navone stuns Djokovic in five sets on Day 1 — biggest Grand Slam upset of 2026"
+  },
+  {
+    "date": "2026-09-01",
+    "theme": "lebanon",
+    "headline": "8th Israel-Lebanon Rome talks round confirmed for September; UNIFIL decision needed this month"
+  },
+  {
+    "date": "2026-09-01",
+    "theme": "lebanon",
+    "headline": "IMF calls Lebanon banking law amendment 'major step'; World Bank projects -6.4% GDP contraction 2026"
+  },
+  {
+    "date": "2026-09-01",
+    "theme": "real-estate",
+    "headline": "NYC office-to-residential conversion wave quickens sharply — NYT analysis; global trend accelerating"
+  },
+  {
+    "date": "2026-09-02",
+    "theme": "world",
+    "headline": "Update: US launches second wave of Iran airstrikes; Tehran immediately counter-attacks; oil +4% to $91.52"
+  },
+  {
+    "date": "2026-09-02",
+    "theme": "world",
+    "headline": "Global bond sell-off deepens: US 10-yr Treasury hits 4.8%, Japan 3% for first time since 1996"
+  },
+  {
+    "date": "2026-09-02",
+    "theme": "world",
+    "headline": "Army Secretary Driscoll resigns over Hegseth generals purge — warns of readiness crisis; leaves Sept 3"
+  },
+  {
+    "date": "2026-09-02",
+    "theme": "world",
+    "headline": "Germany raises threat level to 'high'; closes Russian consulate after Leipzig airport drone attack"
+  },
+  {
+    "date": "2026-09-02",
+    "theme": "world",
+    "headline": "Economist: China PLA jets stage mock combat over Egypt — dogfight diplomacy goes global"
+  },
+  {
+    "date": "2026-09-02",
+    "theme": "africa",
+    "headline": "MTN and UAE form Africa Data Hub for 150MW AI data centre in Nigeria and South Africa"
+  },
+  {
+    "date": "2026-09-02",
+    "theme": "france",
+    "headline": "easyJet cabin crew strike rolls into September; Paris, Clermont-Ferrand and Reims transport disrupted"
+  },
+  {
+    "date": "2026-09-02",
+    "theme": "sport",
+    "headline": "US Open Day 2: Second round underway with Pegula, Sinner and Alcaraz in action"
+  },
+  {
+    "date": "2026-09-02",
+    "theme": "real-estate",
+    "headline": "Economist: Miami 17 homes above $50m last year — city's extraordinary economic transformation examined"
+  },
+  {
+    "date": "2026-09-02",
+    "theme": "lebanon",
+    "headline": "Aoun in Rome for UNIFIL succession talks; France-Italy replacement force initiative taking shape"
+  },
+  {
+    "date": "2026-09-02",
+    "theme": "lebanon",
+    "headline": "Lebanon economy: Hormuz oil spike at $91.52 compounds fuel crisis; BBI yield 60.74%"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "world",
+    "headline": "Hegseth conquers the Pentagon: 80+ flag officers fired, US Army leaderless in wartime"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "world",
+    "headline": "Update: Iran-US strikes kill four at a wedding; Iran fires on US bases; Brent at 5"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "world",
+    "headline": "UN officially abandons 1.5°C target; planet tracking 2.6°C; strategy shifts to navigate overshoot"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "world",
+    "headline": "Google wins ad tech antitrust case: no breakup ordered; business practice changes only"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "world",
+    "headline": "DHS 50-state voter fraud hunt: hundreds of agents pulled from terrorism and trafficking"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "world",
+    "headline": "Ukraine bracing for Russia harshest winter blitz yet; interceptor shortage leaves grid exposed"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "lebanon",
+    "headline": "Iran-US escalation clouds Lebanon ceasefire; oil at 5 compounds fuel crisis; UNIFIL December deadline tightens"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "africa",
+    "headline": "Nigeria water crisis deepens: public health and food security threatened as infrastructure fails"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "art",
+    "headline": "George Lucas Museum of Narrative Art opens in LA:  billion personal investment, 90% non-Star Wars"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "sport",
+    "headline": "US Open Day 3: Zverev, Gauff, Rybakina and Keys advance; second round continues"
+  }
 ]
