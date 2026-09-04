@@ -1,50 +1,5 @@
 [
   {
-    "date": "2026-08-27",
-    "theme": "world",
-    "headline": "Trump era of capitulation ending: Netanyahu, Europe, Gulf states, courts all now pushing back"
-  },
-  {
-    "date": "2026-08-27",
-    "theme": "world",
-    "headline": "Meta agrees $18bn settlement with 29 US states over social media harms to children"
-  },
-  {
-    "date": "2026-08-27",
-    "theme": "world",
-    "headline": "Update: Nvidia Q2 FY27 $96.2bn revenue +106% YoY; Q3 guidance $108bn; Nasdaq futures +1%"
-  },
-  {
-    "date": "2026-08-27",
-    "theme": "world",
-    "headline": "SpaceX $100bn 'Starbase Louisiana' — largest private US investment in history"
-  },
-  {
-    "date": "2026-08-27",
-    "theme": "world",
-    "headline": "Saudi nuclear deal with uranium enrichment pathway sent to Congress for 90-day review"
-  },
-  {
-    "date": "2026-08-27",
-    "theme": "world",
-    "headline": "India student protests escalate: water cannons in Bihar, Cockroach movement vows Delhi return"
-  },
-  {
-    "date": "2026-08-27",
-    "theme": "world",
-    "headline": "EPA proposes stripping public comment rights on data centre air permits"
-  },
-  {
-    "date": "2026-08-27",
-    "theme": "africa",
-    "headline": "Digital Realty opens third Lagos data centre; Nigeria market to double to $783m by 2031"
-  },
-  {
-    "date": "2026-08-27",
-    "theme": "lebanon",
-    "headline": "UNIFIL mandate push: Lebanon lobbies for extension as Hezbollah disarmament stalls, December looms"
-  },
-  {
     "date": "2026-08-28",
     "theme": "world",
     "headline": "Nepal glacial flood kills 469, leaves 1,400+ missing — Himalayan ice avalanche wipes out villages"
@@ -362,7 +317,7 @@
   {
     "date": "2026-09-03",
     "theme": "world",
-    "headline": "Update: Iran-US strikes kill four at a wedding; Iran fires on US bases; Brent at 5"
+    "headline": "Update: Iran-US strikes kill four at a wedding; Iran fires on US bases; Brent at $95"
   },
   {
     "date": "2026-09-03",
@@ -387,7 +342,7 @@
   {
     "date": "2026-09-03",
     "theme": "lebanon",
-    "headline": "Iran-US escalation clouds Lebanon ceasefire; oil at 5 compounds fuel crisis; UNIFIL December deadline tightens"
+    "headline": "Iran-US escalation clouds Lebanon ceasefire; oil at $95 compounds fuel crisis; UNIFIL December deadline tightens"
   },
   {
     "date": "2026-09-03",
@@ -397,11 +352,61 @@
   {
     "date": "2026-09-03",
     "theme": "art",
-    "headline": "George Lucas Museum of Narrative Art opens in LA:  billion personal investment, 90% non-Star Wars"
+    "headline": "George Lucas Museum of Narrative Art opens in LA: $1 billion personal investment, 90% non-Star Wars"
   },
   {
     "date": "2026-09-03",
     "theme": "sport",
     "headline": "US Open Day 3: Zverev, Gauff, Rybakina and Keys advance; second round continues"
+  },
+  {
+    "date": "2026-09-04",
+    "theme": "world",
+    "headline": "Volkswagen cuts 50,000 jobs and halves vehicle lineup — biggest restructuring in company history"
+  },
+  {
+    "date": "2026-09-04",
+    "theme": "world",
+    "headline": "Trump IRS threatens tax exemption for 18,000 schools with minority support programs"
+  },
+  {
+    "date": "2026-09-04",
+    "theme": "world",
+    "headline": "Putin orders all Donbas by Dec 31; threatens Kyiv city-centre ballistic missile strikes"
+  },
+  {
+    "date": "2026-09-04",
+    "theme": "world",
+    "headline": "Update: Iran war bogged down after 6 months; axis of resistance fracturing; Vance admits no timeline"
+  },
+  {
+    "date": "2026-09-04",
+    "theme": "world",
+    "headline": "Ukraine intelligence agencies SBU and HUR engage in armed shootout on Kyiv streets"
+  },
+  {
+    "date": "2026-09-04",
+    "theme": "world",
+    "headline": "Gloria Steinem, Ms. magazine co-founder and feminist icon, dies at 92"
+  },
+  {
+    "date": "2026-09-04",
+    "theme": "africa",
+    "headline": "US withdraws 200 troops from Nigeria after joint ISWAP operation; military says partnership intact"
+  },
+  {
+    "date": "2026-09-04",
+    "theme": "lebanon",
+    "headline": "EU moves to launch security mission in Lebanon as UNIFIL mandate expires December 2026"
+  },
+  {
+    "date": "2026-09-04",
+    "theme": "lebanon",
+    "headline": "World Bank: Lebanon GDP -6.4% in 2026, inflation 17.5%; IMF calls banking law a 'major step' but flags gaps"
+  },
+  {
+    "date": "2026-09-04",
+    "theme": "sport",
+    "headline": "US Open Day 5: Sinner eliminated, Alcaraz advances, Filipino Eala into third round"
   }
 ]
