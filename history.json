@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-08-28",
-    "theme": "world",
-    "headline": "Nepal glacial flood kills 469, leaves 1,400+ missing — Himalayan ice avalanche wipes out villages"
-  },
-  {
-    "date": "2026-08-28",
-    "theme": "world",
-    "headline": "Iceland referendum August 29: 46-46 knife-edge vote to restart EU accession talks"
-  },
-  {
-    "date": "2026-08-28",
-    "theme": "world",
-    "headline": "Ukraine recaptures 745 km² in Dnipropetrovsk; Delta software credited with cutting Russian response time"
-  },
-  {
-    "date": "2026-08-28",
-    "theme": "world",
-    "headline": "FDA approves daraxonrasib for pancreatic cancer — patients live twice as long as on chemotherapy"
-  },
-  {
-    "date": "2026-08-28",
-    "theme": "world",
-    "headline": "Trump smart border wall underway — Economist says it will fail at main immigration goal"
-  },
-  {
-    "date": "2026-08-28",
-    "theme": "world",
-    "headline": "Bill Gates warns AI more dangerous than big tech admits; mass unemployment and bioterrorism risks"
-  },
-  {
-    "date": "2026-08-28",
-    "theme": "africa",
-    "headline": "Nigeria election campaign: Tinubu faces reform test amid 10,217 armed-group deaths since taking office"
-  },
-  {
-    "date": "2026-08-28",
-    "theme": "lebanon",
-    "headline": "UNIFIL succession race: Italy, France, Spain offer replacement force as December drawdown looms"
-  },
-  {
-    "date": "2026-08-28",
-    "theme": "lebanon",
-    "headline": "Lebanon electoral law fight: Berri's single-district plan would marginalize Christian parties"
-  },
-  {
-    "date": "2026-08-28",
-    "theme": "city",
-    "headline": "NYC: Mamdani launches CEO business advisory council — socialist mayor courts Wall Street"
-  },
-  {
-    "date": "2026-08-28",
-    "theme": "real-estate",
-    "headline": "EMEA data centres: 31% of global real estate capital; prime powered land up 82% to €2.26M/MW since 2021"
-  },
-  {
     "date": "2026-08-29",
     "theme": "world",
     "headline": "US national debt crosses $40 trillion — Washington shows little political will to act"
@@ -237,7 +182,7 @@
   {
     "date": "2026-09-01",
     "theme": "sport",
-    "headline": "US Open: Navone stuns Djokovic in five sets on Day 1 — biggest Grand Slam upset of 2026"
+    "headline": "US Open: Navarro stuns Djokovic in five sets on Day 1 — biggest Grand Slam upset of 2026"
   },
   {
     "date": "2026-09-01",
@@ -408,5 +353,55 @@
     "date": "2026-09-04",
     "theme": "sport",
     "headline": "US Open Day 5: Sinner eliminated, Alcaraz advances, Filipino Eala into third round"
+  },
+  {
+    "date": "2026-09-05",
+    "theme": "world",
+    "headline": "Canada 50% retaliatory tariffs on $20B US goods starting Sept 8 — trade war enters new phase"
+  },
+  {
+    "date": "2026-09-05",
+    "theme": "world",
+    "headline": "Nvidia pays $12.9B for Hugging Face days after OpenAI bots hacked it — AI arms race intensifies"
+  },
+  {
+    "date": "2026-09-05",
+    "theme": "world",
+    "headline": "Update: Iran plotting major escalation to bleed Trump before midterms — US intelligence warning"
+  },
+  {
+    "date": "2026-09-05",
+    "theme": "world",
+    "headline": "US August jobs report: 162K added, 4.1% unemployment — economy resilient despite inflation"
+  },
+  {
+    "date": "2026-09-05",
+    "theme": "world",
+    "headline": "Dutch Central Bank removes 90 tons of gold from NY Fed — European decoupling from US financial system"
+  },
+  {
+    "date": "2026-09-05",
+    "theme": "world",
+    "headline": "Russia strikes Ukraine intelligence HQ as Witkoff and Kushner head to Moscow and Kyiv"
+  },
+  {
+    "date": "2026-09-05",
+    "theme": "africa",
+    "headline": "GITEX Nigeria 2026: AI sovereignty push; 28 data centres, 330MW capacity target by year end"
+  },
+  {
+    "date": "2026-09-05",
+    "theme": "france",
+    "headline": "Former PM Édouard Balladur dies at 97; Pope Leo XIV visits Paris amid 40°C September heat"
+  },
+  {
+    "date": "2026-09-05",
+    "theme": "sport",
+    "headline": "US Open Day 6: Sabalenka, Navarro, Pegula advance to fourth round"
+  },
+  {
+    "date": "2026-09-05",
+    "theme": "lebanon",
+    "headline": "Israel clears tunnels to Hezbollah fortress; UNIFIL December exit vacuum deepens"
   }
 ]
