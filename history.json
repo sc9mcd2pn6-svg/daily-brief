@@ -1,50 +1,5 @@
 [
   {
-    "date": "2026-08-29",
-    "theme": "world",
-    "headline": "US national debt crosses $40 trillion — Washington shows little political will to act"
-  },
-  {
-    "date": "2026-08-29",
-    "theme": "world",
-    "headline": "Fed Chair Warsh at Jackson Hole signals rate hike in play — 'work to do' on inflation"
-  },
-  {
-    "date": "2026-08-29",
-    "theme": "world",
-    "headline": "Update: Iran war 6 months — US Strategic Petroleum Reserve at 1982 lows, Iranians hungry and confused"
-  },
-  {
-    "date": "2026-08-29",
-    "theme": "world",
-    "headline": "Ukraine military balloons launch drones deep inside Russia — Economist reveals low-tech tactic"
-  },
-  {
-    "date": "2026-08-29",
-    "theme": "world",
-    "headline": "King Harald V of Norway dies at 89 — son becomes King Haakon VIII after 35-year reign"
-  },
-  {
-    "date": "2026-08-29",
-    "theme": "world",
-    "headline": "Update: Iceland EU referendum underway today — No camp held narrow pre-vote lead"
-  },
-  {
-    "date": "2026-08-29",
-    "theme": "africa",
-    "headline": "Nigeria CBN mandates onshore data storage by Jan 2027; 4,700 cyberattacks/week highest in Africa"
-  },
-  {
-    "date": "2026-08-29",
-    "theme": "france",
-    "headline": "France tax authority hacked: 678,000 taxpayers' data stolen by cybercriminal group ZeroBytes"
-  },
-  {
-    "date": "2026-08-29",
-    "theme": "lebanon",
-    "headline": "Lebanon FSDR bank resolution law: parliamentary compromise leaves governance and shareholder issues unresolved — L'Orient Today"
-  },
-  {
     "date": "2026-08-30",
     "theme": "world",
     "headline": "Trump claims 55% US stake in Venezuela's 65-billion-barrel oil reserves — Chevron partnership"
@@ -403,5 +358,50 @@
     "date": "2026-09-05",
     "theme": "lebanon",
     "headline": "Israel clears tunnels to Hezbollah fortress; UNIFIL December exit vacuum deepens"
+  },
+  {
+    "date": "2026-09-06",
+    "theme": "world",
+    "headline": "Germany Saxony-Anhalt: AfD eyes first postwar far-right state government, polling at 41% on election day"
+  },
+  {
+    "date": "2026-09-06",
+    "theme": "world",
+    "headline": "Update: Iran more confident after 6 months — US intelligence finds Tehran mapped US power limits; tankers destroyed at Kharg Island"
+  },
+  {
+    "date": "2026-09-06",
+    "theme": "world",
+    "headline": "Pentagon polygraph tests for ~50 Joint Staff in unprecedented leak hunt tied to Iran war reporting"
+  },
+  {
+    "date": "2026-09-06",
+    "theme": "world",
+    "headline": "Trump threatens to halt trade with all deficit nations unless Fed cuts rates — Dow fell 260 points"
+  },
+  {
+    "date": "2026-09-06",
+    "theme": "africa",
+    "headline": "Nigeria cholera crisis surpasses 65,000 cases in 2026; NCDC urgent warning as water infrastructure fails"
+  },
+  {
+    "date": "2026-09-06",
+    "theme": "lebanon",
+    "headline": "UNIFIL December exit confirmed by Resolution 2790; troops to fall from 7K to 900-3K; EU mission undefined"
+  },
+  {
+    "date": "2026-09-06",
+    "theme": "lebanon",
+    "headline": "IMF resumes Beirut technical meetings; Goldman Sachs warns Lebanese Eurobonds overvalued at BBI~29.7"
+  },
+  {
+    "date": "2026-09-06",
+    "theme": "sport",
+    "headline": "US Open Day 7: Fourth round — Alcaraz vs Tommy Paul key match; Sabalenka vs Townsend"
+  },
+  {
+    "date": "2026-09-06",
+    "theme": "real-estate",
+    "headline": "Global prime H2 2026: Cape Town leads, Tokyo up 7%, London prime falling; data centres top investment priority"
   }
 ]
