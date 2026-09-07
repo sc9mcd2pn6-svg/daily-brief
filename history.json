@@ -1,50 +1,5 @@
 [
   {
-    "date": "2026-08-30",
-    "theme": "world",
-    "headline": "Trump claims 55% US stake in Venezuela's 65-billion-barrel oil reserves — Chevron partnership"
-  },
-  {
-    "date": "2026-08-30",
-    "theme": "world",
-    "headline": "Update: UAE tankers attacked in Hormuz; Iran charges $2M toll per vessel; Qatar reports progress on ceasefire"
-  },
-  {
-    "date": "2026-08-30",
-    "theme": "world",
-    "headline": "Update: Iceland EU referendum too close to call — counting underway after polls close"
-  },
-  {
-    "date": "2026-08-30",
-    "theme": "world",
-    "headline": "Economist: Trump's faltering presidency makes him more dangerous than ever ahead of midterms"
-  },
-  {
-    "date": "2026-08-30",
-    "theme": "world",
-    "headline": "Economist: It now seems possible to vaccinate against cancer"
-  },
-  {
-    "date": "2026-08-30",
-    "theme": "africa",
-    "headline": "Middle East crisis exposes Nigeria's 90% offshore cloud dependency; $1.9bn data centre boom accelerates"
-  },
-  {
-    "date": "2026-08-30",
-    "theme": "france",
-    "headline": "France peak drought: 92 departments under water restrictions, 62 at crisis level"
-  },
-  {
-    "date": "2026-08-30",
-    "theme": "lebanon",
-    "headline": "Katz: IDF will not leave south Lebanon until Hezbollah fully disarmed; Lebanese PM condemns systematic destruction"
-  },
-  {
-    "date": "2026-08-30",
-    "theme": "sport",
-    "headline": "US Open 2026 Day 1: Djokovic, Venus Williams open main draw at Flushing Meadows"
-  },
-  {
     "date": "2026-08-31",
     "theme": "world",
     "headline": "SCO Summit Bishkek: Putin, Xi, Modi and Iran's Pezeshkian convene — anti-Western axis gathers for 25th anniversary"
@@ -403,5 +358,55 @@
     "date": "2026-09-06",
     "theme": "real-estate",
     "headline": "Global prime H2 2026: Cape Town leads, Tokyo up 7%, London prime falling; data centres top investment priority"
+  },
+  {
+    "date": "2026-09-07",
+    "theme": "world",
+    "headline": "Update: AfD wins Saxony-Anhalt with 44.5% — first postwar far-right state government in Germany plausible"
+  },
+  {
+    "date": "2026-09-07",
+    "theme": "world",
+    "headline": "Update: Witkoff & Kushner in Kyiv after Moscow — Ukraine peace shuttle, first real talks in 8 months"
+  },
+  {
+    "date": "2026-09-07",
+    "theme": "world",
+    "headline": "BRICS Summit New Delhi Sept 12-13 — Xi, Putin, Pezeshkian attending; Iran-UAE tensions inside bloc"
+  },
+  {
+    "date": "2026-09-07",
+    "theme": "world",
+    "headline": "ECB rate decision Thursday Sept 10 — +25bp expected, inflation and bond yields rising alarmingly"
+  },
+  {
+    "date": "2026-09-07",
+    "theme": "world",
+    "headline": "Economist: AI creates 1M US jobs — apocalypse postponed, boom is here"
+  },
+  {
+    "date": "2026-09-07",
+    "theme": "world",
+    "headline": "Update: Saudi Arabia joins US strikes on Iranian militias in Iraq — war widens, Hormuz deal talks via Oman"
+  },
+  {
+    "date": "2026-09-07",
+    "theme": "africa",
+    "headline": "West Africa's first hyperscale AI data centre campus opens in Lagos — Airtel Eko Atlantic and Kasi Lekki live"
+  },
+  {
+    "date": "2026-09-07",
+    "theme": "lebanon",
+    "headline": "Alvarez & Marsal begins BDL forensic audit — tracing $20B in missing reserves since 2019 collapse"
+  },
+  {
+    "date": "2026-09-07",
+    "theme": "lebanon",
+    "headline": "BLOM Lebanon PMI at 50.1 in August — economy stalls, tourism disappoints, export orders contract"
+  },
+  {
+    "date": "2026-09-07",
+    "theme": "sport",
+    "headline": "US Open Day 8 QFs set: Alcaraz, Tiafoe, Shelton; Sabalenka, Navarro, Pegula all advance"
   }
 ]
