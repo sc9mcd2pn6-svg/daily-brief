@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-08-31",
-    "theme": "world",
-    "headline": "SCO Summit Bishkek: Putin, Xi, Modi and Iran's Pezeshkian convene — anti-Western axis gathers for 25th anniversary"
-  },
-  {
-    "date": "2026-08-31",
-    "theme": "world",
-    "headline": "Apple CEO: Tim Cook hands leadership to John Ternus Sept 1 — first Apple CEO change in 15 years"
-  },
-  {
-    "date": "2026-08-31",
-    "theme": "world",
-    "headline": "Update: Fed Chair Warsh faces no-win on US rates — raise vs Trump's fury or let inflation run this autumn"
-  },
-  {
-    "date": "2026-08-31",
-    "theme": "world",
-    "headline": "China/Tibet: 261 foreigners from 23 nations missing on Chinese side of Himalayan glacial flood"
-  },
-  {
-    "date": "2026-08-31",
-    "theme": "world",
-    "headline": "Economist: Climate change may accelerate faster than models show — anticyclone circulation risk"
-  },
-  {
-    "date": "2026-08-31",
-    "theme": "science",
-    "headline": "Nancy Grace Roman Space Telescope launches on Falcon Heavy — 100x Hubble's field of view, studies dark energy"
-  },
-  {
-    "date": "2026-08-31",
-    "theme": "society",
-    "headline": "Economist: America awash in indignation — new data quantifies surge in political anger on social media and Congress floor"
-  },
-  {
-    "date": "2026-08-31",
-    "theme": "lebanon",
-    "headline": "EASA lifts Lebanon overflight restriction today (Aug 31) — first concrete aviation normalisation signal"
-  },
-  {
-    "date": "2026-08-31",
-    "theme": "lebanon",
-    "headline": "Lebanon financial: BBI 29.7 (+23% YTD), conflict losses estimated $20B by Finance Minister Jaber"
-  },
-  {
-    "date": "2026-08-31",
-    "theme": "real-estate",
-    "headline": "Prime Beirut +5-10% fresh dollars, cash-only market; 5-7% yields competitive with Dubai and Cyprus"
-  },
-  {
-    "date": "2026-08-31",
-    "theme": "africa",
-    "headline": "Airtel to open Nigeria's largest data centre by end-2026 — first of five pan-Africa hyperscale facilities"
-  },
-  {
     "date": "2026-09-01",
     "theme": "world",
     "headline": "Iran IRGC fires on US bases in Jordan and UAE after Larak airstrike — Iran war opens dangerous new front"
@@ -408,5 +353,50 @@
     "date": "2026-09-07",
     "theme": "sport",
     "headline": "US Open Day 8 QFs set: Alcaraz, Tiafoe, Shelton; Sabalenka, Navarro, Pegula all advance"
+  },
+  {
+    "date": "2026-09-08",
+    "theme": "world",
+    "headline": "Update: Iran-US tanker war erupts at Hormuz — ballistic missile fired at US warships, oil tankers attacked on both sides"
+  },
+  {
+    "date": "2026-09-08",
+    "theme": "world",
+    "headline": "Ukraine lost $1.2B to defense procurement fraud in 2024 — contracts still going to firms under criminal investigation"
+  },
+  {
+    "date": "2026-09-08",
+    "theme": "world",
+    "headline": "China's Inspur used renamed US subsidiary Aivres to buy $5.6B in Nvidia AI chips despite US blacklist"
+  },
+  {
+    "date": "2026-09-08",
+    "theme": "world",
+    "headline": "Amazon cargo Boeing 767 crashes at Miami airport killing 5 — NTSB full investigation underway"
+  },
+  {
+    "date": "2026-09-08",
+    "theme": "world",
+    "headline": "Milei reloaded: Economist finds Argentina's liberal experiment struggling, president unyielding with gold chainsaw"
+  },
+  {
+    "date": "2026-09-08",
+    "theme": "africa",
+    "headline": "Nigeria CBN orders banks and fintechs to store data locally by January 2027 — data centre demand surge imminent"
+  },
+  {
+    "date": "2026-09-08",
+    "theme": "lebanon",
+    "headline": "Israel kills 12 in Kfar Reman airstrike including 2 children — Aoun accuses Israel of destroying US-brokered deal"
+  },
+  {
+    "date": "2026-09-08",
+    "theme": "france",
+    "headline": "Hospital workers national mobilisation and firefighters September strike — French public services under pressure"
+  },
+  {
+    "date": "2026-09-08",
+    "theme": "sport",
+    "headline": "US Open QF Day: Alcaraz vs Shelton, Sabalenka vs Wimbledon champion Nosková — biggest day at Flushing Meadows"
   }
 ]
