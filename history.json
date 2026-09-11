@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-09-03",
-    "theme": "world",
-    "headline": "Hegseth conquers the Pentagon: 80+ flag officers fired, US Army leaderless in wartime"
-  },
-  {
-    "date": "2026-09-03",
-    "theme": "world",
-    "headline": "Update: Iran-US strikes kill four at a wedding; Iran fires on US bases; Brent at $95"
-  },
-  {
-    "date": "2026-09-03",
-    "theme": "world",
-    "headline": "UN officially abandons 1.5°C target; planet tracking 2.6°C; strategy shifts to navigate overshoot"
-  },
-  {
-    "date": "2026-09-03",
-    "theme": "world",
-    "headline": "Google wins ad tech antitrust case: no breakup ordered; business practice changes only"
-  },
-  {
-    "date": "2026-09-03",
-    "theme": "world",
-    "headline": "DHS 50-state voter fraud hunt: hundreds of agents pulled from terrorism and trafficking"
-  },
-  {
-    "date": "2026-09-03",
-    "theme": "world",
-    "headline": "Ukraine bracing for Russia harshest winter blitz yet; interceptor shortage leaves grid exposed"
-  },
-  {
-    "date": "2026-09-03",
-    "theme": "lebanon",
-    "headline": "Iran-US escalation clouds Lebanon ceasefire; oil at $95 compounds fuel crisis; UNIFIL December deadline tightens"
-  },
-  {
-    "date": "2026-09-03",
-    "theme": "africa",
-    "headline": "Nigeria water crisis deepens: public health and food security threatened as infrastructure fails"
-  },
-  {
-    "date": "2026-09-03",
-    "theme": "art",
-    "headline": "George Lucas Museum of Narrative Art opens in LA: $1 billion personal investment, 90% non-Star Wars"
-  },
-  {
-    "date": "2026-09-03",
-    "theme": "sport",
-    "headline": "US Open Day 3: Zverev, Gauff, Rybakina and Keys advance; second round continues"
-  },
-  {
     "date": "2026-09-04",
     "theme": "world",
     "headline": "Volkswagen cuts 50,000 jobs and halves vehicle lineup — biggest restructuring in company history"
@@ -398,5 +348,55 @@
     "date": "2026-09-10",
     "theme": "lebanon",
     "headline": "Israeli strikes kill 11 in South Lebanon, destroy Nabatieh hospital — peace framework stalling"
+  },
+  {
+    "date": "2026-09-11",
+    "theme": "world",
+    "headline": "Update: Houthis seize Mocha port; oil surges above $108 — Bab el-Mandeb now exposed"
+  },
+  {
+    "date": "2026-09-11",
+    "theme": "world",
+    "headline": "Vance secretly polled generals on Iran war; munitions at record lows, commanders say"
+  },
+  {
+    "date": "2026-09-11",
+    "theme": "world",
+    "headline": "Trump's $5,000 dividend pledge triggers bond market revolt — 30-year yield at 30-year high"
+  },
+  {
+    "date": "2026-09-11",
+    "theme": "world",
+    "headline": "9/11 — 25th anniversary: New York, Washington, Shanksville mark a quarter-century"
+  },
+  {
+    "date": "2026-09-11",
+    "theme": "world",
+    "headline": "Update: BRICS summit opens New Delhi — Xi, Putin, Modi together as Iran war tests bloc unity"
+  },
+  {
+    "date": "2026-09-11",
+    "theme": "world",
+    "headline": "Anthropic reveals it blocked five bioweapons AI research cases in last nine months"
+  },
+  {
+    "date": "2026-09-11",
+    "theme": "africa",
+    "headline": "Nigeria diesel tops ₦2,000/litre — manufacturers losing half revenue to energy costs"
+  },
+  {
+    "date": "2026-09-11",
+    "theme": "lebanon",
+    "headline": "Lebanon's Deposit Recovery Law still stalled — last key blocker for IMF deal as deadline pressure mounts"
+  },
+  {
+    "date": "2026-09-11",
+    "theme": "france",
+    "headline": "INSEE cuts France 2026 growth forecast to 0.4% — oil shock, heatwaves and fiscal drag converge"
+  },
+  {
+    "date": "2026-09-11",
+    "theme": "sport",
+    "headline": "US Open men's SF: all-American Shelton vs Tiafoe night session; Gauff and Pegula in women's final"
   }
 ]
