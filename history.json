@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-09-04",
-    "theme": "world",
-    "headline": "Volkswagen cuts 50,000 jobs and halves vehicle lineup — biggest restructuring in company history"
-  },
-  {
-    "date": "2026-09-04",
-    "theme": "world",
-    "headline": "Trump IRS threatens tax exemption for 18,000 schools with minority support programs"
-  },
-  {
-    "date": "2026-09-04",
-    "theme": "world",
-    "headline": "Putin orders all Donbas by Dec 31; threatens Kyiv city-centre ballistic missile strikes"
-  },
-  {
-    "date": "2026-09-04",
-    "theme": "world",
-    "headline": "Update: Iran war bogged down after 6 months; axis of resistance fracturing; Vance admits no timeline"
-  },
-  {
-    "date": "2026-09-04",
-    "theme": "world",
-    "headline": "Ukraine intelligence agencies SBU and HUR engage in armed shootout on Kyiv streets"
-  },
-  {
-    "date": "2026-09-04",
-    "theme": "world",
-    "headline": "Gloria Steinem, Ms. magazine co-founder and feminist icon, dies at 92"
-  },
-  {
-    "date": "2026-09-04",
-    "theme": "africa",
-    "headline": "US withdraws 200 troops from Nigeria after joint ISWAP operation; military says partnership intact"
-  },
-  {
-    "date": "2026-09-04",
-    "theme": "lebanon",
-    "headline": "EU moves to launch security mission in Lebanon as UNIFIL mandate expires December 2026"
-  },
-  {
-    "date": "2026-09-04",
-    "theme": "lebanon",
-    "headline": "World Bank: Lebanon GDP -6.4% in 2026, inflation 17.5%; IMF calls banking law a 'major step' but flags gaps"
-  },
-  {
-    "date": "2026-09-04",
-    "theme": "sport",
-    "headline": "US Open Day 5: Sinner eliminated, Alcaraz advances, Filipino Eala into third round"
-  },
-  {
     "date": "2026-09-05",
     "theme": "world",
     "headline": "Canada 50% retaliatory tariffs on $20B US goods starting Sept 8 — trade war enters new phase"
@@ -398,5 +348,50 @@
     "date": "2026-09-11",
     "theme": "sport",
     "headline": "US Open men's SF: all-American Shelton vs Tiafoe night session; Gauff and Pegula in women's final"
+  },
+  {
+    "date": "2026-09-12",
+    "theme": "world",
+    "headline": "Update: Houthis seize Perim Island — Iran's proxies now control both Hormuz and Bab el-Mandeb chokepoints"
+  },
+  {
+    "date": "2026-09-12",
+    "theme": "world",
+    "headline": "Update: US diesel tops $6/gallon first time ever; 10-year Treasury near 5%; Fed hike Sept 15 now 90% priced"
+  },
+  {
+    "date": "2026-09-12",
+    "theme": "world",
+    "headline": "Update: BRICS summit New Delhi concludes — Modi-Xi bilateral held, New Delhi Declaration signed"
+  },
+  {
+    "date": "2026-09-12",
+    "theme": "world",
+    "headline": "Economist: Post-9/11 counterterrorism laws now empowering Trump's imperial presidency"
+  },
+  {
+    "date": "2026-09-12",
+    "theme": "world",
+    "headline": "Update: 24 Fields Medal winners denounce OpenAI's Navier-Stokes proof methods"
+  },
+  {
+    "date": "2026-09-12",
+    "theme": "france",
+    "headline": "Update: France cuts official growth to 0.5%, admits deficit will exceed 5% GDP"
+  },
+  {
+    "date": "2026-09-12",
+    "theme": "sport",
+    "headline": "US Open Women's Final: Sabalenka vs Rybakina — Sabalenka chasing third consecutive US Open title"
+  },
+  {
+    "date": "2026-09-12",
+    "theme": "lebanon",
+    "headline": "Lebanon import routes under threat as Houthis seal Bab el-Mandeb; Cape route adds 15-20% to costs"
+  },
+  {
+    "date": "2026-09-12",
+    "theme": "real-estate",
+    "headline": "Economist: War has not halted Gulf data centre boom — Brookfield $20B Qatar deal confirmed despite drone strikes"
   }
 ]
