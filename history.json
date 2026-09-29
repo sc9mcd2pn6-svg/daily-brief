@@ -1,13 +1,4 @@
 [
-  {"date":"2026-09-21","theme":"World","headline":"UNGA High-Level Week opens: Trump-Xi summit Thursday, Iran nuclear, climate, AI safety"},
-  {"date":"2026-09-21","theme":"World","headline":"Houthis fire ballistic missiles at Riyadh and Yanbu oil facilities; Saudi defences intercept"},
-  {"date":"2026-09-21","theme":"World","headline":"AfD wins Mecklenburg-Vorpommern; far-left takes Berlin; Chancellor Merz calls results a disaster"},
-  {"date":"2026-09-21","theme":"World","headline":"Russia enters new phase of total war; Putin cornered and planning to escalate"},
-  {"date":"2026-09-21","theme":"World","headline":"Trump bans CNN, MSNBC Now and Politico from White House; reporters denied access"},
-  {"date":"2026-09-21","theme":"Africa","headline":"Dutch drug lord Chubby Jos Leijdekkers has effectively bought Sierra Leone; Europol powerless"},
-  {"date":"2026-09-21","theme":"Africa","headline":"Nigeria data centres: Equinix $22M Lagos + KASI 100MW AI campus + Rack Centre 12MW commissioning"},
-  {"date":"2026-09-21","theme":"Lebanon","headline":"Parliament renews confidence in Salam government 68-12; Hezbollah boycotts"},
-  {"date":"2026-09-21","theme":"Lebanon","headline":"Israeli army intensifies south Lebanon strikes; IMF warns of sharp 2026 contraction"},
   {"date":"2026-09-22","theme":"World","headline":"Xi Jinping state visit US Sep 23-25; US-China AI safety notification mechanism talks concluded"},
   {"date":"2026-09-22","theme":"World","headline":"Trump reversed course on Saudi-Houthi strikes with bombs already loaded on planes"},
   {"date":"2026-09-22","theme":"World","headline":"CNN, MSNBC Now and Politico sue Trump over White House press access ban"},
@@ -78,5 +69,15 @@
   {"date":"2026-09-28","theme":"Lebanon","headline":"Lebanon transport strike Sep 30 — fuel doubled, economy -6.4%, civil unrest risk rising"},
   {"date":"2026-09-28","theme":"Lebanon","headline":"Financial gap law delayed 6-8 months — BDL governor Souhaid; IMF has severe reservations"},
   {"date":"2026-09-28","theme":"Lebanon","headline":"Air France and Transavia resume Beirut flights after 7-month suspension since Feb 2026"},
-  {"date":"2026-09-28","theme":"Real Estate","headline":"US data-centre vacancy hits record-low 1.4%; prime London deals +14%; Poland fastest-growing DC market in Europe"}
+  {"date":"2026-09-28","theme":"Real Estate","headline":"US data-centre vacancy hits record-low 1.4%; prime London deals +14%; Poland fastest-growing DC market in Europe"},
+  {"date":"2026-09-29","theme":"World","headline":"SpaceX Starship reaches orbit for first time — 26 Starlink V3 satellites deployed, moon missions now credible"},
+  {"date":"2026-09-29","theme":"World","headline":"AI governance gap widens; governments increasingly left behind as frontier models advance quarterly"},
+  {"date":"2026-09-29","theme":"World","headline":"Russian jet-powered drone strikes Kyiv National Academy of Sciences; building ablaze, 1 killed"},
+  {"date":"2026-09-29","theme":"World","headline":"North Korea declares nuclear status irreversible at UNGA; denuclearisation unconstitutional, Trump summit path closed"},
+  {"date":"2026-09-29","theme":"World","headline":"Ireland's Aughinish Alumina supplying Russia's war machine; EU sanctions pressure mounts — Economist + OCCRP"},
+  {"date":"2026-09-29","theme":"Africa","headline":"Nigeria data-localisation rules open structured investment window for Lagos data centres; CBN enforcing compliance"},
+  {"date":"2026-09-29","theme":"Lebanon","headline":"Lebanon and IMF may sign staff-level agreement today; Finance Minister meets Georgieva in Washington"},
+  {"date":"2026-09-29","theme":"Lebanon","headline":"Salam government raises transport and family allowances ahead of Sep 30 strike; inflation 17.5%, economy -6.4%"},
+  {"date":"2026-09-29","theme":"World","headline":"Nvidia $150 billion buyback — largest in history, signals multi-year AI data-centre boom conviction"},
+  {"date":"2026-09-29","theme":"Art","headline":"Ann Temkin steps down as MoMA chief curator after 18 years; first woman in role, postwar abstraction impact"}
 ]
