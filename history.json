@@ -1,15 +1,4 @@
 [
-  {"date":"2026-09-23","theme":"World","headline":"Trump drops Greenland sovereignty demands, signs Arctic military deal with Denmark"},
-  {"date":"2026-09-23","theme":"World","headline":"US debt tops $40 trillion; 10-year yield at 4.97%; $2.7 trillion annual interest if rates hold"},
-  {"date":"2026-09-23","theme":"World","headline":"Russia total war phase: grey-zone attacks on Europe intensify; Economist Kyiv on-the-ground report"},
-  {"date":"2026-09-23","theme":"World","headline":"Xi-Trump Washington summit begins September 23; trade, rare earths, AI, Taiwan on agenda"},
-  {"date":"2026-09-23","theme":"World","headline":"Trump threatens to annihilate Iran at UNGA; deal or obliteration after midterms"},
-  {"date":"2026-09-23","theme":"Africa","headline":"Wall Street grows skeptical of data centre boom; SB Energy IPO delayed, $68B in disrupted projects"},
-  {"date":"2026-09-23","theme":"Africa","headline":"Australia's $155B AI data centre pipeline proves global demand pattern relevant to Africa"},
-  {"date":"2026-09-23","theme":"France","headline":"French Senate election Sunday Sep 27; far-right surge tests Macron coalition"},
-  {"date":"2026-09-23","theme":"Real Estate","headline":"Beirut property prices now 10-15% below pre-2019 levels; paradoxical supply-driven recovery"},
-  {"date":"2026-09-23","theme":"Lebanon","headline":"Israel links south Lebanon withdrawal to Hezbollah disarmament; Kfar Tibnit strikes continue"},
-  {"date":"2026-09-23","theme":"Lebanon","headline":"IMF calls deposit law amendments aligned with standards; Goldman Sachs flags Eurobonds overvalued"},
   {"date":"2026-09-24","theme":"World","headline":"ShinyHunters breach FBI jobs portal: agents' home addresses and intelligence assignments stolen"},
   {"date":"2026-09-24","theme":"World","headline":"Iran's Pezeshkian defiant at UNGA: rejects nuclear limits, US diplomat walks out"},
   {"date":"2026-09-24","theme":"World","headline":"Trump-Xi summit day 2: AI safety framework and rare-earth détente the realistic deliverables"},
@@ -79,5 +68,16 @@
   {"date":"2026-09-30","theme":"France","headline":"France public sector strike sweeps country — CGT CFDT CGE march, 440 arrested, budget battle looms"},
   {"date":"2026-09-30","theme":"Lebanon","headline":"Update: Lebanon general transport strike hits today — fuel costs doubled, roads largely shut"},
   {"date":"2026-09-30","theme":"Lebanon","headline":"Update: Lebanon-IMF staff-level agreement slips to end of year — no deal after Washington meetings"},
-  {"date":"2026-09-30","theme":"Art","headline":"Kehinde Wiley offers to buy back US Embassy painting after Trump officials mock and remove it"}
+  {"date":"2026-09-30","theme":"Art","headline":"Kehinde Wiley offers to buy back US Embassy painting after Trump officials mock and remove it"},
+  {"date":"2026-10-01","theme":"World","headline":"Update: Russia escalates Kyiv terror campaign — jet-powered drones hit supermarkets, hospital, playgrounds before winter"},
+  {"date":"2026-10-01","theme":"World","headline":"Gulf crude through Hormuz hits pre-war baseline (13.5M bpd); refined fuel still 81% below pre-war"},
+  {"date":"2026-10-01","theme":"World","headline":"US Supreme Court allows rapid 3rd-country deportations without notice — 6-3 order, December arguments"},
+  {"date":"2026-10-01","theme":"World","headline":"Latin America prefers China to US for first time — Latinobarómetro 36% vs 31%; US approval down 28 points"},
+  {"date":"2026-10-01","theme":"World","headline":"US approves first small modular nuclear reactor — TVA BWRX-300, 300MW, Clinch River Tennessee"},
+  {"date":"2026-10-01","theme":"Africa","headline":"Nigeria public sector workers set three-day warning strike from October 2 over petrol prices and wages"},
+  {"date":"2026-10-01","theme":"France","headline":"France budget battle starts — Lecornu government risks no-confidence; national debt at 119% of GDP"},
+  {"date":"2026-10-01","theme":"Art","headline":"Sotheby's London Oct 5-6: Castellani Troika (1971) est. £900K–£1.2M; Superficie Bianca est. £350K–£450K"},
+  {"date":"2026-10-01","theme":"Real Estate","headline":"Beirut real estate $3.7B in transactions by August 2026; RCPIE investment exhibition Oct 15-17 Phoenicia"},
+  {"date":"2026-10-01","theme":"Lebanon","headline":"Lebanon ceasefire at 5 months: Israel still occupies south Lebanon; violations ongoing; Salam demands withdrawal"},
+  {"date":"2026-10-01","theme":"Lebanon","headline":"Lebanon Eurobonds slide to ~25 cents as IMF deal slips and reform credibility fades"}
 ]
