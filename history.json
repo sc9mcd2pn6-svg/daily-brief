@@ -1,13 +1,4 @@
 [
-  {"date":"2026-09-24","theme":"World","headline":"ShinyHunters breach FBI jobs portal: agents' home addresses and intelligence assignments stolen"},
-  {"date":"2026-09-24","theme":"World","headline":"Iran's Pezeshkian defiant at UNGA: rejects nuclear limits, US diplomat walks out"},
-  {"date":"2026-09-24","theme":"World","headline":"Trump-Xi summit day 2: AI safety framework and rare-earth détente the realistic deliverables"},
-  {"date":"2026-09-24","theme":"World","headline":"51 nations back Ukraine at UNGA; Putin invited to G20 Miami; overnight strikes continue"},
-  {"date":"2026-09-24","theme":"World","headline":"Data centres strain global insurance market: premiums juicy but financial stakes hard to digest"},
-  {"date":"2026-09-24","theme":"Africa","headline":"Digital Parks Africa enters Lagos race with Nigeria Data Centre 1 (NDC1), carrier-neutral"},
-  {"date":"2026-09-24","theme":"France","headline":"French Senate electoral college votes today; far-right RN gains expected by Sunday Sep 27"},
-  {"date":"2026-09-24","theme":"Lebanon","headline":"Israeli FM Katz vows long-term south Lebanon presence; US warns against permanent occupation; Kfar Tibnit building razed"},
-  {"date":"2026-09-24","theme":"Lebanon","headline":"IMF mission concludes Beirut visit: bank reform progress but economy contracting significantly in 2026"},
   {"date":"2026-09-25","theme":"World","headline":"Iran presents UNGA ceasefire roadmap — 60-day truce, Hormuz reopening; US has 4-5 days to respond"},
   {"date":"2026-09-25","theme":"World","headline":"US bond yields at 2007 highs (5.12%), mortgages cross 7%; biggest single-day jump since tariff shock"},
   {"date":"2026-09-25","theme":"World","headline":"Update: Trump-Xi summit closes — trade truce extended, two pandas, no AI or Taiwan breakthrough"},
@@ -79,5 +70,16 @@
   {"date":"2026-10-01","theme":"Art","headline":"Sotheby's London Oct 5-6: Castellani Troika (1971) est. £900K–£1.2M; Superficie Bianca est. £350K–£450K"},
   {"date":"2026-10-01","theme":"Real Estate","headline":"Beirut real estate $3.7B in transactions by August 2026; RCPIE investment exhibition Oct 15-17 Phoenicia"},
   {"date":"2026-10-01","theme":"Lebanon","headline":"Lebanon ceasefire at 5 months: Israel still occupies south Lebanon; violations ongoing; Salam demands withdrawal"},
-  {"date":"2026-10-01","theme":"Lebanon","headline":"Lebanon Eurobonds slide to ~25 cents as IMF deal slips and reform credibility fades"}
+  {"date":"2026-10-01","theme":"Lebanon","headline":"Lebanon Eurobonds slide to ~25 cents as IMF deal slips and reform credibility fades"},
+  {"date":"2026-10-02","theme":"World","headline":"Speedball capitalism: US IPO and private-debt boom hits record levels; Economist warns of systemic risk"},
+  {"date":"2026-10-02","theme":"World","headline":"FlyDubai cockpit stabbing investigation: UAE leads probe, attacker Omani citizen, weapon source unknown"},
+  {"date":"2026-10-02","theme":"World","headline":"Iran oil exports near historic lows at ~130K bpd in October — less than 6% of pre-war level"},
+  {"date":"2026-10-02","theme":"World","headline":"China's $5 trillion Six Networks infrastructure drive — water, power, computing, logistics targeting 2030"},
+  {"date":"2026-10-02","theme":"World","headline":"US 10-year Treasury holds near 5.2%; mortgage rates hit 7.28% — highest since 2007"},
+  {"date":"2026-10-02","theme":"Africa","headline":"Update: Nigeria public sector 3-day warning strike begins Oct 2 over fuel prices and wages"},
+  {"date":"2026-10-02","theme":"France","headline":"Lecornu survives no-confidence motions; forces 2026 budget through parliament without a vote"},
+  {"date":"2026-10-02","theme":"Sport","headline":"Manchester City found guilty of 114 Premier League charges; faces potential 60-point deduction or expulsion"},
+  {"date":"2026-10-02","theme":"Real Estate","headline":"Economist warns global house prices may be in trouble as US mortgages hit 7.28% and yields near 5.2%"},
+  {"date":"2026-10-02","theme":"Lebanon","headline":"President Aoun refers 2026 budget to parliament on time — rare signal of fiscal discipline"},
+  {"date":"2026-10-02","theme":"Lebanon","headline":"Lebanon Eurobonds hold near 25 cents despite IMF deal slip and Hezbollah standoff"}
 ]
