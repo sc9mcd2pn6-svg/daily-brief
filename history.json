@@ -1,15 +1,4 @@
 [
-  {"date":"2026-09-25","theme":"World","headline":"Iran presents UNGA ceasefire roadmap — 60-day truce, Hormuz reopening; US has 4-5 days to respond"},
-  {"date":"2026-09-25","theme":"World","headline":"US bond yields at 2007 highs (5.12%), mortgages cross 7%; biggest single-day jump since tariff shock"},
-  {"date":"2026-09-25","theme":"World","headline":"Update: Trump-Xi summit closes — trade truce extended, two pandas, no AI or Taiwan breakthrough"},
-  {"date":"2026-09-25","theme":"World","headline":"America's Middle East hegemony ending — US withdraws from Iraq Sep 30, three powers fill vacuum"},
-  {"date":"2026-09-25","theme":"World","headline":"Netanyahu at UNGA: 'wars against barbarians'; walkouts; Abbas virtual after US visa denial"},
-  {"date":"2026-09-25","theme":"World","headline":"Google one week from launching first orbital AI data centre satellite; solar-powered, refrigerator-size"},
-  {"date":"2026-09-25","theme":"Africa","headline":"37 detainees die in Nigerian NSCDC custody in Minna; Premium Times investigation raises systemic concerns"},
-  {"date":"2026-09-25","theme":"France","headline":"French Senate elections Sunday — centre-right expected to hold, RN poised for historic gains"},
-  {"date":"2026-09-25","theme":"Lebanon","headline":"Salam meets Syria's Shara at UNGA; Lebanon-Syria rapprochement accelerates, ministers due in Beirut"},
-  {"date":"2026-09-25","theme":"Lebanon","headline":"Hezbollah drone attack on Israeli troops; IDF strikes kill 3; Mais al-Jabal hospital set ablaze"},
-  {"date":"2026-09-25","theme":"Real Estate","headline":"Prime Beirut rental yields hit 5-7% in fresh USD — competitive with Dubai, Cyprus and Athens"},
   {"date":"2026-09-26","theme":"World","headline":"Update: US-Iran reach initial Hormuz deal — ceasefire extended, 14-point MOU signed; challenges remain"},
   {"date":"2026-09-26","theme":"World","headline":"France deploys troops, radars and air-defence to Saudi Yanbu Red Sea port after Houthi missile salvo"},
   {"date":"2026-09-26","theme":"World","headline":"Supreme Court approves Trump voter-screening database using SSNs and citizenship data"},
@@ -81,5 +70,15 @@
   {"date":"2026-10-02","theme":"Sport","headline":"Manchester City found guilty of 114 Premier League charges; faces potential 60-point deduction or expulsion"},
   {"date":"2026-10-02","theme":"Real Estate","headline":"Economist warns global house prices may be in trouble as US mortgages hit 7.28% and yields near 5.2%"},
   {"date":"2026-10-02","theme":"Lebanon","headline":"President Aoun refers 2026 budget to parliament on time — rare signal of fiscal discipline"},
-  {"date":"2026-10-02","theme":"Lebanon","headline":"Lebanon Eurobonds hold near 25 cents despite IMF deal slip and Hezbollah standoff"}
+  {"date":"2026-10-02","theme":"Lebanon","headline":"Lebanon Eurobonds hold near 25 cents despite IMF deal slip and Hezbollah standoff"},
+  {"date":"2026-10-03","theme":"World","headline":"Russia plans winter power/heat/water blackout campaign against Ukraine cities — NYT intercepts revealed"},
+  {"date":"2026-10-03","theme":"World","headline":"US hiring slows 3rd straight month; bond yields at 2002 highs — markets fell Friday, Fed hike odds 70%"},
+  {"date":"2026-10-03","theme":"World","headline":"Iran drones target Hormuz shipping weekly despite oil flow recovery — Brent risk premium persists"},
+  {"date":"2026-10-03","theme":"World","headline":"Ethiopia-Eritrea sever diplomatic ties — Addis accuses Asmara of financing Tigray rebels"},
+  {"date":"2026-10-03","theme":"World","headline":"Kushner $2.45bn Gaza recovery plan dismissed as hollow by Economist — no binding donors, governance vacuum"},
+  {"date":"2026-10-03","theme":"Africa","headline":"Lagos State universities declare indefinite strike from Oct 3 over unpaid arrears"},
+  {"date":"2026-10-03","theme":"France","headline":"New French strike wave planned for October as post-budget spending cuts bite — CGT, CFDT mobilise"},
+  {"date":"2026-10-03","theme":"Lebanon","headline":"Lebanon-Israel 8th round talks postponed; Israeli forces cited for 7,700 ceasefire violations since June"},
+  {"date":"2026-10-03","theme":"Lebanon","headline":"Lebanon IMF: no deal at Oct 13-18 meetings; banking law needs 11 amendments; BDL mounts pushback"},
+  {"date":"2026-10-03","theme":"Art","headline":"Frieze London opens Oct 14 at Regent's Park; Sotheby's Contemporary Day Sale Oct 16 sets autumn benchmark"}
 ]
