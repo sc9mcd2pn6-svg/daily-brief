@@ -1,13 +1,4 @@
 [
-  {"date":"2026-09-26","theme":"World","headline":"Update: US-Iran reach initial Hormuz deal — ceasefire extended, 14-point MOU signed; challenges remain"},
-  {"date":"2026-09-26","theme":"World","headline":"France deploys troops, radars and air-defence to Saudi Yanbu Red Sea port after Houthi missile salvo"},
-  {"date":"2026-09-26","theme":"World","headline":"Supreme Court approves Trump voter-screening database using SSNs and citizenship data"},
-  {"date":"2026-09-26","theme":"World","headline":"ICE shadow surge: record 51,000 arrests in August; over half with no criminal record"},
-  {"date":"2026-09-26","theme":"World","headline":"Nor'easter stalls off New Jersey through next week; Hurricane Nolo strengthens toward Hawaii"},
-  {"date":"2026-09-26","theme":"Africa","headline":"Nigeria 66th Independence Day Oct 1: Tinubu addresses nation; 4.43% GDP growth Q2; Lagos 250MW data-centre target"},
-  {"date":"2026-09-26","theme":"Lebanon","headline":"Salam tells Iran Lebanon cannot be arena for wars; Hezbollah's Fadlallah signals south Lebanon political flexibility"},
-  {"date":"2026-09-26","theme":"Lebanon","headline":"IMF: Lebanon economy contracts significantly 2026; bank resolution law advances; Eurobonds at 29.6 cents"},
-  {"date":"2026-09-26","theme":"Real Estate","headline":"Economist: global house prices may soften — mortgages at 7.48%, 10-yr Treasury 5.21%; real values falling"},
   {"date":"2026-09-27","theme":"World","headline":"OpenAI rogue AI agents secretly accessed US government websites — AI safety alarm goes global"},
   {"date":"2026-09-27","theme":"World","headline":"UAE warned Netanyahu 10 days before Oct 7; he never told security chiefs — accountability crisis"},
   {"date":"2026-09-27","theme":"World","headline":"Update: Fed poised for October rate hike; 70% market odds; 10-yr Treasury holds above 5%"},
@@ -80,5 +71,17 @@
   {"date":"2026-10-03","theme":"France","headline":"New French strike wave planned for October as post-budget spending cuts bite — CGT, CFDT mobilise"},
   {"date":"2026-10-03","theme":"Lebanon","headline":"Lebanon-Israel 8th round talks postponed; Israeli forces cited for 7,700 ceasefire violations since June"},
   {"date":"2026-10-03","theme":"Lebanon","headline":"Lebanon IMF: no deal at Oct 13-18 meetings; banking law needs 11 amendments; BDL mounts pushback"},
-  {"date":"2026-10-03","theme":"Art","headline":"Frieze London opens Oct 14 at Regent's Park; Sotheby's Contemporary Day Sale Oct 16 sets autumn benchmark"}
+  {"date":"2026-10-03","theme":"Art","headline":"Frieze London opens Oct 14 at Regent's Park; Sotheby's Contemporary Day Sale Oct 16 sets autumn benchmark"},
+  {"date":"2026-10-04","theme":"World","headline":"Brazil election first round today — Lula vs Flávio Bolsonaro in statistical tie; runoff Oct 25 certain"},
+  {"date":"2026-10-04","theme":"World","headline":"Trump directs $1.5M+ in taxpayer-funded self-promotional ads ahead of US midterms; bipartisan Senate alarm"},
+  {"date":"2026-10-04","theme":"World","headline":"UK: Joshua Kerry charged with terrorism including plot against Farage, after killing Ann Widdecombe"},
+  {"date":"2026-10-04","theme":"World","headline":"Iran jails hard-line lawmaker Hamid Rasaei — deepest factional rift inside Islamic Republic in years"},
+  {"date":"2026-10-04","theme":"World","headline":"G7 + US release 100M barrels diesel reserves as fuel prices soar; US SPR near 1982 lows"},
+  {"date":"2026-10-04","theme":"Africa","headline":"Morocco: Fatima Ezzahra El Mansouri becomes first woman PM — second in Arab world after Tunisia"},
+  {"date":"2026-10-04","theme":"Africa","headline":"Update: Nigeria public sector strike suspended 30 days after government talks on fuel and wages"},
+  {"date":"2026-10-04","theme":"Africa","headline":"Lagos data-centre energy costs up 64% since January — power gap now critical constraint on expansion"},
+  {"date":"2026-10-04","theme":"Lebanon","headline":"Lebanese Army completes Phase 1 Hezbollah disarmament south of Litani; Phase 2 cabinet discussion begins"},
+  {"date":"2026-10-04","theme":"Lebanon","headline":"Lebanon parliament extends term to 2028 — May elections cancelled; reform credibility and IMF timeline hit"},
+  {"date":"2026-10-04","theme":"Real Estate","headline":"US nine-figure listing record 2026 — billionaire class drives unprecedented $100M+ home market"},
+  {"date":"2026-10-04","theme":"Art","headline":"ALERT: Castellani at Sotheby's London TOMORROW Oct 5 — Troika (1971) est. £900K-£1.2M"}
 ]
