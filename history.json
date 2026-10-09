@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "theme": "World",
-    "headline": "Update: Russia escalates Kyiv terror campaign — jet-powered drones hit supermarkets, hospital, playgrounds before winter"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "World",
-    "headline": "Gulf crude through Hormuz hits pre-war baseline (13.5M bpd); refined fuel still 81% below pre-war"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "World",
-    "headline": "US Supreme Court allows rapid 3rd-country deportations without notice — 6-3 order, December arguments"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "World",
-    "headline": "Latin America prefers China to US for first time — Latinobarómetro 36% vs 31%; US approval down 28 points"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "World",
-    "headline": "US approves first small modular nuclear reactor — TVA BWRX-300, 300MW, Clinch River Tennessee"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Africa",
-    "headline": "Nigeria public sector workers set three-day warning strike from October 2 over petrol prices and wages"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "France",
-    "headline": "France budget battle starts — Lecornu government risks no-confidence; national debt at 119% of GDP"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Art",
-    "headline": "Sotheby's London Oct 5-6: Castellani Troika (1971) est. £900K–£1.2M; Superficie Bianca est. £350K–£450K"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Real Estate",
-    "headline": "Beirut real estate $3.7B in transactions by August 2026; RCPIE investment exhibition Oct 15-17 Phoenicia"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Lebanon",
-    "headline": "Lebanon ceasefire at 5 months: Israel still occupies south Lebanon; violations ongoing; Salam demands withdrawal"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Lebanon",
-    "headline": "Lebanon Eurobonds slide to ~25 cents as IMF deal slips and reform credibility fades"
-  },
-  {
     "date": "2026-10-02",
     "theme": "World",
     "headline": "Speedball capitalism: US IPO and private-debt boom hits record levels; Economist warns of systemic risk"
@@ -438,5 +383,45 @@
     "date": "2026-10-08",
     "theme": "World",
     "headline": "Fed September minutes: rate at 3.75-4%; October hike odds collapse to 20% after 29K jobs miss; dollar at 17-month high"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "World",
+    "headline": "Update: Brent crosses $104 as Houthis launch third Saudi airport attack this week; US preparing Iran options"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "World",
+    "headline": "Economist cover: Rich-world bond markets face crisis — France biggest risk as protests and Le Pen surge"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "World",
+    "headline": "Ebola reaches Kenya — first-ever death; Congo outbreak 8,400+ cases, largest in history, no vaccine"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "World",
+    "headline": "Anne Carson wins Nobel Prize in Literature 2026 — Canada's first in decades"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "World",
+    "headline": "OpenAI AI conquers hundreds of major mathematical problems — mathematicians astonished"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "France",
+    "headline": "Update: French protests week 2 — 600 arrests, 564 schools, Macron summons ministers, Polanski factor"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "Real Estate",
+    "headline": "US mortgages hit 7.4% — highest in nearly 3 years; global rate squeeze deepens, Beirut demand at risk"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "Lebanon",
+    "headline": "Beirut port blast indictment now in Judge Bitar's hands — October deadline, 6 years on"
   }
 ]
