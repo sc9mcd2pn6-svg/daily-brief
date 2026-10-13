@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-05",
-    "theme": "World",
-    "headline": "US-Russia Ukraine talks add oil-deal dimension — Kushner/Witkoff in Moscow; Putin demands permanent energy sanctions waiver for peace"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "World",
-    "headline": "Economist: World faces almighty LNG crunch — Iran war removed ~20% of global supply; European winter at serious risk"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "World",
-    "headline": "Update: Brazil runoff confirmed — Flávio Bolsonaro edges Lula 47% to 45%; Oct 25 showdown; record 21% abstention"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "World",
-    "headline": "UK by-election Thursday Oct 8 — PM Burnham's first test; Green Polanski challenges Labour in Starmer's old seat"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "France",
-    "headline": "French high school protests erupt into national crisis — 1,949 arrested, 356 schools blocked, PM calls emergency meeting"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Africa",
-    "headline": "Nigeria data-centre race hits $2B — CBN data-localisation deadline January 2027 accelerates every major project"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Lebanon",
-    "headline": "Update: Hezbollah seeks broader Phase 2 disarmament framework; parliament passes first general amnesty law in 35 years"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Lebanon",
-    "headline": "Lebanon banking reform: Financial Gap Law — $72B loss allocation — heads to vote mid-October; BDL resistance persists"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Real Estate",
-    "headline": "Beirut prime property still 15% below 2019 peaks; Abu Dhabi Investment House makes first-ever Lebanon entry; RCPIE Oct 15-17"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Art",
-    "headline": "Castellani Troika under hammer at Sotheby's London TODAY — est. £900K-£1.2M; Superficie Bianca est. £350K-£450K"
-  },
-  {
     "date": "2026-10-06",
     "theme": "World",
     "headline": "Global bond rout deepens — dollar 17-month high, 10-yr yield hits 5.34%, worst since 2002"
@@ -398,5 +348,55 @@
     "date": "2026-10-12",
     "theme": "Art",
     "headline": "Frieze London & Masters open Oct 14-18 — Sotheby's Day Sale Oct 16 — Castellani results check sothebys.com"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "World",
+    "headline": "Update: Trump threatens to cut arms to Ukraine as diesel deal proves illusory — Economist: 'backstabbed once more'"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "World",
+    "headline": "OpenAI claims 372 major unsolved maths problems solved — 722 papers; Unique Games Conjecture; mathematicians alarmed"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "World",
+    "headline": "IMF October WEO 'Resilience under Strain' published today; JPMorgan and Wells Fargo Q3 earnings report simultaneously"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "World",
+    "headline": "Gaza ceasefire one year on: promises mostly unfulfilled; 74,200+ killed total; Israeli election in 3 weeks"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "World",
+    "headline": "NYT investigation: America's elected officials living in fear — violent threats a new normal, reshaping public service"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "France",
+    "headline": "Update: France protests enter week 4 — Lecornu offers concessions (class suspension, fuel measures); 6,629 arrests"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Lebanon",
+    "headline": "Lebanon-Israel 8th round talks postponed again; Beirut port blast indictment described as 'imminent'"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Lebanon",
+    "headline": "IMF October mission: bank restructuring law approved but Financial Gap Law still last hurdle to staff-level deal"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Real Estate",
+    "headline": "Beirut prices 'out of sync with reality' (RAMCO); RCPIE conference opens Wednesday Oct 15"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Art",
+    "headline": "Frieze London VIP preview tomorrow Oct 14; Sotheby's Day Sale Oct 16; Castellani Oct 5-6 results now due on sothebys.com"
   }
 ]
