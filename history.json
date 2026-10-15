@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-07",
-    "theme": "World",
-    "headline": "Houthis confirm full control of Yemen's entire Red Sea coast — Perim Island, Bab-el-Mandeb sealed; Cape routing confirmed"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "World",
-    "headline": "Russia plague lab: researcher Darya Shipilova dies from pneumonic plague at Irkutsk Anti-Plague Institute; Russia silent"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "World",
-    "headline": "Update: France — 256K march across 40 cities Oct 6; PM Lecornu responds but offers no concessions; Le Pen leads polls"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "World",
-    "headline": "S&P 500 hits 16th record of 2026 — AI data-center construction defies Fed; NYT warns of structural inflation"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "World",
-    "headline": "Ebola Congo becomes worst outbreak in history — 3,200+ cases, Bundibugyo strain, no vaccine; Kenya first case"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "World",
-    "headline": "Nobel 2026: Medicine for optogenetics (Deisseroth/Hegemann/Nagel); Physics for neutrino telescope (Halzen)"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Africa",
-    "headline": "AI data-center wave reaches West Africa — 15+ Lagos projects active; CBN January 2027 deadline accelerating pipeline"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Lebanon",
-    "headline": "October 7 third anniversary — Israel still occupies south Lebanon; polling stations planted; 7,700+ violations"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Lebanon",
-    "headline": "Financial Gap Law heads to parliament — no vote date, BDL resistance, IMF mid-October missions looming"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Real Estate",
-    "headline": "RCPIE opens Oct 15-17 — $3.7B Beirut transactions YTD; Abu Dhabi Investment House first-ever Lebanon entry"
-  },
-  {
     "date": "2026-10-08",
     "theme": "World",
     "headline": "Ukraine Operation Vivaldi liberates 140 sq km — robot drones behind enemy lines; Zelenskyy: operation not finished"
@@ -302,7 +252,7 @@
   {
     "date": "2026-10-13",
     "theme": "World",
-    "headline": "Update: Trump threatens to cut arms to Ukraine as diesel deal proves illusory — Economist: 'backstabbed once more'"
+    "headline": "Update: Trump threatens Ukraine intelligence cutoff; demands halt to refinery attacks — escalation beyond diesel deal"
   },
   {
     "date": "2026-10-13",
@@ -398,5 +348,55 @@
     "date": "2026-10-14",
     "theme": "Art",
     "headline": "Frieze London VIP preview opens today — 300 galleries, 48 countries; Sotheby's Contemporary Day Sale Oct 16"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "World",
+    "headline": "US inflation surges to 3.7% on energy — gas up 34% since Iran war; zero real wage growth before midterms"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "World",
+    "headline": "Russia fires 39 ballistic missiles at Ukraine overnight — 600K Kyiv without power; Starshield military Starlink severed"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "World",
+    "headline": "Trump approval hits new low — GOP defensive; Democrats +6 with 3 weeks to midterms (Economist lead)"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "World",
+    "headline": "China September exports grow fastest since post-GFC — record $1.2T+ annual surplus on track"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "World",
+    "headline": "Ethiopia-Eritrea on brink — Eritrean troops in Tigray, diplomatic rupture, UN Security Council involved"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "France",
+    "headline": "Update: Week 5 protests — trade unions call 5 November general strike; Lecornu in budget talks"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Lebanon",
+    "headline": "IMF mission day 3: Financial Gap Law still without vote — staff-level deal risks slipping to 2027"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Lebanon",
+    "headline": "Beirut port blast indictment expected within weeks — 70 accused, no one in custody"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Real Estate",
+    "headline": "RCPIE Beirut opens today — $3.7B YTD transactions; Gulf capital active despite 6.4% GDP contraction"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Art",
+    "headline": "European museum theft wave surges — Dalí jewel-encrusted 330-lb book cover stolen; Sotheby's Day Sale tomorrow Oct 16"
   }
 ]
