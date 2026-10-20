@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-10-12",
-    "theme": "World",
-    "headline": "Houthis kill 12, wound 300 in deadliest Saudi airport attack since Iran war — Economist: Saudi Arabia has no good options"
-  },
-  {
-    "date": "2026-10-12",
-    "theme": "World",
-    "headline": "Trump tells Ukraine to 'Get a New President'; Kremlin freezes peace talks after Russian diesel deal"
-  },
-  {
-    "date": "2026-10-12",
-    "theme": "World",
-    "headline": "IMF/World Bank Bangkok annual meetings open today — WEO Tuesday, US CPI Wednesday, big bank earnings kick off"
-  },
-  {
-    "date": "2026-10-12",
-    "theme": "World",
-    "headline": "US midterms 3 weeks out: economic pain and $6.23 diesel put GOP on defensive — Democrats up 6pts in polls"
-  },
-  {
-    "date": "2026-10-12",
-    "theme": "World",
-    "headline": "Economist: Belarus becoming more Russian — national heritage erased, Russian propaganda fills void"
-  },
-  {
-    "date": "2026-10-12",
-    "theme": "World",
-    "headline": "Economist: Don't feel sorry for millennials — out-earning parents, rising home-ownership, 'comeback generation'"
-  },
-  {
-    "date": "2026-10-12",
-    "theme": "Lebanon",
-    "headline": "Financial Gap Law: IMF demands hierarchy-of-claims protection — parliament still has no vote date as pressure peaks"
-  },
-  {
-    "date": "2026-10-12",
-    "theme": "Art",
-    "headline": "Frieze London & Masters open Oct 14-18 — Sotheby's Day Sale Oct 16 — Castellani results check sothebys.com"
-  },
-  {
     "date": "2026-10-13",
     "theme": "World",
     "headline": "Update: Trump threatens Ukraine intelligence cutoff; demands halt to refinery attacks — escalation beyond diesel deal"
@@ -378,5 +338,55 @@
     "date": "2026-10-19",
     "theme": "Lebanon",
     "headline": "Financial Gap Law: October IMF mission ends without deal — November is last window before year-end"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "World",
+    "headline": "AI industry gigantic debts making investors nervous — IMF flags $650B circular AI debt; S&P fell 2% last week, Dow 51,966"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "World",
+    "headline": "Alberta independence referendum voted Oct 19 — 70% expected to vote stay; result pending; Canada GDP gap vs US exposed"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "World",
+    "headline": "Update: Trump hints at hostage deal linked to Russia sanctions waiver; Brent falls to $108; Zelensky warns of historic mistake"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "World",
+    "headline": "SpaceX Starlink expansion: bold robotics bet — Economist; West Africa connectivity implications for off-grid industrial sites"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "France",
+    "headline": "France imposes curfews after worst riots in decades — 3,000 businesses looted; PM Lecornu invokes emergency powers in Paris, Lyon, Lille"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "Africa",
+    "headline": "Global data-centre vacancy at record low 6.7% — Lagos positioned but power-constrained; $1.95T Knight Frank valuation"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "Lebanon",
+    "headline": "Lebanon-Israel direct talks resume in Washington today — 8th+ round; Israeli strike yesterday raised tensions"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "Lebanon",
+    "headline": "IMF staff-level deal on hold — November now last credible window; Financial Gap Law still unvoted"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "Real Estate",
+    "headline": "Data centres become global real estate's most sought-after asset class — $1.95T valuation, rents +70%; Beirut Gulf capital paused"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "Art",
+    "headline": "Post-Frieze: Castellani near €1M in Milan (Artribune); October Sotheby's sale results pending — check sothebys.com"
   }
 ]
