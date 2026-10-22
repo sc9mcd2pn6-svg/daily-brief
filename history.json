@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-10-13",
-    "theme": "World",
-    "headline": "Update: Trump threatens Ukraine intelligence cutoff; demands halt to refinery attacks — escalation beyond diesel deal"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "World",
-    "headline": "OpenAI claims 372 major unsolved maths problems solved — 722 papers; Unique Games Conjecture; mathematicians alarmed"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "World",
-    "headline": "IMF October WEO 'Resilience under Strain' published today; JPMorgan and Wells Fargo Q3 earnings report simultaneously"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "World",
-    "headline": "Gaza ceasefire one year on: promises mostly unfulfilled; 74,200+ killed total; Israeli election in 3 weeks"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "World",
-    "headline": "NYT investigation: America's elected officials living in fear — violent threats a new normal, reshaping public service"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "France",
-    "headline": "Update: France protests enter week 4 — Lecornu offers concessions (class suspension, fuel measures); 6,629 arrests"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Lebanon",
-    "headline": "Lebanon-Israel 8th round talks postponed again; Beirut port blast indictment described as 'imminent'"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Lebanon",
-    "headline": "IMF October mission: bank restructuring law approved but Financial Gap Law still last hurdle to staff-level deal"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Real Estate",
-    "headline": "Beirut prices 'out of sync with reality' (RAMCO); RCPIE conference opens Wednesday Oct 15"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Art",
-    "headline": "Frieze London VIP preview tomorrow Oct 14; Sotheby's Day Sale Oct 16; Castellani Oct 5-6 results now due on sothebys.com"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "World",
-    "headline": "Update: Trump threatens Ukraine intelligence cutoff; demands halt to refinery attacks — escalation beyond diesel deal"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "World",
-    "headline": "Russian men flee anticipated mobilization wave — Economist lead; pattern mirrors 2022 exodus"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "World",
-    "headline": "Nobel Economics 2026: Hall & Woodford win for New Keynesian monetary theory — prize validates central-bank inflation targeting"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "World",
-    "headline": "Pope Leo XIV lung surgery complete — lower lobe of right lung removed; Vatican says cancer caught early"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "World",
-    "headline": "Taliban leverage Europe's migration fears — European nations seeking deportation deals while condemning Taliban rights record"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "World",
-    "headline": "US September CPI released today — expected 3.6-3.7%; markets lower; Fed October hike odds at 20%"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "France",
-    "headline": "Update: Week 4 protests — Lecornu budget talks begin Oct 13; student response due end-October; 6,600+ arrests"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "Africa",
-    "headline": "Data centres turning Trump voters Democratic — Economist; community backlash warning for Lagos developers"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "Lebanon",
-    "headline": "IMF October mission: bank restructuring approved, Financial Gap Law last hurdle; RCPIE opens tomorrow Oct 15"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "Art",
-    "headline": "Frieze London VIP preview opens today — 300 galleries, 48 countries; Sotheby's Contemporary Day Sale Oct 16"
-  },
-  {
     "date": "2026-10-15",
     "theme": "World",
     "headline": "US inflation surges to 3.7% on energy — gas up 34% since Iran war; zero real wage growth before midterms"
@@ -307,7 +207,7 @@
   {
     "date": "2026-10-19",
     "theme": "World",
-    "headline": "Brazil presidential runoff Oct 25 — Bolsonaro 47% leads Lula in MAGA-aligned swing for Latin America's biggest democracy"
+    "headline": "Brazil presidential runoff Oct 25 — Flávio Bolsonaro 47% leads Lula in tight first round"
   },
   {
     "date": "2026-10-19",
@@ -388,5 +288,55 @@
     "date": "2026-10-20",
     "theme": "Art",
     "headline": "Post-Frieze: Castellani near €1M in Milan (Artribune); October Sotheby's sale results pending — check sothebys.com"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "World",
+    "headline": "Russia frees American teacher Hubbard; Trump envoy praises Putin as 'humanitarian' — Starshield outage drops Ukraine drones"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "World",
+    "headline": "Billionaire got Trump pardon after daughter gave Alina Habba $50M deal — unprecedented pay-for-clemency NYT investigation"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "World",
+    "headline": "AI finds critical PHP security flaw — 70% of all websites at risk; US government urges emergency patches"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "World",
+    "headline": "Economist: Trump's wrecking-ball foreign policy could outlast him — pendulum theory broken"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "World",
+    "headline": "Saudi Arabia GDP falls 4.8% in Q2 — Hormuz shock crushes oil revenues; everything going wrong for MBS"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "World",
+    "headline": "SpaceX swings to profit as AI/Starlink revenues double; Tesla-SpaceX merger exploration would create $3.5T Elon Inc"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "France",
+    "headline": "French protest slogan 'Bismillah c'est les ténèbres' signals generational despair; Art Basel Paris draws despite riots; Nov 5 strike confirmed"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Africa",
+    "headline": "Russia's African student pipeline — 37,000 enrolled, scholarships tripled since 2020; Kremlin soft power ahead of 3rd Russia-Africa Summit"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Lebanon",
+    "headline": "Financial Gap Law bond surge cools as parliament delays; Washington talks advance security framework; November last IMF window"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Art",
+    "headline": "Art Basel Paris Avant-Première — collectors flock to Grand Palais despite French riots; Castellani October sale check sothebys.com"
   }
 ]
