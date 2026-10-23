@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-15",
-    "theme": "World",
-    "headline": "US inflation surges to 3.7% on energy — gas up 34% since Iran war; zero real wage growth before midterms"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "World",
-    "headline": "Russia fires 39 ballistic missiles at Ukraine overnight — 600K Kyiv without power; Starshield military Starlink severed"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "World",
-    "headline": "Trump approval hits new low — GOP defensive; Democrats +6 with 3 weeks to midterms (Economist lead)"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "World",
-    "headline": "China September exports grow fastest since post-GFC — record $1.2T+ annual surplus on track"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "World",
-    "headline": "Ethiopia-Eritrea on brink — Eritrean troops in Tigray, diplomatic rupture, UN Security Council involved"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "France",
-    "headline": "Update: Week 5 protests — trade unions call 5 November general strike; Lecornu in budget talks"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Lebanon",
-    "headline": "IMF mission day 3: Financial Gap Law still without vote — staff-level deal risks slipping to 2027"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Lebanon",
-    "headline": "Beirut port blast indictment expected within weeks — 70 accused, no one in custody"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Real Estate",
-    "headline": "RCPIE Beirut opens today — $3.7B YTD transactions; Gulf capital active despite 6.4% GDP contraction"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Art",
-    "headline": "European museum theft wave surges — Dalí jewel-encrusted 330-lb book cover stolen; Sotheby's Day Sale tomorrow Oct 16"
-  },
-  {
     "date": "2026-10-16",
     "theme": "World",
     "headline": "DOJ sues California to block 20,000 midterm mail votes — court challenge before November"
@@ -338,5 +288,55 @@
     "date": "2026-10-22",
     "theme": "Art",
     "headline": "Art Basel Paris Avant-Première — collectors flock to Grand Palais despite French riots; Castellani October sale check sothebys.com"
+  },
+  {
+    "date": "2026-10-23",
+    "theme": "World",
+    "headline": "US and Israel draw up plans for renewed strikes on Iran after elections — Pentagon told CENTCOM to prepare"
+  },
+  {
+    "date": "2026-10-23",
+    "theme": "World",
+    "headline": "Democrats lead polls by 11 points — Economist warns predictable polling errors will shrink the wave; Iowa turns blue"
+  },
+  {
+    "date": "2026-10-23",
+    "theme": "World",
+    "headline": "Economist cover: Saudi-UAE 'petty feud' fuels catastrophic wars in Sudan and Yemen"
+  },
+  {
+    "date": "2026-10-23",
+    "theme": "World",
+    "headline": "Pakistan-Afghanistan 'open war' kills nearly 500 civilians — UN confirms devastating toll"
+  },
+  {
+    "date": "2026-10-23",
+    "theme": "World",
+    "headline": "Update: Brazil Oct 25 runoff — Lula now the underdog as right-wing votes consolidate behind Bolsonaro"
+  },
+  {
+    "date": "2026-10-23",
+    "theme": "Africa",
+    "headline": "Ebola reaches Kenya — Congo's record epidemic (9,400+ cases, 4,500+ dead) spreads to third country"
+  },
+  {
+    "date": "2026-10-23",
+    "theme": "France",
+    "headline": "Update: Economist cover 'Agony of liberal Europe' — protests spread to 7+ countries; Le Pen path to 2027 presidency opens"
+  },
+  {
+    "date": "2026-10-23",
+    "theme": "Tech",
+    "headline": "AI compute becomes the new oil — CME launching GPU futures, financial firms race to trade processing power"
+  },
+  {
+    "date": "2026-10-23",
+    "theme": "Lebanon",
+    "headline": "Houthi strike on Saudi airport kills 2; Lebanon-Israel talks face postponement as regional tensions rise"
+  },
+  {
+    "date": "2026-10-23",
+    "theme": "Lebanon",
+    "headline": "Lebanese Eurobonds hold firm near 25 cents despite reform delays — IMF November window still alive"
   }
 ]
