@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-16",
-    "theme": "World",
-    "headline": "DOJ sues California to block 20,000 midterm mail votes — court challenge before November"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "World",
-    "headline": "Zelensky publicly defies Trump, resumes Russian refinery strikes — sharpest US-Ukraine rupture yet"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "World",
-    "headline": "Anthropic IPO imminent — Q3 revenue jumps 45% to $16.8B, listing before midterms at $2T valuation"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "World",
-    "headline": "Economist: AI conquers mathematics — OpenAI 700 papers a turning point for all science"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "World",
-    "headline": "Economist cover: Mark Carney shows middle powers how to survive Trump — 70% approval, domestic reform model"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "France",
-    "headline": "Update: France unrest shifts to lawlessness — general mobilisation called for November 5"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "Africa",
-    "headline": "Lagos data-centre boom faces existential power constraint — Tetracore/Huawei go off-grid with 100MW gas plant"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "Lebanon",
-    "headline": "Lebanon Eurobonds hold at ~25 cents despite IMF deal failure — market pricing reform optionality"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "Real Estate",
-    "headline": "Homeownership drifts out of reach globally; Beirut asking prices out of sync with reality (RAMCO)"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "Art",
-    "headline": "Frieze London Day 3 — Sotheby's Contemporary Day Sale Oct 16; Castellani Oct 5-6 results due"
-  },
-  {
     "date": "2026-10-17",
     "theme": "World",
     "headline": "Oregon school shooting: father kills teenage gunman, saves daughters' school — 3 children and 1 teacher dead"
@@ -338,5 +288,60 @@
     "date": "2026-10-23",
     "theme": "Lebanon",
     "headline": "Lebanese Eurobonds hold firm near 25 cents despite reform delays — IMF November window still alive"
+  },
+  {
+    "date": "2026-10-24",
+    "theme": "World",
+    "headline": "Oil hits $116/barrel as Houthis strike Aramco HQ in Riyadh — highest since April, markets reel"
+  },
+  {
+    "date": "2026-10-24",
+    "theme": "World",
+    "headline": "Israel launches West Bank offensive hours before Oct 25 election — Netanyahu vows Jenin-style Hebron crackdown"
+  },
+  {
+    "date": "2026-10-24",
+    "theme": "World",
+    "headline": "Wall Street's worst week in months: Dow -652 pts to 52,215; S&P at 7,624 — AI debt fears and oil shock"
+  },
+  {
+    "date": "2026-10-24",
+    "theme": "World",
+    "headline": "Military boards defy Hegseth: 9 of 12 retaining transgender troops — stunning rebuke from Navy and Marines"
+  },
+  {
+    "date": "2026-10-24",
+    "theme": "World",
+    "headline": "Merck & Moderna cancer vaccine cuts melanoma recurrence risk 42% — mRNA oncology landmark"
+  },
+  {
+    "date": "2026-10-24",
+    "theme": "World",
+    "headline": "Sam Bankman-Fried speaks from prison: 'I have paid my debts' — eyes Trump pardon (Economist)"
+  },
+  {
+    "date": "2026-10-24",
+    "theme": "Lebanon",
+    "headline": "Israel threatens Beirut southern suburbs as ceasefire grows more fragile — Houthis hit Aramco/Riyadh airport"
+  },
+  {
+    "date": "2026-10-24",
+    "theme": "Lebanon",
+    "headline": "Hezbollah claims smuggled explosives cache; army disarmament process under scrutiny"
+  },
+  {
+    "date": "2026-10-24",
+    "theme": "Africa",
+    "headline": "Digital Parks Africa announces carrier-neutral NDC1 data centre in Lagos — new entrant as race heats up"
+  },
+  {
+    "date": "2026-10-24",
+    "theme": "France",
+    "headline": "Update: Nov 5 general strike on track — 5 unions confirmed, rail services to be paralysed"
+  },
+  {
+    "date": "2026-10-24",
+    "theme": "Art",
+    "headline": "Monet 'Iris' sells for $56 million in France as late Impressionist works surge"
   }
 ]
