@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-10-18",
-    "theme": "World",
-    "headline": "Trump signs executive order exempting Russia from Lindsey Graham's Sanctions from Hell Act — defying Congress on deadline day"
-  },
-  {
-    "date": "2026-10-18",
-    "theme": "World",
-    "headline": "Albania student riots burn Education Ministry in Tirana — PM Rama faces resignation calls"
-  },
-  {
-    "date": "2026-10-18",
-    "theme": "World",
-    "headline": "Elon Musk Foundation opaque, miserly and self-serving — Economist scours tax returns"
-  },
-  {
-    "date": "2026-10-18",
-    "theme": "World",
-    "headline": "China corners EV battery black mass recycling — extends critical mineral supply chain dominance"
-  },
-  {
-    "date": "2026-10-18",
-    "theme": "Africa",
-    "headline": "Macky Sall withdraws from UN Secretary-General race after Nigeria's objection"
-  },
-  {
-    "date": "2026-10-18",
-    "theme": "Lebanon",
-    "headline": "Financial Gap Law: IMF October mission ends without deal — parliament faces November ultimatum"
-  },
-  {
-    "date": "2026-10-18",
-    "theme": "Real Estate",
-    "headline": "RCPIE Beirut closes — $3.7B YTD transactions, Gulf capital fills domestic vacuum"
-  },
-  {
-    "date": "2026-10-18",
-    "theme": "Art",
-    "headline": "Frieze London closes final day — Sotheby's Day Sale results out; Castellani Oct sale results available on sothebys.com"
-  },
-  {
     "date": "2026-10-19",
     "theme": "World",
     "headline": "Europe stands alone as America abandons Ukraine — Economist lead; far-right backlash threatens European commitment"
@@ -328,5 +288,50 @@
     "date": "2026-10-25",
     "theme": "Lebanon",
     "headline": "Iran's planned attacks on Americans and US Saudi evacuation put Lebanon ceasefire talks at acute risk"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "World",
+    "headline": "Brazil runoff: Bolsonaro narrowly ahead in final polls; result counted overnight"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "World",
+    "headline": "Trumponomics two years on: poor and middle households bear the cost — Economist's verdict"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "World",
+    "headline": "Israel votes tomorrow: Netanyahu trailing as Bennett/Lapid form joint 'Together' list"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "World",
+    "headline": "Big policy week: UK first Burnham budget Wednesday, Fed meets on rates"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "World",
+    "headline": "India stabilises rupee at growing cost — Reserve Bank deploying ever-harsher tools"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "World",
+    "headline": "Developing world optimistic about AI — Economist: non-Western publics see opportunity, not threat"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "Africa",
+    "headline": "Lagos data centre race: 146 MW in pipeline, power remains the defining bottleneck"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "Lebanon",
+    "headline": "Lebanon's critical week: Israeli election tomorrow shapes ceasefire; IMF November window last chance"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "France",
+    "headline": "T-10 days to France's general strike: government met unions Oct 21, no deal reached"
   }
 ]
