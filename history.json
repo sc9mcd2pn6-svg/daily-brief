@@ -1,50 +1,5 @@
 [
   {
-    "date": "2026-10-19",
-    "theme": "World",
-    "headline": "Europe stands alone as America abandons Ukraine — Economist lead; far-right backlash threatens European commitment"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "World",
-    "headline": "Update: Trump offers Putin economic relief — waiving Russia sanctions hoping for oil-price reciprocity before midterms"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "World",
-    "headline": "Brazil presidential runoff Oct 25 — Flávio Bolsonaro 47% leads Lula in tight first round"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "World",
-    "headline": "Jio Platforms IPO anchor bidding opens today — India's biggest-ever IPO at $108B valuation"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "World",
-    "headline": "Pope Leo XIV leaves hospital — 'I Am Much Better, Thank You' — lung cancer surgery successful"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "World",
-    "headline": "Deadly incident at Canadian army base in Alberta — major fire, cause unknown, defence minister confirms casualties"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "France",
-    "headline": "Update: Student movement turns national — mass marches and riots across France Saturday; Nov 5 general strike"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "Lebanon",
-    "headline": "Israeli strike near Ali Taher shakes south Lebanon — direct talks resume in Washington Tuesday Oct 20"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "Lebanon",
-    "headline": "Financial Gap Law: October IMF mission ends without deal — November is last window before year-end"
-  },
-  {
     "date": "2026-10-20",
     "theme": "World",
     "headline": "AI industry gigantic debts making investors nervous — IMF flags $650B circular AI debt; S&P fell 2% last week, Dow 51,966"
@@ -333,5 +288,50 @@
     "date": "2026-10-26",
     "theme": "France",
     "headline": "T-10 days to France's general strike: government met unions Oct 21, no deal reached"
+  },
+  {
+    "date": "2026-10-27",
+    "theme": "World",
+    "headline": "Israel election exit polls: Eisenkot bloc leads 52-56 seats vs right's ~50; no majority; Arab parties kingmakers"
+  },
+  {
+    "date": "2026-10-27",
+    "theme": "World",
+    "headline": "Brazil: Lula re-elected in shock reversal — Bovespa -14%, real -10%, Bolsonaro refuses to concede"
+  },
+  {
+    "date": "2026-10-27",
+    "theme": "World",
+    "headline": "Anthropic IPO S-1: $16.3B H1 revenue, $807B compute commitments, potential $2T valuation"
+  },
+  {
+    "date": "2026-10-27",
+    "theme": "World",
+    "headline": "Saudi Arabia, Turkey, Pakistan joint diplomatic visit to Tehran amid US-Israel Iran strike planning"
+  },
+  {
+    "date": "2026-10-27",
+    "theme": "World",
+    "headline": "Serbia's Vučić era ends — pro-EU bloc defeats nationalist strongman in historic vote"
+  },
+  {
+    "date": "2026-10-27",
+    "theme": "World",
+    "headline": "China AI model distillation: Economist says speedboat-skier risk to US may be overstated"
+  },
+  {
+    "date": "2026-10-27",
+    "theme": "Lebanon",
+    "headline": "Israel election determines Lebanon ceasefire path — Eisenkot win unlocks talks, Netanyahu hardens them"
+  },
+  {
+    "date": "2026-10-27",
+    "theme": "Lebanon",
+    "headline": "Explosives cache at Dahr al-Baidar reignites Hezbollah disarmament debate — ceasefire monitors under pressure"
+  },
+  {
+    "date": "2026-10-27",
+    "theme": "France",
+    "headline": "Update: SNCF Nov 5 strike service maps published — rail paralysis confirmed, 9 days to go"
   }
 ]
