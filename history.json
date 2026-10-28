@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-20",
-    "theme": "World",
-    "headline": "AI industry gigantic debts making investors nervous — IMF flags $650B circular AI debt; S&P fell 2% last week, Dow 51,966"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "World",
-    "headline": "Alberta independence referendum voted Oct 19 — 70% expected to vote stay; result pending; Canada GDP gap vs US exposed"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "World",
-    "headline": "Update: Trump hints at hostage deal linked to Russia sanctions waiver; Brent falls to $108; Zelensky warns of historic mistake"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "World",
-    "headline": "SpaceX Starlink expansion: bold robotics bet — Economist; West Africa connectivity implications for off-grid industrial sites"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "France",
-    "headline": "France imposes curfews after worst riots in decades — 3,000 businesses looted; PM Lecornu invokes emergency powers in Paris, Lyon, Lille"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "Africa",
-    "headline": "Global data-centre vacancy at record low 6.7% — Lagos positioned but power-constrained; $1.95T Knight Frank valuation"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "Lebanon",
-    "headline": "Lebanon-Israel direct talks resume in Washington today — 8th+ round; Israeli strike yesterday raised tensions"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "Lebanon",
-    "headline": "IMF staff-level deal on hold — November now last credible window; Financial Gap Law still unvoted"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "Real Estate",
-    "headline": "Data centres become global real estate's most sought-after asset class — $1.95T valuation, rents +70%; Beirut Gulf capital paused"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "Art",
-    "headline": "Post-Frieze: Castellani near €1M in Milan (Artribune); October Sotheby's sale results pending — check sothebys.com"
-  },
-  {
     "date": "2026-10-22",
     "theme": "World",
     "headline": "Russia frees American teacher Hubbard; Trump envoy praises Putin as 'humanitarian' — Starshield outage drops Ukraine drones"
@@ -333,5 +283,60 @@
     "date": "2026-10-27",
     "theme": "France",
     "headline": "Update: SNCF Nov 5 strike service maps published — rail paralysis confirmed, 9 days to go"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "World",
+    "headline": "Update: Netanyahu inching ahead in official count — no majority for either bloc; Arab parties at record 17-18 seats; result Thursday"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "World",
+    "headline": "ChatGPT told epileptic woman to keep tapering seizure medication — she died; AI health liability reckoning"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "World",
+    "headline": "Corporate America de-MAGAfying sprint — bosses rebuild Democrat ties ahead of midterms as Trump weakens"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "World",
+    "headline": "Kim Jong Un crosses new Yalu River bridge to China — first visit in a year; Beijing-Pyongyang ties deepen"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "World",
+    "headline": "Update: Flávio Bolsonaro flees to US as Supreme Court seizes passport in money-laundering probe"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "World",
+    "headline": "New book: Jared Kushner channelled $2B in Gulf slush funds for US foreign-policy influence"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Africa",
+    "headline": "Lagos data-centre energy costs surge 64% in 2026 — grid instability is the defining bottleneck"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "France",
+    "headline": "General strike T-minus 8 days: all 5 unions confirmed for Nov 5; SNCF notices filed; France is Europe's protest outlier"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Tech",
+    "headline": "Broadcom-Anthropic $63B chip deal sends Nasdaq up 1.18% — Economist warns Anthropic IPO profits will be slow"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Lebanon",
+    "headline": "Israeli election outcome shapes Lebanon ceasefire talks — Netanyahu ahead hardens Israel's position"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Lebanon",
+    "headline": "BdL governor expects IMF breakthrough before year-end; Financial Gap Law still awaits parliament vote"
   }
 ]
