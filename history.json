@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-10-23",
-    "theme": "World",
-    "headline": "US and Israel draw up plans for renewed strikes on Iran after elections — Pentagon told CENTCOM to prepare"
-  },
-  {
-    "date": "2026-10-23",
-    "theme": "World",
-    "headline": "Democrats lead polls by 11 points — Economist warns predictable polling errors will shrink the wave; Iowa turns blue"
-  },
-  {
-    "date": "2026-10-23",
-    "theme": "World",
-    "headline": "Economist cover: Saudi-UAE 'petty feud' fuels catastrophic wars in Sudan and Yemen"
-  },
-  {
-    "date": "2026-10-23",
-    "theme": "World",
-    "headline": "Pakistan-Afghanistan 'open war' kills nearly 500 civilians — UN confirms devastating toll"
-  },
-  {
-    "date": "2026-10-23",
-    "theme": "World",
-    "headline": "Update: Brazil Oct 25 runoff — Lula now the underdog as right-wing votes consolidate behind Bolsonaro"
-  },
-  {
-    "date": "2026-10-23",
-    "theme": "Africa",
-    "headline": "Ebola reaches Kenya — Congo's record epidemic (9,400+ cases, 4,500+ dead) spreads to third country"
-  },
-  {
-    "date": "2026-10-23",
-    "theme": "France",
-    "headline": "Update: Economist cover 'Agony of liberal Europe' — protests spread to 7+ countries; Le Pen path to 2027 presidency opens"
-  },
-  {
-    "date": "2026-10-23",
-    "theme": "Tech",
-    "headline": "AI compute becomes the new oil — CME launching GPU futures, financial firms race to trade processing power"
-  },
-  {
-    "date": "2026-10-23",
-    "theme": "Lebanon",
-    "headline": "Houthi strike on Saudi airport kills 2; Lebanon-Israel talks face postponement as regional tensions rise"
-  },
-  {
-    "date": "2026-10-23",
-    "theme": "Lebanon",
-    "headline": "Lebanese Eurobonds hold firm near 25 cents despite reform delays — IMF November window still alive"
-  },
-  {
     "date": "2026-10-24",
     "theme": "World",
     "headline": "Oil hits $116/barrel as Houthis strike Aramco HQ in Riyadh — highest since April, markets reel"
@@ -393,5 +343,55 @@
     "date": "2026-10-30",
     "theme": "Sport",
     "headline": "WNBA Game 7 Saturday — first in league history; Atlanta Dream vs Golden State Valkyries"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "World",
+    "headline": "Midterms T-4 days: Trump scrambles to hold red states; Democrats favoured to flip House; Senate toss-up"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "World",
+    "headline": "Binance suffers $6.3 billion crypto heist — biggest ever, attributed to North Korea's Lazarus Group"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "World",
+    "headline": "Google/Alphabet loses $500B in one session — AI chatbots threatening the core search empire"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "World",
+    "headline": "Ukraine: hundreds of civilians evacuated from besieged Oleshky under papal ceasefire deal"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "World",
+    "headline": "Patrick Stewart dies at 86 — Star Trek captain and Shakespearean stage master"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "Africa",
+    "headline": "Malaysia becomes AI data-centre crossroads — US-China battle in developing markets; West Africa playbook"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "France",
+    "headline": "Update: France general strike T-5 days; SNCF notices filed; protests also underway today Oct 31"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "Lebanon",
+    "headline": "Hezbollah disarmament impasse: phase one near complete but Netanyahu says progress far from sufficient"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "Lebanon",
+    "headline": "Prime Beirut real estate up 10% in Achrafieh but volumes down 25%; Ramco warns prices out of sync with reality"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "Art",
+    "headline": "Sotheby's London contemporary sale muted — De Kooning record but total misses estimate; no Castellani lots"
   }
 ]
