@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-10-24",
-    "theme": "World",
-    "headline": "Oil hits $116/barrel as Houthis strike Aramco HQ in Riyadh — highest since April, markets reel"
-  },
-  {
-    "date": "2026-10-24",
-    "theme": "World",
-    "headline": "Israel launches West Bank offensive hours before Oct 25 election — Netanyahu vows Jenin-style Hebron crackdown"
-  },
-  {
-    "date": "2026-10-24",
-    "theme": "World",
-    "headline": "Wall Street's worst week in months: Dow -652 pts to 52,215; S&P at 7,624 — AI debt fears and oil shock"
-  },
-  {
-    "date": "2026-10-24",
-    "theme": "World",
-    "headline": "Military boards defy Hegseth: 9 of 12 retaining transgender troops — stunning rebuke from Navy and Marines"
-  },
-  {
-    "date": "2026-10-24",
-    "theme": "World",
-    "headline": "Merck & Moderna cancer vaccine cuts melanoma recurrence risk 42% — mRNA oncology landmark"
-  },
-  {
-    "date": "2026-10-24",
-    "theme": "World",
-    "headline": "Sam Bankman-Fried speaks from prison: 'I have paid my debts' — eyes Trump pardon (Economist)"
-  },
-  {
-    "date": "2026-10-24",
-    "theme": "Lebanon",
-    "headline": "Israel threatens Beirut southern suburbs as ceasefire grows more fragile — Houthis hit Aramco/Riyadh airport"
-  },
-  {
-    "date": "2026-10-24",
-    "theme": "Lebanon",
-    "headline": "Hezbollah claims smuggled explosives cache; army disarmament process under scrutiny"
-  },
-  {
-    "date": "2026-10-24",
-    "theme": "Africa",
-    "headline": "Digital Parks Africa announces carrier-neutral NDC1 data centre in Lagos — new entrant as race heats up"
-  },
-  {
-    "date": "2026-10-24",
-    "theme": "France",
-    "headline": "Update: Nov 5 general strike on track — 5 unions confirmed, rail services to be paralysed"
-  },
-  {
-    "date": "2026-10-24",
-    "theme": "Art",
-    "headline": "Monet 'Iris' sells for $56 million in France as late Impressionist works surge"
-  },
-  {
     "date": "2026-10-25",
     "theme": "World",
     "headline": "Iran in advanced stages of planning attacks on Americans; US orders diplomats to leave Saudi Arabia"
@@ -393,5 +338,60 @@
     "date": "2026-10-31",
     "theme": "Art",
     "headline": "Sotheby's London contemporary sale muted — De Kooning record but total misses estimate; no Castellani lots"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "World",
+    "headline": "Update: Midterms T-2 days — Economist forecasts Democrats take House on 9-point national lead; elections Tuesday Nov 3"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "World",
+    "headline": "Trumponomics 2-year Economist verdict: ordinary Americans paid higher prices, stagnant wages — promise vs reality"
+  },
+  {
+    "date": "2026-11-01",
+    "headline": "Obamacare premiums +14% for 2027 — second consecutive double-digit hike; ACA under sustained pressure",
+    "theme": "World"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "World",
+    "headline": "UK PM signals openness to slavery reparations apology — shift ahead of Commonwealth summit"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "World",
+    "headline": "Update: Spain train crash — traffic control errors identified; families demand accountability for Urda disaster"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "World",
+    "headline": "Kremlin shuts Novaya Gazeta — last major independent Russian voice silenced; editor Muratov leaves Russia"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "Africa",
+    "headline": "African music as political barometer — Economist on how Afrobeats charts trace the continent's restlessness"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "France",
+    "headline": "Update: France general strike T-4 days — all rail notices filed, Nov 5 confirmed, government last offer rejected"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "Lebanon",
+    "headline": "Lebanon Eurobonds +26% in 2026 — IMF capital controls row stalls Financial Gap Law parliament vote"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "Lebanon",
+    "headline": "Update: Hezbollah disarmament impasse — Netanyahu says phase-one progress far from sufficient for ceasefire"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "Sport",
+    "headline": "NYC Marathon 50th anniversary edition — results pending at publication as elite field races five boroughs"
   }
 ]
