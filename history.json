@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-10-25",
-    "theme": "World",
-    "headline": "Iran in advanced stages of planning attacks on Americans; US orders diplomats to leave Saudi Arabia"
-  },
-  {
-    "date": "2026-10-25",
-    "theme": "World",
-    "headline": "DOJ sues to pre-emptively block Alaska Senate result on Trump's orders — legal experts call it without precedent"
-  },
-  {
-    "date": "2026-10-25",
-    "theme": "World",
-    "headline": "Update: Brazil presidential runoff today — Bolsonaro vs Lula; results expected Sunday night"
-  },
-  {
-    "date": "2026-10-25",
-    "theme": "World",
-    "headline": "Sudan's last doctor keeping hospital alive as genocidal RSF militia closes in on el-Fasher — Economist"
-  },
-  {
-    "date": "2026-10-25",
-    "theme": "World",
-    "headline": "Update: Israel election Oct 27 — Arab bloc poised to determine next prime minister; no bloc near 61 seats"
-  },
-  {
-    "date": "2026-10-25",
-    "theme": "World",
-    "headline": "MBS's annus horribilis: Everything going wrong for Saudi Crown Prince — Economist full reckoning"
-  },
-  {
-    "date": "2026-10-25",
-    "theme": "France",
-    "headline": "Moody's warns France on debt: credit rating held but sharp warning issued amid political paralysis"
-  },
-  {
-    "date": "2026-10-25",
-    "theme": "Lebanon",
-    "headline": "Iran's planned attacks on Americans and US Saudi evacuation put Lebanon ceasefire talks at acute risk"
-  },
-  {
     "date": "2026-10-26",
     "theme": "World",
     "headline": "Brazil runoff: Bolsonaro narrowly ahead in final polls; result counted overnight"
@@ -393,5 +353,55 @@
     "date": "2026-11-01",
     "theme": "Sport",
     "headline": "NYC Marathon 50th anniversary edition — results pending at publication as elite field races five boroughs"
+  },
+  {
+    "date": "2026-11-02",
+    "theme": "World",
+    "headline": "Houthis hit Riyadh for first time since 2022 — Economist: Iran-backed war machine built on drones and missiles"
+  },
+  {
+    "date": "2026-11-02",
+    "theme": "World",
+    "headline": "Update: Midterms tomorrow — Democrats 94% to flip House; Senate coin-flip; Alaska chicanery the wild card"
+  },
+  {
+    "date": "2026-11-02",
+    "theme": "World",
+    "headline": "Corruption finally cuts through as US election issue — NYT: voters punishing Trump enrichment"
+  },
+  {
+    "date": "2026-11-02",
+    "theme": "World",
+    "headline": "Trump dismantles America's scientific research machine — NIH, NSF, CDC under intense strain"
+  },
+  {
+    "date": "2026-11-02",
+    "theme": "World",
+    "headline": "India Delhi mass protest — Cockroach youth movement demands election commissioner resign; police crackdown"
+  },
+  {
+    "date": "2026-11-02",
+    "theme": "World",
+    "headline": "Pope Leo departs South America this Friday — 12-day tour, 10 cities; first major trip after lung surgery"
+  },
+  {
+    "date": "2026-11-02",
+    "theme": "World",
+    "headline": "Russia stalled on front lines, escalates deep-strike campaign into Ukraine — Economist tracker"
+  },
+  {
+    "date": "2026-11-02",
+    "theme": "Lebanon",
+    "headline": "Israel enters Deir Mimas homes; Houthis hit Riyadh; Iran-US tensions put Lebanon ceasefire at risk"
+  },
+  {
+    "date": "2026-11-02",
+    "theme": "Lebanon",
+    "headline": "Financial Gap Law: IMF won't back cabinet version; parliament vote still unscheduled"
+  },
+  {
+    "date": "2026-11-02",
+    "theme": "Real Estate",
+    "headline": "Beirut 2026 prices — Achrafieh up 10%+, Downtown luxury holds, Ras Beirut recovering unevenly"
   }
 ]
