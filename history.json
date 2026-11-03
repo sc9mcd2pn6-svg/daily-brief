@@ -1,50 +1,5 @@
 [
   {
-    "date": "2026-10-26",
-    "theme": "World",
-    "headline": "Brazil runoff: Bolsonaro narrowly ahead in final polls; result counted overnight"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "World",
-    "headline": "Trumponomics two years on: poor and middle households bear the cost — Economist's verdict"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "World",
-    "headline": "Israel votes tomorrow: Netanyahu trailing as Bennett/Lapid form joint 'Together' list"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "World",
-    "headline": "Big policy week: UK first Burnham budget Wednesday, Fed meets on rates"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "World",
-    "headline": "India stabilises rupee at growing cost — Reserve Bank deploying ever-harsher tools"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "World",
-    "headline": "Developing world optimistic about AI — Economist: non-Western publics see opportunity, not threat"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "Africa",
-    "headline": "Lagos data centre race: 146 MW in pipeline, power remains the defining bottleneck"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "Lebanon",
-    "headline": "Lebanon's critical week: Israeli election tomorrow shapes ceasefire; IMF November window last chance"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "France",
-    "headline": "T-10 days to France's general strike: government met unions Oct 21, no deal reached"
-  },
-  {
     "date": "2026-10-27",
     "theme": "World",
     "headline": "Israel election exit polls: Eisenkot bloc leads 52-56 seats vs right's ~50; no majority; Arab parties kingmakers"
@@ -403,5 +358,45 @@
     "date": "2026-11-02",
     "theme": "Real Estate",
     "headline": "Beirut 2026 prices — Achrafieh up 10%+, Downtown luxury holds, Ras Beirut recovering unevenly"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "World",
+    "headline": "Update: US Midterms Election Day — 50M early votes; Senate toss-up; Alaska chaos; Democrats favoured for House"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "World",
+    "headline": "Iran signals Strait of Hormuz may reopen within 48 hours — Qatar-mediated; oil fell sharply"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "World",
+    "headline": "China extends export controls beyond rare earths — solar panels, drones, pharma APIs next"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "World",
+    "headline": "Senator Chris Murphy hospitalised with stroke while campaigning for Democrats"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "World",
+    "headline": "Anthropic Q3 revenue 12x year-on-year; AI labs target cybersecurity as next commercial frontier"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "France",
+    "headline": "Update: France general strike T-2 days — all 5 unions locked in, SNCF disruption schedule due today"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Lebanon",
+    "headline": "Lebanon Banking Restructuring Law called 'major step' by IMF; Financial Gap Law still awaits parliament; GDP -6 to -12% in 2026"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Lebanon",
+    "headline": "Lebanon-Israel talks postponed; Lebanese army reinforces Nabatieh; ceasefire framework fragile"
   }
 ]
