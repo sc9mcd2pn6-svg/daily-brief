@@ -1,50 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "theme": "World",
-    "headline": "Israel election exit polls: Eisenkot bloc leads 52-56 seats vs right's ~50; no majority; Arab parties kingmakers"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "World",
-    "headline": "Brazil: Lula re-elected in shock reversal — Bovespa -14%, real -10%, Bolsonaro refuses to concede"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "World",
-    "headline": "Anthropic IPO S-1: $16.3B H1 revenue, $807B compute commitments, potential $2T valuation"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "World",
-    "headline": "Saudi Arabia, Turkey, Pakistan joint diplomatic visit to Tehran amid US-Israel Iran strike planning"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "World",
-    "headline": "Serbia's Vučić era ends — pro-EU bloc defeats nationalist strongman in historic vote"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "World",
-    "headline": "China AI model distillation: Economist says speedboat-skier risk to US may be overstated"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "Lebanon",
-    "headline": "Israel election determines Lebanon ceasefire path — Eisenkot win unlocks talks, Netanyahu hardens them"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "Lebanon",
-    "headline": "Explosives cache at Dahr al-Baidar reignites Hezbollah disarmament debate — ceasefire monitors under pressure"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "France",
-    "headline": "Update: SNCF Nov 5 strike service maps published — rail paralysis confirmed, 9 days to go"
-  },
-  {
     "date": "2026-10-28",
     "theme": "World",
     "headline": "Update: Netanyahu inching ahead in official count — no majority for either bloc; Arab parties at record 17-18 seats; result Thursday"
@@ -398,5 +353,60 @@
     "date": "2026-11-03",
     "theme": "Lebanon",
     "headline": "Lebanon-Israel talks postponed; Lebanese army reinforces Nabatieh; ceasefire framework fragile"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "World",
+    "headline": "Democrats win House with historic majority; Senate morning-after count continues"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "World",
+    "headline": "US strikes Iran's Qeshm Island on election eve; Pentagon calls it defensive"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "World",
+    "headline": "Trump ends $4B direct US military aid to Israel — shift to commercial model"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "World",
+    "headline": "Update: Russia shifts to mass deep strikes as front lines freeze — Economist tracker"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "World",
+    "headline": "Le Pen launches 2027 Élysée campaign as rural France boils — Economist examines village anger"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "France",
+    "headline": "Update: France general strike today Nov 5 — five confederations, SNCF walkout; biggest in years"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Africa",
+    "headline": "Hackers exploiting Africa's digital identity boom — Economist flags systemic cross-border risk"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Lebanon",
+    "headline": "Beirut port blast indictment expected before year-end — Nassar confirms progress, Hezbollah weapons handover settled"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Lebanon",
+    "headline": "Lebanon-Israel talks postponed again; army reinforces Nabatieh amid Israeli demolitions"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Tech",
+    "headline": "$115B Marvell-Lumentum merger bets on optical networking as AI's next chokepoint"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Real Estate",
+    "headline": "US renters face financial cliff — 54% rent-burdened, homeownership hopes at multi-year low"
   }
 ]
