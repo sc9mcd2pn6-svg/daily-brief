@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-10-30",
-    "theme": "World",
-    "headline": "US Q3 GDP 3.4% — fastest growth in a year; AI investment and consumers drive acceleration; savings at 4-year low"
-  },
-  {
-    "date": "2026-10-30",
-    "theme": "World",
-    "headline": "DOJ criminal subpoenas hit California election officials — grand jury summons to LA County registrar, 6 days before midterms"
-  },
-  {
-    "date": "2026-10-30",
-    "theme": "World",
-    "headline": "Nvidia CEO Jensen Huang targeted by confirmed Chinese intelligence asset — Trump briefed, took no action"
-  },
-  {
-    "date": "2026-10-30",
-    "theme": "World",
-    "headline": "Economist cover: Hispanic and Asian voters swing hard against Trump — decisive midterms swing bloc"
-  },
-  {
-    "date": "2026-10-30",
-    "theme": "World",
-    "headline": "DoorDash agrees to buy Instacart for $17B — delivery giants merge pending antitrust"
-  },
-  {
-    "date": "2026-10-30",
-    "theme": "World",
-    "headline": "Update: Israel coalition wrangling begins — no majority for either bloc, Arab parties kingmakers, no clear path"
-  },
-  {
-    "date": "2026-10-30",
-    "theme": "Tech",
-    "headline": "Microsoft profit +32%, Alphabet +25% on AI investment; Apple launches first touch-screen laptop"
-  },
-  {
-    "date": "2026-10-30",
-    "theme": "World",
-    "headline": "Burnham's first UK budget 'talks change, does nothing' — Economist: Britain needs growth, housing, AI reform"
-  },
-  {
-    "date": "2026-10-30",
-    "theme": "France",
-    "headline": "France general strike T-6 days; Oct 31 Halloween protests confirmed tomorrow; unrest in Italy and Belgium"
-  },
-  {
-    "date": "2026-10-30",
-    "theme": "Lebanon",
-    "headline": "Aoun urges end to Israeli strikes; France pledges army donor conference; disarmament stalled; IMF reform condition holds"
-  },
-  {
-    "date": "2026-10-30",
-    "theme": "Sport",
-    "headline": "WNBA Game 7 Saturday — first in league history; Atlanta Dream vs Golden State Valkyries"
-  },
-  {
     "date": "2026-10-31",
     "theme": "World",
     "headline": "Midterms T-4 days: Trump scrambles to hold red states; Democrats favoured to flip House; Senate toss-up"
@@ -353,5 +298,55 @@
     "date": "2026-11-06",
     "theme": "Real Estate",
     "headline": "Lagos data-centre capacity to triple to 218 MW by 2030 — AI demand reshapes West African real estate"
+  },
+  {
+    "date": "2026-11-07",
+    "theme": "World",
+    "headline": "Trump replaces Susie Wiles with Stephen Miller as White House chief of staff after midterm rout"
+  },
+  {
+    "date": "2026-11-07",
+    "theme": "World",
+    "headline": "US October jobs: 165K added, unemployment 4.1%; AI depressing entry-level hiring; Microsoft buyouts 60K workers"
+  },
+  {
+    "date": "2026-11-07",
+    "theme": "World",
+    "headline": "Israel: Herzog to announce Sunday who forms coalition; Eisenkot favoured but path to majority unclear"
+  },
+  {
+    "date": "2026-11-07",
+    "theme": "World",
+    "headline": "Lame-duck Trump to push harder on foreign policy — Economist warns of post-midterm geopolitical danger zone"
+  },
+  {
+    "date": "2026-11-07",
+    "theme": "World",
+    "headline": "Russell Brand found guilty of rape and sexual assault in London — 'significant custodial time' expected"
+  },
+  {
+    "date": "2026-11-07",
+    "theme": "Africa",
+    "headline": "Ebola reaches Nigeria as outbreak spreads from DRC — WHO warns could be worst ever; Lagos business risk"
+  },
+  {
+    "date": "2026-11-07",
+    "theme": "Tech",
+    "headline": "AI-powered cyberattacks surge globally — 88% of vulns exploited within 48h; firms racing to defend"
+  },
+  {
+    "date": "2026-11-07",
+    "theme": "Lebanon",
+    "headline": "IMF mission arrives in Lebanon this month — GDP to contract 6.4% in 2026; Financial Gap Law still unscheduled"
+  },
+  {
+    "date": "2026-11-07",
+    "theme": "Art",
+    "headline": "Booker Prize announced Monday; Lucien Smith (Rain Paintings) dies from accidental drug overdose"
+  },
+  {
+    "date": "2026-11-07",
+    "theme": "Cities",
+    "headline": "Nithya Raman elected LA Mayor, ousting Karen Bass — progressive wave in major US cities"
   }
 ]
