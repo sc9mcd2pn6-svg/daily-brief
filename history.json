@@ -1,110 +1,5 @@
 [
   {
-    "date": "2026-10-31",
-    "theme": "World",
-    "headline": "Midterms T-4 days: Trump scrambles to hold red states; Democrats favoured to flip House; Senate toss-up"
-  },
-  {
-    "date": "2026-10-31",
-    "theme": "World",
-    "headline": "Binance suffers $6.3 billion crypto heist — biggest ever, attributed to North Korea's Lazarus Group"
-  },
-  {
-    "date": "2026-10-31",
-    "theme": "World",
-    "headline": "Google/Alphabet loses $500B in one session — AI chatbots threatening the core search empire"
-  },
-  {
-    "date": "2026-10-31",
-    "theme": "World",
-    "headline": "Ukraine: hundreds of civilians evacuated from besieged Oleshky under papal ceasefire deal"
-  },
-  {
-    "date": "2026-10-31",
-    "theme": "World",
-    "headline": "Patrick Stewart dies at 86 — Star Trek captain and Shakespearean stage master"
-  },
-  {
-    "date": "2026-10-31",
-    "theme": "Africa",
-    "headline": "Malaysia becomes AI data-centre crossroads — US-China battle in developing markets; West Africa playbook"
-  },
-  {
-    "date": "2026-10-31",
-    "theme": "France",
-    "headline": "Update: France general strike T-5 days; SNCF notices filed; protests also underway today Oct 31"
-  },
-  {
-    "date": "2026-10-31",
-    "theme": "Lebanon",
-    "headline": "Hezbollah disarmament impasse: phase one near complete but Netanyahu says progress far from sufficient"
-  },
-  {
-    "date": "2026-10-31",
-    "theme": "Lebanon",
-    "headline": "Prime Beirut real estate up 10% in Achrafieh but volumes down 25%; Ramco warns prices out of sync with reality"
-  },
-  {
-    "date": "2026-10-31",
-    "theme": "Art",
-    "headline": "Sotheby's London contemporary sale muted — De Kooning record but total misses estimate; no Castellani lots"
-  },
-  {
-    "date": "2026-11-01",
-    "theme": "World",
-    "headline": "Update: Midterms T-2 days — Economist forecasts Democrats take House on 9-point national lead; elections Tuesday Nov 3"
-  },
-  {
-    "date": "2026-11-01",
-    "theme": "World",
-    "headline": "Trumponomics 2-year Economist verdict: ordinary Americans paid higher prices, stagnant wages — promise vs reality"
-  },
-  {
-    "date": "2026-11-01",
-    "headline": "Obamacare premiums +14% for 2027 — second consecutive double-digit hike; ACA under sustained pressure",
-    "theme": "World"
-  },
-  {
-    "date": "2026-11-01",
-    "theme": "World",
-    "headline": "UK PM signals openness to slavery reparations apology — shift ahead of Commonwealth summit"
-  },
-  {
-    "date": "2026-11-01",
-    "theme": "World",
-    "headline": "Update: Spain train crash — traffic control errors identified; families demand accountability for Urda disaster"
-  },
-  {
-    "date": "2026-11-01",
-    "theme": "World",
-    "headline": "Kremlin shuts Novaya Gazeta — last major independent Russian voice silenced; editor Muratov leaves Russia"
-  },
-  {
-    "date": "2026-11-01",
-    "theme": "Africa",
-    "headline": "African music as political barometer — Economist on how Afrobeats charts trace the continent's restlessness"
-  },
-  {
-    "date": "2026-11-01",
-    "theme": "France",
-    "headline": "Update: France general strike T-4 days — all rail notices filed, Nov 5 confirmed, government last offer rejected"
-  },
-  {
-    "date": "2026-11-01",
-    "theme": "Lebanon",
-    "headline": "Lebanon Eurobonds +26% in 2026 — IMF capital controls row stalls Financial Gap Law parliament vote"
-  },
-  {
-    "date": "2026-11-01",
-    "theme": "Lebanon",
-    "headline": "Update: Hezbollah disarmament impasse — Netanyahu says phase-one progress far from sufficient for ceasefire"
-  },
-  {
-    "date": "2026-11-01",
-    "theme": "Sport",
-    "headline": "NYC Marathon 50th anniversary edition — results pending at publication as elite field races five boroughs"
-  },
-  {
     "date": "2026-11-02",
     "theme": "World",
     "headline": "Houthis hit Riyadh for first time since 2022 — Economist: Iran-backed war machine built on drones and missiles"
@@ -112,7 +7,7 @@
   {
     "date": "2026-11-02",
     "theme": "World",
-    "headline": "Update: Midterms tomorrow — Democrats 94% to flip House; Senate coin-flip; Alaska chicanery the wild card"
+    "headline": "Update: Midterms tomorrow — Democrats 94% to flip House; Senate coin-flip; Alaska chaos; Democrats favoured for House"
   },
   {
     "date": "2026-11-02",
@@ -348,5 +243,60 @@
     "date": "2026-11-07",
     "theme": "Cities",
     "headline": "Nithya Raman elected LA Mayor, ousting Karen Bass — progressive wave in major US cities"
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "World",
+    "headline": "COP31 opens in Antalya — 190+ countries, climate finance and 1.5°C the central fight"
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "World",
+    "headline": "Russia-Ukraine Abu Dhabi trilateral talks begin tomorrow — first US-brokered session since the Iran war"
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "World",
+    "headline": "Israel: Eisenkot formally tapped by Herzog to form government; coalition math treacherous"
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "World",
+    "headline": "Update: Republicans civil war deepens — Johnson quits House leadership; Cruz: Watergate-level repudiation"
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "World",
+    "headline": "South Africa ANC worst local election result since 1994 — DA sweeps Gauteng, hung councils dominate"
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "World",
+    "headline": "American brain drain accelerates — astrophysicist Holley-Bockelmann leaves; 75% of scientists considering exit"
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "Africa",
+    "headline": "Update: Nigeria Ebola — 62 contacts monitored; Bundibugyo strain; Lagos on heightened alert"
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "Lebanon",
+    "headline": "Israel accuses Lebanese army of failing Hezbollah disarmament obligations; UNIFIL expires end-December"
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "Lebanon",
+    "headline": "IMF mission in Beirut November — banking law progress; GDP -6.4% 2026; Financial Gap Law still unscheduled"
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "Tech",
+    "headline": "NYT: US cleared Nvidia H200 chips to Chinese firms with empty offices and troubling ties"
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "Art",
+    "headline": "Booker Prize 2026 winner announced tonight — ceremony at Old Billingsgate, London"
   }
 ]
