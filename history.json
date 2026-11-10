@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-11-02",
-    "theme": "World",
-    "headline": "Houthis hit Riyadh for first time since 2022 — Economist: Iran-backed war machine built on drones and missiles"
-  },
-  {
-    "date": "2026-11-02",
-    "theme": "World",
-    "headline": "Update: Midterms tomorrow — Democrats 94% to flip House; Senate coin-flip; Alaska chaos; Democrats favoured for House"
-  },
-  {
-    "date": "2026-11-02",
-    "theme": "World",
-    "headline": "Corruption finally cuts through as US election issue — NYT: voters punishing Trump enrichment"
-  },
-  {
-    "date": "2026-11-02",
-    "theme": "World",
-    "headline": "Trump dismantles America's scientific research machine — NIH, NSF, CDC under intense strain"
-  },
-  {
-    "date": "2026-11-02",
-    "theme": "World",
-    "headline": "India Delhi mass protest — Cockroach youth movement demands election commissioner resign; police crackdown"
-  },
-  {
-    "date": "2026-11-02",
-    "theme": "World",
-    "headline": "Pope Leo departs South America this Friday — 12-day tour, 10 cities; first major trip after lung surgery"
-  },
-  {
-    "date": "2026-11-02",
-    "theme": "World",
-    "headline": "Russia stalled on front lines, escalates deep-strike campaign into Ukraine — Economist tracker"
-  },
-  {
-    "date": "2026-11-02",
-    "theme": "Lebanon",
-    "headline": "Israel enters Deir Mimas homes; Houthis hit Riyadh; Iran-US tensions put Lebanon ceasefire at risk"
-  },
-  {
-    "date": "2026-11-02",
-    "theme": "Lebanon",
-    "headline": "Financial Gap Law: IMF won't back cabinet version; parliament vote still unscheduled"
-  },
-  {
-    "date": "2026-11-02",
-    "theme": "Real Estate",
-    "headline": "Beirut 2026 prices — Achrafieh up 10%+, Downtown luxury holds, Ras Beirut recovering unevenly"
-  },
-  {
     "date": "2026-11-03",
     "theme": "World",
     "headline": "Update: US Midterms Election Day — 50M early votes; Senate toss-up; Alaska chaos; Democrats favoured for House"
@@ -298,5 +248,65 @@
     "date": "2026-11-09",
     "theme": "Art",
     "headline": "Booker Prize 2026 winner announced tonight — ceremony at Old Billingsgate, London"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "World",
+    "headline": "Nvidia CEO Jensen Huang's affair with Chinese spy — board investigates; Dow surges 1,104 pts"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "World",
+    "headline": "Update: Ukraine-Russia-US Round 3 opens in Abu Dhabi — first trilateral session in nine months"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "World",
+    "headline": "COP31 Day 2: Leaders' Summit tomorrow in Antalya — climate finance battle, US absent"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "World",
+    "headline": "US lame-duck Congress: Republicans dodge Hegseth impeachment vote; deportation court-order revelations"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "World",
+    "headline": "Update: Eisenkot coalition building — foes and supposed allies both pose threat to forming government"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "Africa",
+    "headline": "Update: Nigeria Ebola — contacts monitored through Nov 13; Lagos on heightened alert, no new cases"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "Africa",
+    "headline": "Lagos data-centre build accelerates — Digital Parks Africa NDC1 launched; city targets 250 MW by 2030"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "France",
+    "headline": "Post-strike France: Le Pen leads grow as centrists scramble; Jaenada wins Prix Goncourt 2026"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "Lebanon",
+    "headline": "Financial Gap Law deadlocked as IMF mission lands in Beirut; GDP -6.4% 2026"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "Lebanon",
+    "headline": "Update: UNIFIL mandate expires in 51 days — Hezbollah disarmament timetable under severe strain"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "Real Estate",
+    "headline": "Beirut property: Achrafieh new-builds up 10%+; transactions still 25% below 2025 levels"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "Art",
+    "headline": "Booker Prize 2026: M. John Harrison wins with sci-fi novel — first science-fiction winner in prize history"
   }
 ]
