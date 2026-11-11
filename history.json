@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-11-03",
-    "theme": "World",
-    "headline": "Update: US Midterms Election Day — 50M early votes; Senate toss-up; Alaska chaos; Democrats favoured for House"
-  },
-  {
-    "date": "2026-11-03",
-    "theme": "World",
-    "headline": "Iran signals Strait of Hormuz may reopen within 48 hours — Qatar-mediated; oil fell sharply"
-  },
-  {
-    "date": "2026-11-03",
-    "theme": "World",
-    "headline": "China extends export controls beyond rare earths — solar panels, drones, pharma APIs next"
-  },
-  {
-    "date": "2026-11-03",
-    "theme": "World",
-    "headline": "Senator Chris Murphy hospitalised with stroke while campaigning for Democrats"
-  },
-  {
-    "date": "2026-11-03",
-    "theme": "World",
-    "headline": "Anthropic Q3 revenue 12x year-on-year; AI labs target cybersecurity as next commercial frontier"
-  },
-  {
-    "date": "2026-11-03",
-    "theme": "France",
-    "headline": "Update: France general strike T-2 days — all 5 unions locked in, SNCF disruption schedule due today"
-  },
-  {
-    "date": "2026-11-03",
-    "theme": "Lebanon",
-    "headline": "Lebanon Banking Restructuring Law called 'major step' by IMF; Financial Gap Law still awaits parliament; GDP -6 to -12% in 2026"
-  },
-  {
-    "date": "2026-11-03",
-    "theme": "Lebanon",
-    "headline": "Lebanon-Israel talks postponed; Lebanese army reinforces Nabatieh; ceasefire framework fragile"
-  },
-  {
     "date": "2026-11-04",
     "theme": "World",
     "headline": "Democrats win House with historic majority; Senate morning-after count continues"
@@ -308,5 +268,60 @@
     "date": "2026-11-10",
     "theme": "Art",
     "headline": "Booker Prize 2026: M. John Harrison wins with sci-fi novel — first science-fiction winner in prize history"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "World",
+    "headline": "Trumponomics at a December cliff — Democrats demand tariff rollbacks before Dec 11 budget deadline"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "World",
+    "headline": "Hot US CPI derails markets — Dow 52,232, S&P 7,521 down; Fed December hike at 97% odds"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "World",
+    "headline": "China trade surplus passes $1 trillion at record pace — IMF urges domestic demand shift"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "World",
+    "headline": "Iran war's unexpected climate dividend — first global CO2 drop since pandemic; could be short-lived"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "World",
+    "headline": "Hegseth survives House impeachment vote — Republicans hold, Senate trial averted"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "World",
+    "headline": "Senegal shipwreck: 34 dead bound for Canary Islands; Spain declares migrant emergency"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "France",
+    "headline": "France accuses Iran of October cyberattack on supermarket refrigeration and BMS systems"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Lebanon",
+    "headline": "EU launches 3-year Lebanon security mission to replace UNIFIL by Dec 31 — EUSML activated"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Africa",
+    "headline": "Exxon strikes preliminary deal to return to Venezuela — could ease Brent but dent Nigerian oil revenues"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Sport",
+    "headline": "Nigeria Flamingos win U-17 Women's World Cup — first FIFA title in Nigerian football history"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Art",
+    "headline": "Russell Brand sentenced to 10.5 years in prison — Musk, Megyn Kelly defend him; culture-war storm"
   }
 ]
