@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-11-06",
-    "theme": "World",
-    "headline": "Update: Democrats sweep Senate too — biggest congressional landslide in 50 years; full Dem Congress confirmed"
-  },
-  {
-    "date": "2026-11-06",
-    "theme": "World",
-    "headline": "Markets sell off: S&P -4.4% to 7,353, Dow -1,833 pts, Brent -10% — blue wave shock triggers AI chip rout"
-  },
-  {
-    "date": "2026-11-06",
-    "theme": "World",
-    "headline": "Republicans face brutal 2028 primary — Vance blames Iran war, distances from Trump, positions for White House"
-  },
-  {
-    "date": "2026-11-06",
-    "theme": "World",
-    "headline": "Ukraine demographic collapse deepens: 3.55 deaths per birth in H1 2026; population below 25M"
-  },
-  {
-    "date": "2026-11-06",
-    "theme": "World",
-    "headline": "Justice Alito won't retire immediately despite Democratic sweep — calculates Trump retains appointment power"
-  },
-  {
-    "date": "2026-11-06",
-    "theme": "France",
-    "headline": "Update: France general strike results — up to 1.6M march, tear gas, CGT vows to continue until 10% wage hike"
-  },
-  {
-    "date": "2026-11-06",
-    "theme": "Africa",
-    "headline": "West Africa security crisis deepens — ECOWAS emergency measures as coup wave reaches coastal states"
-  },
-  {
-    "date": "2026-11-06",
-    "theme": "Lebanon",
-    "headline": "BdL raises deposit withdrawal limits again; currency board debate intensifies; Finance Minister warns -10% GDP"
-  },
-  {
-    "date": "2026-11-06",
-    "theme": "Lebanon",
-    "headline": "UNIFIL mandate ends December 2026; Israel-Lebanon talks deadlocked; army reinforces Nabatieh"
-  },
-  {
-    "date": "2026-11-06",
-    "theme": "Real Estate",
-    "headline": "Lagos data-centre capacity to triple to 218 MW by 2030 — AI demand reshapes West African real estate"
-  },
-  {
     "date": "2026-11-07",
     "theme": "World",
     "headline": "Trump replaces Susie Wiles with Stephen Miller as White House chief of staff after midterm rout"
@@ -373,5 +323,65 @@
     "date": "2026-11-13",
     "theme": "Africa",
     "headline": "Nigeria pitches $2.2B flare gas plan at COP31 — upstream regulator courts global investors"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "World",
+    "headline": "FAA 4-hour nationwide ground stop paralyzes US aviation — outdated equipment overloaded, no cyberattack"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "World",
+    "headline": "Russia circulates 2022 hard-line Ukraine demands; Putin-Trump Shenzhen summit next week"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "World",
+    "headline": "US Supreme Court agrees to review Trump's sweeping asylum ban"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "World",
+    "headline": "Update: Nvidia scandal deepens — Bessent blames Lutnick, Huang and Commerce Secretary summoned to Congress"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "World",
+    "headline": "SpaceX Starship Flight 15 fails double-catch — booster lost at sea; $74B data-centre investment confirmed"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "France",
+    "headline": "French 2027 race: centrists eye Teddy Riner; Lagarde declines; Mélenchon LFI rally in Paris today"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "Lebanon",
+    "headline": "Lebanon IMF talks end without deal — small committee to finalize Financial Gap Law by year-end"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "Lebanon",
+    "headline": "Update: UNIFIL 46 days from mandate expiry; Israel weighing partial buffer-zone pullback"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "Africa",
+    "headline": "Update: DRC Ebola tops 10,000 cases; Nigeria index patient stable in Switzerland, 44 contacts monitored"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "Africa",
+    "headline": "Super El Niño peaks December 2026 — 49M more at hunger risk; West Africa drought threat sharpening"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "Real Estate",
+    "headline": "Beirut 2026 prime market: Achrafieh/Ras Beirut new-build prices up 10%+ from construction costs"
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "Real Estate",
+    "headline": "SpaceX commits $74B to data centres in Texas/Arizona — hyperscaler land rush reshapes real-estate values"
   }
 ]
