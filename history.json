@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-11-07",
-    "theme": "World",
-    "headline": "Trump replaces Susie Wiles with Stephen Miller as White House chief of staff after midterm rout"
-  },
-  {
-    "date": "2026-11-07",
-    "theme": "World",
-    "headline": "US October jobs: 165K added, unemployment 4.1%; AI depressing entry-level hiring; Microsoft buyouts 60K workers"
-  },
-  {
-    "date": "2026-11-07",
-    "theme": "World",
-    "headline": "Israel: Herzog to announce Sunday who forms coalition; Eisenkot favoured but path to majority unclear"
-  },
-  {
-    "date": "2026-11-07",
-    "theme": "World",
-    "headline": "Lame-duck Trump to push harder on foreign policy — Economist warns of post-midterm geopolitical danger zone"
-  },
-  {
-    "date": "2026-11-07",
-    "theme": "World",
-    "headline": "Russell Brand found guilty of rape and sexual assault in London — 'significant custodial time' expected"
-  },
-  {
-    "date": "2026-11-07",
-    "theme": "Africa",
-    "headline": "Ebola reaches Nigeria as outbreak spreads from DRC — WHO warns could be worst ever; Lagos business risk"
-  },
-  {
-    "date": "2026-11-07",
-    "theme": "Tech",
-    "headline": "AI-powered cyberattacks surge globally — 88% of vulns exploited within 48h; firms racing to defend"
-  },
-  {
-    "date": "2026-11-07",
-    "theme": "Lebanon",
-    "headline": "IMF mission arrives in Lebanon this month — GDP to contract 6.4% in 2026; Financial Gap Law still unscheduled"
-  },
-  {
-    "date": "2026-11-07",
-    "theme": "Art",
-    "headline": "Booker Prize announced Monday; Lucien Smith (Rain Paintings) dies from accidental drug overdose"
-  },
-  {
-    "date": "2026-11-07",
-    "theme": "Cities",
-    "headline": "Nithya Raman elected LA Mayor, ousting Karen Bass — progressive wave in major US cities"
-  },
-  {
     "date": "2026-11-09",
     "theme": "World",
     "headline": "COP31 opens in Antalya — 190+ countries, climate finance and 1.5°C the central fight"
@@ -383,5 +333,45 @@
     "date": "2026-11-14",
     "theme": "Real Estate",
     "headline": "SpaceX commits $74B to data centres in Texas/Arizona — hyperscaler land rush reshapes real-estate values"
+  },
+  {
+    "date": "2026-11-15",
+    "theme": "World",
+    "headline": "Leaked Rosstat data: 400,000–450,000 Russian war dead — Kremlin concealed massive losses from families"
+  },
+  {
+    "date": "2026-11-15",
+    "theme": "World",
+    "headline": "Jensen Huang resigns as Nvidia CEO — Wall Street in shock; successor search underway as AI deals stall"
+  },
+  {
+    "date": "2026-11-15",
+    "theme": "World",
+    "headline": "Microsoft 2-day global outage knocks Teams, Azure, M365 — 850M users affected; fix deployed overnight"
+  },
+  {
+    "date": "2026-11-15",
+    "theme": "World",
+    "headline": "Update: Anthropic IPO terms set — $61B at $1.2T valuation; ANT Nasdaq debut targeting Nov 19-20"
+  },
+  {
+    "date": "2026-11-15",
+    "theme": "World",
+    "headline": "Europe's generational pension clash — France, Spain street protests as youth reject boomer-era cuts"
+  },
+  {
+    "date": "2026-11-15",
+    "theme": "World",
+    "headline": "Update: Trump-Putin-Xi APEC Shenzhen summit Nov 18-19 confirmed — Iran war endgame on the table"
+  },
+  {
+    "date": "2026-11-15",
+    "theme": "Lebanon",
+    "headline": "Post-IMF mission banking impasse: Financial Gap Law stalled, Constitutional Council challenge looms"
+  },
+  {
+    "date": "2026-11-15",
+    "theme": "Art",
+    "headline": "Van Gogh 'Blossoming Chestnut Trees' Jewish heirs challenge Sotheby's $180M sale — restitution showdown"
   }
 ]
