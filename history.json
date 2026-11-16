@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-11-09",
-    "theme": "World",
-    "headline": "COP31 opens in Antalya — 190+ countries, climate finance and 1.5°C the central fight"
-  },
-  {
-    "date": "2026-11-09",
-    "theme": "World",
-    "headline": "Russia-Ukraine Abu Dhabi trilateral talks begin tomorrow — first US-brokered session since the Iran war"
-  },
-  {
-    "date": "2026-11-09",
-    "theme": "World",
-    "headline": "Israel: Eisenkot formally tapped by Herzog to form government; coalition math treacherous"
-  },
-  {
-    "date": "2026-11-09",
-    "theme": "World",
-    "headline": "Update: Republicans civil war deepens — Johnson quits House leadership; Cruz: Watergate-level repudiation"
-  },
-  {
-    "date": "2026-11-09",
-    "theme": "World",
-    "headline": "South Africa ANC worst local election result since 1994 — DA sweeps Gauteng, hung councils dominate"
-  },
-  {
-    "date": "2026-11-09",
-    "theme": "World",
-    "headline": "American brain drain accelerates — astrophysicist Holley-Bockelmann leaves; 75% of scientists considering exit"
-  },
-  {
-    "date": "2026-11-09",
-    "theme": "Africa",
-    "headline": "Update: Nigeria Ebola — 62 contacts monitored; Bundibugyo strain; Lagos on heightened alert"
-  },
-  {
-    "date": "2026-11-09",
-    "theme": "Lebanon",
-    "headline": "Israel accuses Lebanese army of failing Hezbollah disarmament obligations; UNIFIL expires end-December"
-  },
-  {
-    "date": "2026-11-09",
-    "theme": "Lebanon",
-    "headline": "IMF mission in Beirut November — banking law progress; GDP -6.4% 2026; Financial Gap Law still unscheduled"
-  },
-  {
-    "date": "2026-11-09",
-    "theme": "Tech",
-    "headline": "NYT: US cleared Nvidia H200 chips to Chinese firms with empty offices and troubling ties"
-  },
-  {
-    "date": "2026-11-09",
-    "theme": "Art",
-    "headline": "Booker Prize 2026 winner announced tonight — ceremony at Old Billingsgate, London"
-  },
-  {
     "date": "2026-11-10",
     "theme": "World",
     "headline": "Nvidia CEO Jensen Huang's affair with Chinese spy — board investigates; Dow surges 1,104 pts"
@@ -373,5 +318,50 @@
     "date": "2026-11-15",
     "theme": "Art",
     "headline": "Van Gogh 'Blossoming Chestnut Trees' Jewish heirs challenge Sotheby's $180M sale — restitution showdown"
+  },
+  {
+    "date": "2026-11-16",
+    "theme": "World",
+    "headline": "SpaceX catches Starship second stage — world-first orbital ship recovery at launch tower"
+  },
+  {
+    "date": "2026-11-16",
+    "theme": "World",
+    "headline": "Iranian supertanker with 2 million barrels sinks in Gulf — mine suspected; Hormuz tension spike"
+  },
+  {
+    "date": "2026-11-16",
+    "theme": "World",
+    "headline": "Iran proxies drive security anxiety across UK, Germany and Netherlands — NYT"
+  },
+  {
+    "date": "2026-11-16",
+    "theme": "World",
+    "headline": "Houthi forces seize Bab al-Mandeb territory — Yemeni government forces retreat in major setback"
+  },
+  {
+    "date": "2026-11-16",
+    "theme": "World",
+    "headline": "Update: APEC Shenzhen summit opens Wednesday — Trump meets Xi on Iran war, Taiwan and trade truce"
+  },
+  {
+    "date": "2026-11-16",
+    "theme": "World",
+    "headline": "Update: Anthropic IPO roadshow week — Economist warns AI crash inevitable; ANT targets Nov 19-20"
+  },
+  {
+    "date": "2026-11-16",
+    "theme": "Africa",
+    "headline": "Update: Venezuela oil grab escalates — Nigerian revenues under pressure as cheap crude floods market"
+  },
+  {
+    "date": "2026-11-16",
+    "theme": "Lebanon",
+    "headline": "US NSA Waltz in Beirut — presses Lebanon to deliver Hezbollah disarmament before UNIFIL exits Dec 31"
+  },
+  {
+    "date": "2026-11-16",
+    "theme": "Lebanon",
+    "headline": "PM Salam in Doha for Qatar electricity deal — gas and power transmission via Syria on the table"
   }
 ]
