@@ -1,65 +1,5 @@
 [
   {
-    "date": "2026-11-10",
-    "theme": "World",
-    "headline": "Nvidia CEO Jensen Huang's affair with Chinese spy — board investigates; Dow surges 1,104 pts"
-  },
-  {
-    "date": "2026-11-10",
-    "theme": "World",
-    "headline": "Update: Ukraine-Russia-US Round 3 opens in Abu Dhabi — first trilateral session in nine months"
-  },
-  {
-    "date": "2026-11-10",
-    "theme": "World",
-    "headline": "COP31 Day 2: Leaders' Summit tomorrow in Antalya — climate finance battle, US absent"
-  },
-  {
-    "date": "2026-11-10",
-    "theme": "World",
-    "headline": "US lame-duck Congress: Republicans dodge Hegseth impeachment vote; deportation court-order revelations"
-  },
-  {
-    "date": "2026-11-10",
-    "theme": "World",
-    "headline": "Update: Eisenkot coalition building — foes and supposed allies both pose threat to forming government"
-  },
-  {
-    "date": "2026-11-10",
-    "theme": "Africa",
-    "headline": "Update: Nigeria Ebola — contacts monitored through Nov 13; Lagos on heightened alert, no new cases"
-  },
-  {
-    "date": "2026-11-10",
-    "theme": "Africa",
-    "headline": "Lagos data-centre build accelerates — Digital Parks Africa NDC1 launched; city targets 250 MW by 2030"
-  },
-  {
-    "date": "2026-11-10",
-    "theme": "France",
-    "headline": "Post-strike France: Le Pen leads grow as centrists scramble; Jaenada wins Prix Goncourt 2026"
-  },
-  {
-    "date": "2026-11-10",
-    "theme": "Lebanon",
-    "headline": "Financial Gap Law deadlocked as IMF mission lands in Beirut; GDP -6.4% 2026"
-  },
-  {
-    "date": "2026-11-10",
-    "theme": "Lebanon",
-    "headline": "Update: UNIFIL mandate expires in 51 days — Hezbollah disarmament timetable under severe strain"
-  },
-  {
-    "date": "2026-11-10",
-    "theme": "Real Estate",
-    "headline": "Beirut property: Achrafieh new-builds up 10%+; transactions still 25% below 2025 levels"
-  },
-  {
-    "date": "2026-11-10",
-    "theme": "Art",
-    "headline": "Booker Prize 2026: M. John Harrison wins with sci-fi novel — first science-fiction winner in prize history"
-  },
-  {
     "date": "2026-11-11",
     "theme": "World",
     "headline": "Trumponomics at a December cliff — Democrats demand tariff rollbacks before Dec 11 budget deadline"
@@ -413,5 +353,55 @@
     "date": "2026-11-17",
     "theme": "Art",
     "headline": "Grammy 2027 nominations — Raye leads with 11 noms; ceremony Feb 7 2027"
+  },
+  {
+    "date": "2026-11-18",
+    "theme": "World",
+    "headline": "Update: APEC Day 1 Shenzhen — Trump-Xi-Putin historic first trilateral; Economist: summit will shrink America"
+  },
+  {
+    "date": "2026-11-18",
+    "theme": "World",
+    "headline": "US loses measles elimination status after 26 years — 7,700+ cases, 10 deaths; PAHO strips designation"
+  },
+  {
+    "date": "2026-11-18",
+    "theme": "World",
+    "headline": "Ukraine significantly damages Kerch Bridge in overnight strike — large section collapses"
+  },
+  {
+    "date": "2026-11-18",
+    "theme": "World",
+    "headline": "Update: Nvidia posts first-ever $100B quarter — board rules out Jensen Huang return; daughter role unsettles interim CEO"
+  },
+  {
+    "date": "2026-11-18",
+    "theme": "World",
+    "headline": "AI discovers critical Java zero-day; NSA network, Chase Bank and air traffic all fail in same week"
+  },
+  {
+    "date": "2026-11-18",
+    "theme": "Africa",
+    "headline": "Update: WHO formally rejects Nigeria Ebola-free claims — December 7 earliest for official declaration"
+  },
+  {
+    "date": "2026-11-18",
+    "theme": "Africa",
+    "headline": "Africa solar revolution powers data-centre boom — Economist, South Africa Teraco 120MW, Algeria 1.48GW cluster"
+  },
+  {
+    "date": "2026-11-18",
+    "theme": "Lebanon",
+    "headline": "Post-IMF mission: more banking reform work needed; Financial Gap Law stalled; Eurobonds holding firm"
+  },
+  {
+    "date": "2026-11-18",
+    "theme": "Lebanon",
+    "headline": "Update: UNIFIL 43 days from mandate expiry — Hezbollah disarmament unresolved; EUSML planning underway"
+  },
+  {
+    "date": "2026-11-18",
+    "theme": "Art",
+    "headline": "Robert Pattinson confirmed as next James Bond — $23B franchise picks 'petulant losers' specialist"
   }
 ]
