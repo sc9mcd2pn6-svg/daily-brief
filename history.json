@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-11-12",
-    "theme": "World",
-    "headline": "Anthropic launches IPO roadshow — $1.5-2T valuation Nasdaq debut targeting mid-November"
-  },
-  {
-    "date": "2026-11-12",
-    "theme": "World",
-    "headline": "Update: Economist demands Jensen Huang resign; Wachtell criminal probe of Nvidia CEO widens"
-  },
-  {
-    "date": "2026-11-12",
-    "theme": "World",
-    "headline": "Novaya Gazeta closes permanently — Russia's last major independent newspaper ends 33-year run"
-  },
-  {
-    "date": "2026-11-12",
-    "theme": "World",
-    "headline": "Democrats map post-Hegseth Iran war strategy — January offensive via budget leverage in view"
-  },
-  {
-    "date": "2026-11-12",
-    "theme": "World",
-    "headline": "AUKUS submarine base opens in Western Australia — first US naval base abroad since 1971"
-  },
-  {
-    "date": "2026-11-12",
-    "theme": "Africa",
-    "headline": "Dakar 2026 Youth Olympics close tomorrow — Africa's first ever Olympics host; Nigeria sweeps 100m sprints"
-  },
-  {
-    "date": "2026-11-12",
-    "theme": "France",
-    "headline": "Le Pen leads 2027 French presidential polls at 34-36%; Mélenchon rallies LFI on Nov 14"
-  },
-  {
-    "date": "2026-11-12",
-    "theme": "Lebanon",
-    "headline": "IMF mission hits Financial Gap Law impasse — Central Bank carve-outs block deal in Beirut talks"
-  },
-  {
-    "date": "2026-11-12",
-    "theme": "Lebanon",
-    "headline": "Israel weighing 'grey line' partial buffer-zone pullback in south Lebanon as UNIFIL clock ticks"
-  },
-  {
-    "date": "2026-11-12",
-    "theme": "Real Estate",
-    "headline": "COP31 climate-finance battle reshaping data-centre real-estate values globally; green premium widens"
-  },
-  {
     "date": "2026-11-13",
     "theme": "World",
     "headline": "Canary Islands migrant crisis reaches breaking point — El Hierro declares emergency, 8,000+ arrivals"
@@ -398,5 +348,50 @@
     "date": "2026-11-19",
     "theme": "Real Estate",
     "headline": "Beirut 2026 Achrafieh/Ras Beirut hold, Downtown softens — Ramco market 'mixed' report"
+  },
+  {
+    "date": "2026-11-20",
+    "theme": "World",
+    "headline": "ICJ rules Myanmar guilty of genocide — first state ever held to account under Genocide Convention in 80-year history"
+  },
+  {
+    "date": "2026-11-20",
+    "theme": "World",
+    "headline": "Economist cover: 'Axis of malice' — China/Russia/Iran/NK collusion deepens as the defining geopolitical threat"
+  },
+  {
+    "date": "2026-11-20",
+    "theme": "World",
+    "headline": "Trump Inc. in free fall — Trump Media -70% YTD, MELANIA token -99.6%, investors flee president-linked assets"
+  },
+  {
+    "date": "2026-11-20",
+    "theme": "World",
+    "headline": "Update: Anthropic ANT hits $97/share on debut, $1.7T valuation — fastest-ever public company to trillion-dollar market cap"
+  },
+  {
+    "date": "2026-11-20",
+    "theme": "World",
+    "headline": "Update: Ukraine — Kerch Bridge rail halt after Ukrainian strike; EU proposes $89B fresh loan"
+  },
+  {
+    "date": "2026-11-20",
+    "theme": "Africa",
+    "headline": "Nigeria CBN mandates payment data localization by Jan 2027 — 90%+ of fintechs off foreign cloud, Lagos data-centre demand catalyst"
+  },
+  {
+    "date": "2026-11-20",
+    "theme": "Lebanon",
+    "headline": "Qatar-Lebanon power deal advancing — 1,650MW in two new plants plus 20-year LNG deal; PM Salam Doha visit shows significant progress"
+  },
+  {
+    "date": "2026-11-20",
+    "theme": "Lebanon",
+    "headline": "Lebanese Eurobonds hold firm despite IMF stalemate and UNIFIL security concerns — L'Orient Today"
+  },
+  {
+    "date": "2026-11-20",
+    "theme": "France",
+    "headline": "France approves social security budget; main budget blocked; Lecornu survives no-confidence but governs without majority"
   }
 ]
