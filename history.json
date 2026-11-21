@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-11-13",
-    "theme": "World",
-    "headline": "Canary Islands migrant crisis reaches breaking point — El Hierro declares emergency, 8,000+ arrivals"
-  },
-  {
-    "date": "2026-11-13",
-    "theme": "World",
-    "headline": "Update: Ukraine-Russia Abu Dhabi talks Day 2 — no breakthrough; Russia fires 162 drones during session"
-  },
-  {
-    "date": "2026-11-13",
-    "theme": "World",
-    "headline": "Update: COP31 Antalya — Turkey signs $5.1B multilateral deals; Africa demands climate finance delivery"
-  },
-  {
-    "date": "2026-11-13",
-    "theme": "World",
-    "headline": "Update: Anthropic IPO targets Nov 19-20 Nasdaq debut despite tech selloff; Goldman/Morgan Stanley lead"
-  },
-  {
-    "date": "2026-11-13",
-    "theme": "World",
-    "headline": "ASEAN Summit opens in Manila — Modi attending; heightened security through Nov 19"
-  },
-  {
-    "date": "2026-11-13",
-    "theme": "France",
-    "headline": "Airbus announces new Toulouse factory — 3,500 jobs planned for A330neo expansion"
-  },
-  {
-    "date": "2026-11-13",
-    "theme": "France",
-    "headline": "Kretinsky seals 69% stake in Fnac-Darty — Czech billionaire tightens grip on French retail"
-  },
-  {
-    "date": "2026-11-13",
-    "theme": "Lebanon",
-    "headline": "Update: IMF final Beirut session today — Jaber hopes for preliminary deal; Financial Gap Law the last hurdle"
-  },
-  {
-    "date": "2026-11-13",
-    "theme": "Lebanon",
-    "headline": "Update: UNIFIL patrol shot at in south Lebanon; G7 vow no security void after Dec 31 mandate expiry"
-  },
-  {
-    "date": "2026-11-13",
-    "theme": "Africa",
-    "headline": "Update: Nigeria Ebola patient evacuated to Switzerland — stable; 44 contacts still monitored"
-  },
-  {
-    "date": "2026-11-13",
-    "theme": "Africa",
-    "headline": "Nigeria pitches $2.2B flare gas plan at COP31 — upstream regulator courts global investors"
-  },
-  {
     "date": "2026-11-14",
     "theme": "World",
     "headline": "FAA 4-hour nationwide ground stop paralyzes US aviation — outdated equipment overloaded, no cyberattack"
@@ -393,5 +338,50 @@
     "date": "2026-11-20",
     "theme": "France",
     "headline": "France approves social security budget; main budget blocked; Lecornu survives no-confidence but governs without majority"
+  },
+  {
+    "date": "2026-11-21",
+    "theme": "World",
+    "headline": "AI selloff wipes $1 trillion — S&P and Dow enter correction after worst week since 2020"
+  },
+  {
+    "date": "2026-11-21",
+    "theme": "World",
+    "headline": "UK-EU landmark Brussels deal — food checks, youth mobility 100K/year, emissions trading from 2028"
+  },
+  {
+    "date": "2026-11-21",
+    "theme": "World",
+    "headline": "Trump threatens overseas data-centre tax — 'tremendous tax' on US firms building AI abroad"
+  },
+  {
+    "date": "2026-11-21",
+    "theme": "World",
+    "headline": "Update: Nvidia Alice Huang tied to Chinese military web; Hopper chip sales to China halted"
+  },
+  {
+    "date": "2026-11-21",
+    "theme": "World",
+    "headline": "Gen Z student strike sweeps Europe Nov 20 — UK, France and Italy walk out over education and housing"
+  },
+  {
+    "date": "2026-11-21",
+    "theme": "World",
+    "headline": "Trump weakened domestically post-APEC; cybersecurity chief Cairncross replaced after tech-outage cascade"
+  },
+  {
+    "date": "2026-11-21",
+    "theme": "Africa",
+    "headline": "Lagos data-centre boom hits energy wall — costs up 64% in 2026, grid supplies 3,000-4,000 MW nationwide"
+  },
+  {
+    "date": "2026-11-21",
+    "theme": "France",
+    "headline": "French students join European Nov 20 walkout — tuition, housing and jobs fuel new mobilisation"
+  },
+  {
+    "date": "2026-11-21",
+    "theme": "Lebanon",
+    "headline": "Lebanon IMF deal shifts to Q1 2027 — Jaber confirms first-quarter deadline; World Bank projects -6.4% GDP"
   }
 ]
