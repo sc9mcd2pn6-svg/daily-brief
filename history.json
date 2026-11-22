@@ -1,65 +1,5 @@
 [
   {
-    "date": "2026-11-14",
-    "theme": "World",
-    "headline": "FAA 4-hour nationwide ground stop paralyzes US aviation — outdated equipment overloaded, no cyberattack"
-  },
-  {
-    "date": "2026-11-14",
-    "theme": "World",
-    "headline": "Russia circulates 2022 hard-line Ukraine demands; Putin-Trump Shenzhen summit next week"
-  },
-  {
-    "date": "2026-11-14",
-    "theme": "World",
-    "headline": "US Supreme Court agrees to review Trump's sweeping asylum ban"
-  },
-  {
-    "date": "2026-11-14",
-    "theme": "World",
-    "headline": "Update: Nvidia scandal deepens — Bessent blames Lutnick, Huang and Commerce Secretary summoned to Congress"
-  },
-  {
-    "date": "2026-11-14",
-    "theme": "World",
-    "headline": "SpaceX Starship Flight 15 fails double-catch — booster lost at sea; $74B data-centre investment confirmed"
-  },
-  {
-    "date": "2026-11-14",
-    "theme": "France",
-    "headline": "French 2027 race: centrists eye Teddy Riner; Lagarde declines; Mélenchon LFI rally in Paris today"
-  },
-  {
-    "date": "2026-11-14",
-    "theme": "Lebanon",
-    "headline": "Lebanon IMF talks end without deal — small committee to finalize Financial Gap Law by year-end"
-  },
-  {
-    "date": "2026-11-14",
-    "theme": "Lebanon",
-    "headline": "Update: UNIFIL 46 days from mandate expiry; Israel weighing partial buffer-zone pullback"
-  },
-  {
-    "date": "2026-11-14",
-    "theme": "Africa",
-    "headline": "Update: DRC Ebola tops 10,000 cases; Nigeria index patient stable in Switzerland, 44 contacts monitored"
-  },
-  {
-    "date": "2026-11-14",
-    "theme": "Africa",
-    "headline": "Super El Niño peaks December 2026 — 49M more at hunger risk; West Africa drought threat sharpening"
-  },
-  {
-    "date": "2026-11-14",
-    "theme": "Real Estate",
-    "headline": "Beirut 2026 prime market: Achrafieh/Ras Beirut new-build prices up 10%+ from construction costs"
-  },
-  {
-    "date": "2026-11-14",
-    "theme": "Real Estate",
-    "headline": "SpaceX commits $74B to data centres in Texas/Arizona — hyperscaler land rush reshapes real-estate values"
-  },
-  {
     "date": "2026-11-15",
     "theme": "World",
     "headline": "Leaked Rosstat data: 400,000–450,000 Russian war dead — Kremlin concealed massive losses from families"
@@ -408,5 +348,65 @@
     "date": "2026-11-21",
     "theme": "direct-impact-lebanon",
     "headline": "Lebanon VAT Q3 2026 — MoF Decision 942/1 extends filing and payment deadline to 30 November 2026"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "World",
+    "headline": "Iran's Guards destroy 2 US Patriot radars in Bahrain — 4th attack this week; Trump floats 'permanent deal'"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "World",
+    "headline": "Russia's biggest 2026 drone barrage — 400 drones, 110 missiles, 8 dead; Kryvyi Rih and Lviv hit"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "World",
+    "headline": "Update: COP31 summit president says 'close to final deal' — fossil-fuel language still contested; vote due Sunday"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "World",
+    "headline": "Spain elections Nov 29 — PP leads, Socialists close gap; Sánchez final campaign push"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "World",
+    "headline": "ECB succession race — Lagarde out February 2027; Germany-France talks; December EU summit to confirm successor"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "Africa",
+    "headline": "BD lead: Digital Parks Africa NDC1 Lagos carrier-neutral data centre — active build, targeting hyperscalers"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "Africa",
+    "headline": "BD lead: Lagos General Hospital Ojo 85% complete — Q1 2027 commissioning target; Somolu 180-bed at 15%"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "Africa",
+    "headline": "Gunmen attack northeast Nigeria — toll rises to 62 in Borno/Adamawa area"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "Lebanon",
+    "headline": "Lebanon parliament Nov 12: $200M World Bank Aman safety net, Turkey military pact and Ivory Coast air deal approved"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "direct-impact-lebanon",
+    "headline": "Lebanon banks weekly Wednesday strike — first Nov 18, next Nov 25; MoF extends bank Eurobond provisions tax deadline to Dec 15"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "direct-impact-lebanon",
+    "headline": "BDL raises Circular 158 monthly dollar withdrawal to $1,200 effective Nov 3 — cash $800 + card $400"
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "Art",
+    "headline": "GTA VI makes $3.79B on release day — biggest media launch in history, surpasses all box-office records"
   }
 ]
