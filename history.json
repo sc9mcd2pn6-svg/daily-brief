@@ -1,45 +1,5 @@
 [
   {
-    "date": "2026-11-15",
-    "theme": "World",
-    "headline": "Leaked Rosstat data: 400,000–450,000 Russian war dead — Kremlin concealed massive losses from families"
-  },
-  {
-    "date": "2026-11-15",
-    "theme": "World",
-    "headline": "Jensen Huang resigns as Nvidia CEO — Wall Street in shock; successor search underway as AI deals stall"
-  },
-  {
-    "date": "2026-11-15",
-    "theme": "World",
-    "headline": "Microsoft 2-day global outage knocks Teams, Azure, M365 — 850M users affected; fix deployed overnight"
-  },
-  {
-    "date": "2026-11-15",
-    "theme": "World",
-    "headline": "Update: Anthropic IPO terms set — $61B at $1.2T valuation; ANT Nasdaq debut targeting Nov 19-20"
-  },
-  {
-    "date": "2026-11-15",
-    "theme": "World",
-    "headline": "Europe's generational pension clash — France, Spain street protests as youth reject boomer-era cuts"
-  },
-  {
-    "date": "2026-11-15",
-    "theme": "World",
-    "headline": "Update: Trump-Putin-Xi APEC Shenzhen summit Nov 18-19 confirmed — Iran war endgame on the table"
-  },
-  {
-    "date": "2026-11-15",
-    "theme": "Lebanon",
-    "headline": "Post-IMF mission banking impasse: Financial Gap Law stalled, Constitutional Council challenge looms"
-  },
-  {
-    "date": "2026-11-15",
-    "theme": "Art",
-    "headline": "Van Gogh 'Blossoming Chestnut Trees' Jewish heirs challenge Sotheby's $180M sale — restitution showdown"
-  },
-  {
     "date": "2026-11-16",
     "theme": "World",
     "headline": "SpaceX catches Starship second stage — world-first orbital ship recovery at launch tower"
@@ -408,5 +368,70 @@
     "date": "2026-11-22",
     "theme": "Art",
     "headline": "GTA VI makes $3.79B on release day — biggest media launch in history, surpasses all box-office records"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "World",
+    "headline": "Update: COP31 collapses in Antalya — EU rejects text silent on fossil fuels; first UN climate summit to end without cover deal"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "World",
+    "headline": "Economist: AI bubble question deepens — who profits? Markets in correction; quasi-Riemann hypothesis solved by AI"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "World",
+    "headline": "Saudi Arabia's $1trn PIF in identity crisis — Neom writedowns, new-deal freeze, Iran war strains Gulf sovereigns"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "World",
+    "headline": "Update: Iran-Gulf war — Bahrain and Kuwait struck; US three carrier strike groups deployed; Trump floats permanent deal"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "World",
+    "headline": "Spain Nov 29 election: last polling day today — PP+Vox set for right-wing majority; Sánchez trailing"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "Africa",
+    "headline": "BD lead: JW Marriott Lagos Victoria Island — 28-storey twin tower hotel and branded residences, procedural stage"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "bd-lead",
+    "headline": "BD lead: JW Marriott Lagos Victoria Island — 28-storey twin tower hotel and branded residences, procedural stage"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "bd-lead",
+    "headline": "BD lead: Lagos MediPark Ikoyi hospital PPP — ₦48B, 140 beds, underway, June 2028 target"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "bd-lead",
+    "headline": "BD lead: Côte d'Ivoire Abidjan sixth bridge PPP — Socoprim wins €305M toll concession"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "Lebanon",
+    "headline": "Update: 38 days to UNIFIL mandate expiry — no replacement force agreed; south Lebanon security vacuum looming"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "Lebanon",
+    "headline": "Beirut 2026 apartment prices: Achrafieh new builds up 10%+; transactions 25% below 2025; luxury thrives"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "Real Estate",
+    "headline": "Saudi PIF megaproject retreat signals Gulf real-estate slowdown; Lagos data-centre wave holds as AI demand resilient"
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "Art",
+    "headline": "Update: $2.4B auction week concludes — Blossoming Chestnut Trees and Van Gogh restitution saga resolved"
   }
 ]
