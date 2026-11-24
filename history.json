@@ -1,50 +1,5 @@
 [
   {
-    "date": "2026-11-16",
-    "theme": "World",
-    "headline": "SpaceX catches Starship second stage — world-first orbital ship recovery at launch tower"
-  },
-  {
-    "date": "2026-11-16",
-    "theme": "World",
-    "headline": "Iranian supertanker with 2 million barrels sinks in Gulf — mine suspected; Hormuz tension spike"
-  },
-  {
-    "date": "2026-11-16",
-    "theme": "World",
-    "headline": "Iran proxies drive security anxiety across UK, Germany and Netherlands — NYT"
-  },
-  {
-    "date": "2026-11-16",
-    "theme": "World",
-    "headline": "Houthi forces seize Bab al-Mandeb territory — Yemeni government forces retreat in major setback"
-  },
-  {
-    "date": "2026-11-16",
-    "theme": "World",
-    "headline": "Update: APEC Shenzhen summit opens Wednesday — Trump meets Xi on Iran war, Taiwan and trade truce"
-  },
-  {
-    "date": "2026-11-16",
-    "theme": "World",
-    "headline": "Update: Anthropic IPO roadshow week — Economist warns AI crash inevitable; ANT targets Nov 19-20"
-  },
-  {
-    "date": "2026-11-16",
-    "theme": "Africa",
-    "headline": "Update: Venezuela oil grab escalates — Nigerian revenues under pressure as cheap crude floods market"
-  },
-  {
-    "date": "2026-11-16",
-    "theme": "Lebanon",
-    "headline": "US NSA Waltz in Beirut — presses Lebanon to deliver Hezbollah disarmament before UNIFIL exits Dec 31"
-  },
-  {
-    "date": "2026-11-16",
-    "theme": "Lebanon",
-    "headline": "PM Salam in Doha for Qatar electricity deal — gas and power transmission via Syria on the table"
-  },
-  {
     "date": "2026-11-17",
     "theme": "World",
     "headline": "Update: APEC Day 1 CEO Summit — Trump, Xi and Putin trilateral set for Nov 19; Iran war and AI chips on table"
@@ -433,5 +388,55 @@
     "date": "2026-11-23",
     "theme": "Art",
     "headline": "Update: $2.4B auction week concludes — Blossoming Chestnut Trees and Van Gogh restitution saga resolved"
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "World",
+    "headline": "Jensen Huang reinstated as Nvidia CEO by Trump — S&P 500 +4.7%, Nvidia +31%; bipartisan Congressional backlash begins"
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "World",
+    "headline": "Russia war deaths top 700,000 — Meduza/Mediazona analysis of hacked Rosstat data"
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "World",
+    "headline": "Democrats clinch 258 House seats — largest majority for either party in 30 years"
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "World",
+    "headline": "Economist: Oman fragile boom from Gulf war — diverted cargo lifts ports at Sohar, Duqm, Salalah"
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "World",
+    "headline": "China fears AI will expose its nuclear forces — PLA researchers worried about deterrent vulnerability"
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "bd-lead",
+    "headline": "BD lead: Bank of Industry 27-storey HQ, Eko Atlantic — ITB Nigeria March 2026 award, 38-month build"
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "bd-lead",
+    "headline": "BD lead: Hampton by Hilton Accra Airport Ghana — IFC-backed midscale hotel Sep 2026 financing"
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "bd-lead",
+    "headline": "BD lead: Effia Nkwanta Regional Hospital redevelopment, Sekondi-Takoradi Ghana"
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "Lebanon",
+    "headline": "Lebanese banks refuse MoF Eurobond tax; Finance Ministry says no exceptions to the law"
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "Lebanon",
+    "headline": "World Bank: Lebanon reconstruction progress slow — $250M loan largely unused"
   }
 ]
