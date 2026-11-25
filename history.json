@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-11-17",
-    "theme": "World",
-    "headline": "Update: APEC Day 1 CEO Summit — Trump, Xi and Putin trilateral set for Nov 19; Iran war and AI chips on table"
-  },
-  {
-    "date": "2026-11-17",
-    "theme": "World",
-    "headline": "US closes AI chip loophole — new rule bars Chinese firms renting advanced GPUs via SE Asia data centres"
-  },
-  {
-    "date": "2026-11-17",
-    "theme": "World",
-    "headline": "Iran without a supreme leader — Economist: six generals and bureaucrats run the country as theocracy morphs into military rule"
-  },
-  {
-    "date": "2026-11-17",
-    "theme": "World",
-    "headline": "Update: Ukraine — Russia bombs winter infrastructure; Trump concession playbook stalls"
-  },
-  {
-    "date": "2026-11-17",
-    "theme": "World",
-    "headline": "Update: Anthropic IPO — $70-78/share, 825M shares, Nov 19-20 Nasdaq debut, ticker ANT"
-  },
-  {
-    "date": "2026-11-17",
-    "theme": "Africa",
-    "headline": "Update: Nigeria Ebola nearing resolution — NCDC: no new cases after 21 days; Ebola-free declaration imminent"
-  },
-  {
-    "date": "2026-11-17",
-    "theme": "France",
-    "headline": "France budget rejected by National Assembly; GDP -0.1% Q3; Lecornu leads 2027 centrist race"
-  },
-  {
-    "date": "2026-11-17",
-    "theme": "Lebanon",
-    "headline": "Update: UNIFIL transition — UN peacekeeping chief visits; LAF overstretched as Dec 31 deadline looms"
-  },
-  {
-    "date": "2026-11-17",
-    "theme": "Art",
-    "headline": "Update: Van Gogh restitution — Sotheby's meets Wertheimer heirs' lawyers; $180M sale in jeopardy"
-  },
-  {
-    "date": "2026-11-17",
-    "theme": "Art",
-    "headline": "Grammy 2027 nominations — Raye leads with 11 noms; ceremony Feb 7 2027"
-  },
-  {
     "date": "2026-11-18",
     "theme": "World",
     "headline": "Update: APEC Day 1 Shenzhen — Trump-Xi-Putin historic first trilateral; Economist: summit will shrink America"
@@ -351,11 +301,6 @@
   },
   {
     "date": "2026-11-23",
-    "theme": "Africa",
-    "headline": "BD lead: JW Marriott Lagos Victoria Island — 28-storey twin tower hotel and branded residences, procedural stage"
-  },
-  {
-    "date": "2026-11-23",
     "theme": "bd-lead",
     "headline": "BD lead: JW Marriott Lagos Victoria Island — 28-storey twin tower hotel and branded residences, procedural stage"
   },
@@ -438,5 +383,75 @@
     "date": "2026-11-24",
     "theme": "Lebanon",
     "headline": "World Bank: Lebanon reconstruction progress slow — $250M loan largely unused"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "World",
+    "headline": "Iowa Army detonates 9,700 lbs lead azide — controlled explosion, toxic cloud could affect 350 farms, 148 sq miles"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "World",
+    "headline": "Jensen Huang: I was unfaithful to Lori, I hurt my kids — first address to Nvidia staff; Economist: age of impunity"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "World",
+    "headline": "Iran declares full-scale war with US — Houthis blockade Saudi shipping; oil above $100; 11 consecutive nights of US strikes"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "World",
+    "headline": "Update: Democrats reach 259 House seats — AP calls Broderick in Minnesota"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "World",
+    "headline": "Colombia peace deal deteriorating — FARC dissidents breach ceasefire; Petro refuses military response"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "World",
+    "headline": "Economist: fiscal angst entering 2027 — UK, France, Italy, Japan face debt reckoning; euro at 17-month low"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "bd-lead",
+    "headline": "BD lead: NAMA HQ Abuja — N21.68bn contract to NHD Interbiz, February 2026; 24-month programme"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "bd-lead",
+    "headline": "BD lead: Autograph Plus Hotel Lagos Island — Cruxstone + BCL joint venture, April 2026; Marriott upper midscale"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "bd-lead",
+    "headline": "BD lead: Ekiti Knowledge Zone Ado-Ekiti — $80M federal tech park; construction commenced Q3 2026"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "France",
+    "headline": "France fiscal reckoning — debt 119% GDP, euro 17-month low, Le Pen leading 2027 polls"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "Lebanon",
+    "headline": "Lebanon IMF programme pushed to Q1 2027 — bank-MoF standoff deepens; Qatar power-deal progress stalls"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "Lebanon",
+    "headline": "Update: UNIFIL mandate expires 36 days — no replacement force in sight; LAF overextended in south"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "direct-impact-lebanon",
+    "headline": "VAT Q3 2026 deadline — 5 days away; Nov 30 is Sunday; effective cut-off may be Friday 28 Nov"
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "direct-impact-lebanon",
+    "headline": "Second consecutive Wednesday bank strike (25 Nov) — Lebanese banks closed today; next Wed 2 Dec"
   }
 ]
