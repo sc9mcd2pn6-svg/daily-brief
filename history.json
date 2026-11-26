@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-11-18",
-    "theme": "World",
-    "headline": "Update: APEC Day 1 Shenzhen — Trump-Xi-Putin historic first trilateral; Economist: summit will shrink America"
-  },
-  {
-    "date": "2026-11-18",
-    "theme": "World",
-    "headline": "US loses measles elimination status after 26 years — 7,700+ cases, 10 deaths; PAHO strips designation"
-  },
-  {
-    "date": "2026-11-18",
-    "theme": "World",
-    "headline": "Ukraine significantly damages Kerch Bridge in overnight strike — large section collapses"
-  },
-  {
-    "date": "2026-11-18",
-    "theme": "World",
-    "headline": "Update: Nvidia posts first-ever $100B quarter — board rules out Jensen Huang return; daughter role unsettles interim CEO"
-  },
-  {
-    "date": "2026-11-18",
-    "theme": "World",
-    "headline": "AI discovers critical Java zero-day; NSA network, Chase Bank and air traffic all fail in same week"
-  },
-  {
-    "date": "2026-11-18",
-    "theme": "Africa",
-    "headline": "Update: WHO formally rejects Nigeria Ebola-free claims — December 7 earliest for official declaration"
-  },
-  {
-    "date": "2026-11-18",
-    "theme": "Africa",
-    "headline": "Africa solar revolution powers data-centre boom — Economist, South Africa Teraco 120MW, Algeria 1.48GW cluster"
-  },
-  {
-    "date": "2026-11-18",
-    "theme": "Lebanon",
-    "headline": "Post-IMF mission: more banking reform work needed; Financial Gap Law stalled; Eurobonds holding firm"
-  },
-  {
-    "date": "2026-11-18",
-    "theme": "Lebanon",
-    "headline": "Update: UNIFIL 43 days from mandate expiry — Hezbollah disarmament unresolved; EUSML planning underway"
-  },
-  {
-    "date": "2026-11-18",
-    "theme": "Art",
-    "headline": "Robert Pattinson confirmed as next James Bond — $23B franchise picks 'petulant losers' specialist"
-  },
-  {
     "date": "2026-11-19",
     "theme": "World",
     "headline": "Update: Trump, Putin and Xi historic first trilateral at Shenzhen APEC — nuclear arms, Iran war, AI chips dominate"
@@ -453,5 +403,80 @@
     "date": "2026-11-25",
     "theme": "direct-impact-lebanon",
     "headline": "Second consecutive Wednesday bank strike (25 Nov) — Lebanese banks closed today; next Wed 2 Dec"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "World",
+    "headline": "Macy's Thanksgiving parade postponed in first 100-year change — storm with 58mph gusts grounds balloons, moves to Saturday"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "World",
+    "headline": "Trump proposes sweeping new tariffs on China, Japan, EU — another attempt after Supreme Court struck down earlier round"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "World",
+    "headline": "Shanghai party boss Chen Jining purged from Xi Jinping's top team — sudden, high-profile removal"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "World",
+    "headline": "Starshield throttling Ukraine drones; Musk shifts blame to US government; Economist: strains belief anyone else gave the order"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "World",
+    "headline": "Economist: Iran-Gulf 'long cold war' — talks stalled on 7-condition demand; Hormuz risk persists through 2027"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "World",
+    "headline": "Huawei convicted of stealing trade secrets in US federal trial — major DoJ victory"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "Africa",
+    "headline": "BD lead: Côte d'Ivoire Yopougon University Hospital phase 2 — Bouygues/SETAO €95M, 21 months from July 2026"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "Africa",
+    "headline": "BD lead: Côte d'Ivoire national data centre Abidjan — Cybastion $66M, US ExIm backed, 20%+ complete, 2027 target"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "Africa",
+    "headline": "BD lead: Ferkessédougou Regional Hospital PPP, Côte d'Ivoire — EBID €80M, 150 beds, financing approved July 2026"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "Lebanon",
+    "headline": "Update: Bank-MoF Eurobond standoff week five; banks open Mon–Fri except Wednesdays; next strike Dec 2"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "Lebanon",
+    "headline": "Eisenkot ally says Israeli opposition making progress on government to oust Netanyahu — could change Lebanon ceasefire dynamics"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "Real Estate",
+    "headline": "London: 200-year St John's Wood barracks converted to 120 luxury residences"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "direct-impact-lebanon",
+    "headline": "Update: Lebanon VAT Q3 deadline Nov 30 is a Monday (correction to yesterday) — effective cut-off is Monday 30 Nov, banks open"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "direct-impact-lebanon",
+    "headline": "Finance Minister proposes exempting industrialists from waste fee — draft covers customs codes 322/522"
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "direct-impact-nigeria",
+    "headline": "Nigeria NRS e-invoicing: medium taxpayer enforcement from January 2027 — QSS must verify compliance now"
   }
 ]
