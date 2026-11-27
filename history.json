@@ -1,55 +1,5 @@
 [
   {
-    "date": "2026-11-19",
-    "theme": "World",
-    "headline": "Update: Trump, Putin and Xi historic first trilateral at Shenzhen APEC — nuclear arms, Iran war, AI chips dominate"
-  },
-  {
-    "date": "2026-11-19",
-    "theme": "World",
-    "headline": "Update: Anthropic ANT debuts on Nasdaq at $83/share — largest public benefit corp, $1.4T valuation"
-  },
-  {
-    "date": "2026-11-19",
-    "theme": "World",
-    "headline": "Hakeem Jeffries nominated as first Black House Speaker — Democrats take both chambers from January"
-  },
-  {
-    "date": "2026-11-19",
-    "theme": "World",
-    "headline": "Iran digs in after Republican midterm losses — fresh missiles at Gulf Arab states, peace talks stall"
-  },
-  {
-    "date": "2026-11-19",
-    "theme": "France",
-    "headline": "Update: France nationwide strike after budget rejection — Lecornu survives no-confidence, GDP -0.1% Q3"
-  },
-  {
-    "date": "2026-11-19",
-    "theme": "Africa",
-    "headline": "Nigeria power minister: half of 13,000MW never reaches consumers — data-centre grid reliability at risk"
-  },
-  {
-    "date": "2026-11-19",
-    "theme": "Lebanon",
-    "headline": "Update: IMF Financial Gap Law in special committee; Eurobonds holding firm despite banking stalemate"
-  },
-  {
-    "date": "2026-11-19",
-    "theme": "Art",
-    "headline": "Frieze Abu Dhabi inaugural opens — 84 galleries from 37 countries, first Frieze in MENA"
-  },
-  {
-    "date": "2026-11-19",
-    "theme": "Art",
-    "headline": "Contested Frida Kahlo painting withdrawn from Christie's hours before auction — stolen from Casa Azul claim"
-  },
-  {
-    "date": "2026-11-19",
-    "theme": "Real Estate",
-    "headline": "Beirut 2026 Achrafieh/Ras Beirut hold, Downtown softens — Ramco market 'mixed' report"
-  },
-  {
     "date": "2026-11-20",
     "theme": "World",
     "headline": "ICJ rules Myanmar guilty of genocide — first state ever held to account under Genocide Convention in 80-year history"
@@ -478,5 +428,65 @@
     "date": "2026-11-26",
     "theme": "direct-impact-nigeria",
     "headline": "Nigeria NRS e-invoicing: medium taxpayer enforcement from January 2027 — QSS must verify compliance now"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "World",
+    "headline": "Economist cover: Humanoid robots capabilities doubling every 2 months — will displace builders, electricians; land and energy become far more valuable"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "World",
+    "headline": "Trump imposes 10–12.5% tariffs on dozens of countries as 10% stopgap expires"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "World",
+    "headline": "Update: Israeli opposition sets Dec 6 hard deadline — Eisenkot allies say on track to oust Netanyahu"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "World",
+    "headline": "Spain election Nov 29: PP-Vox polling for first right-wing majority in a decade"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "World",
+    "headline": "Update: Anthropic ANT continues to slide — NYT warns IPO drop could hurt all AI tech startups"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "World",
+    "headline": "ECB: Lagarde confirmed Feb 7 2027 exit; succession race enters December crunch"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "Africa",
+    "headline": "Africa CDC director faces revolt amid Ebola crisis — fund mismanagement and intimidation alleged"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "bd-lead",
+    "headline": "BD lead: Airtel Africa Nxtra 38MW Hyperscale Data Centre, Eko Atlantic Lagos — $120M, construction underway"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "bd-lead",
+    "headline": "BD lead: Open Access Data Centres $240M 24MW Tier IV campus, Lagos — dual 12MW phases in development"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "bd-lead",
+    "headline": "BD lead: Ogun Deep Seaport groundbreaking November 2026; Bakassi seaport (Cross River) broke ground Nov 13"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "Lebanon",
+    "headline": "Update: UNIFIL mandate confirmed Dec 31 — 34 days to exit, no successor force agreed"
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "Lebanon",
+    "headline": "Lebanon bank-MoF standoff deepens; Eurobond tax dispute, Dec 15 revised deadline; IMF program firmly Q1 2027"
   }
 ]
