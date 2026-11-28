@@ -1,50 +1,5 @@
 [
   {
-    "date": "2026-11-20",
-    "theme": "World",
-    "headline": "ICJ rules Myanmar guilty of genocide — first state ever held to account under Genocide Convention in 80-year history"
-  },
-  {
-    "date": "2026-11-20",
-    "theme": "World",
-    "headline": "Economist cover: 'Axis of malice' — China/Russia/Iran/NK collusion deepens as the defining geopolitical threat"
-  },
-  {
-    "date": "2026-11-20",
-    "theme": "World",
-    "headline": "Trump Inc. in free fall — Trump Media -70% YTD, MELANIA token -99.6%, investors flee president-linked assets"
-  },
-  {
-    "date": "2026-11-20",
-    "theme": "World",
-    "headline": "Update: Anthropic ANT hits $97/share on debut, $1.7T valuation — fastest-ever public company to trillion-dollar market cap"
-  },
-  {
-    "date": "2026-11-20",
-    "theme": "World",
-    "headline": "Update: Ukraine — Kerch Bridge rail halt after Ukrainian strike; EU proposes $89B fresh loan"
-  },
-  {
-    "date": "2026-11-20",
-    "theme": "Africa",
-    "headline": "Nigeria CBN mandates payment data localization by Jan 2027 — 90%+ of fintechs off foreign cloud, Lagos data-centre demand catalyst"
-  },
-  {
-    "date": "2026-11-20",
-    "theme": "Lebanon",
-    "headline": "Qatar-Lebanon power deal advancing — 1,650MW in two new plants plus 20-year LNG deal; PM Salam Doha visit shows significant progress"
-  },
-  {
-    "date": "2026-11-20",
-    "theme": "Lebanon",
-    "headline": "Lebanese Eurobonds hold firm despite IMF stalemate and UNIFIL security concerns — L'Orient Today"
-  },
-  {
-    "date": "2026-11-20",
-    "theme": "France",
-    "headline": "France approves social security budget; main budget blocked; Lecornu survives no-confidence but governs without majority"
-  },
-  {
     "date": "2026-11-21",
     "theme": "World",
     "headline": "AI selloff wipes $1 trillion — S&P and Dow enter correction after worst week since 2020"
@@ -488,5 +443,60 @@
     "date": "2026-11-27",
     "theme": "Lebanon",
     "headline": "Lebanon bank-MoF standoff deepens; Eurobond tax dispute, Dec 15 revised deadline; IMF program firmly Q1 2027"
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "World",
+    "headline": "Update: Iran-Gulf — Trump warns of nuclear strikes on Iran sites; Italian victims in Kuwait drone attack; Iran vows to break blockade"
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "World",
+    "headline": "Spain votes tomorrow (29 Nov) — PP+Vox at 202 seats projected; first right-wing majority possible since 2015"
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "World",
+    "headline": "US Air Force cloud platform hacked — major cyberattack on US military infrastructure; Russian sabotage in Europe up 16%"
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "World",
+    "headline": "Taiwan local elections 2026 — DPP retains Taipei; KMT gains ground in central and southern counties"
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "World",
+    "headline": "Falklands/Milei — Argentina presses sovereignty claim at UN; UK government rejects talks"
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "bd-lead",
+    "headline": "BD lead: Nigerian Navy Hospital Asokoro Abuja — federal military hospital construction underway since May 2026"
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "bd-lead",
+    "headline": "BD lead: Abuja Continental hotel renovation — multi-storey hotel refurbishment Abuja, Sep 2026"
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "Lebanon",
+    "headline": "Update: Bank-MoF Eurobond standoff — banks closed Wednesday; Dec 2 next strike; Dec 15 tax deadline unchanged"
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "Lebanon",
+    "headline": "Update: UNIFIL 33 days to mandate expiry — no replacement force agreed; LAF overextended in south"
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "Sport",
+    "headline": "Marc Márquez MotoGP retirement — 8-time world champion announces end of racing career"
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "Art",
+    "headline": "Hoor Al-Qasimi appointed Venice Biennale 2028 director — first Arab woman to lead major international art event"
   }
 ]
